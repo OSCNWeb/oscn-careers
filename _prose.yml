@@ -1,8 +1,11 @@
 prose:
-  rooturl: '_posts'
   media: 'media'
   metadata:
     _posts:
+      - name: "jobid"
+        field:
+          element: "hidden"
+          value: "CURRENT_DATETIME"		  
       - name: "layout"
         field:
           element: "hidden"
@@ -21,6 +24,14 @@ prose:
           element: "text"
           label: "Expiration Date"
           value: "CURRENT_DATETIME"
+      - name: "sub_category"
+        field:
+          element: "multiselect"
+          label: "Sub Category"
+          help: ""
+          options:
+            - name: "ACC"
+              value: "ACC"
       - name: "category"
         field:
           element: "multiselect"
