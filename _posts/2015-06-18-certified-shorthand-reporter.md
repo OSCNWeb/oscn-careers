@@ -7,3 +7,14 @@ category: csr
 sub_category: 
 layout: career
 ---
+<p><strong>Position:</strong> Certified Shorthand Reporter<br>
+<strong>Start Date:</strong> Immediate<br>
+<strong>Location:</strong> Payne County Courthouse<br>
+<strong>Hiring Official:</strong> Associate District Judge<br>
+<strong>Salary:</strong> Pursuant to Statute  <br>
+<strong>Benefits:</strong> State Employment
+Necessary Qualifications: Certified by the Oklahoma CSR Board as required by Oklahoma Statutes  
+</p>
+<p><strong>Please contact:</strong><br>
+Shelley Phillips<br>
+<strong>Phone:</strong> 405-372-4380</p>

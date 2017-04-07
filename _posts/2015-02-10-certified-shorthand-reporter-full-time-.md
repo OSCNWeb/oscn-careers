@@ -7,3 +7,4 @@ category: csr
 sub_category: 
 layout: career
 ---
+<p><strong>Position:</strong> Certified Shorthand Reporter - (Full Time)<br><strong>Location:</strong> Tulsa-Courthouse Court Reporter Pool<br><strong>Hiring Official:</strong> Trial Court Administrator<br><strong>Salary:</strong> Pursuant to Statute<br><strong>Benefits:</strong> State Employment<br><strong>Necessary Qualifications:</strong> Certified by the Oklahoma CSR Boardand as required by Oklahoma statute. </p><p><strong>Resumes should be directed to:</strong><br>Vicki A. Cox<br>Tulsa County Courthouse<br>500 S. Denver, Rm. 637<br>Tulsa, OK  74103<br><a href="mailto:vicki.cox@oscn.net">vicki.cox@oscn.net</a><br>(918) 596-5400</p>
