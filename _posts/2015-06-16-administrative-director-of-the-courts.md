@@ -5,6 +5,8 @@ publish: 2015-06-16 12:00 -0500
 expire: 2015-07-15 05:00 -0500
 category: aoc
 sub_category: AOC
+location: Oklahoma City
+hrlogic: 20
 layout: career
 ---
 <p><strong>Position:</strong> Administrative Director of the Courts</p>

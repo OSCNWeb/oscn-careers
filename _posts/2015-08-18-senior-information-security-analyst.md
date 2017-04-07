@@ -5,6 +5,8 @@ publish: 2015-08-18 12:00 -0500
 expire: 2016-02-10 12:00 -0500
 category: mis
 sub_category: AOC
+location: 
+hrlogic: 20
 layout: career
 ---
 <p>The Administrative Office of the Courts is in the process of developing a statewide, unified, multi-jurisdictional Case Management System across the Oklahoma Judiciary.  Requirements analysis and the Joint Applications Design have been completed and we are seeking, eager, talented, self-motivated individuals to join our MIS team to take the construction and implementation of the Oklahoma Case Management System (CMS) forward.  In this capacity, you will have the opportunity to collaborate with a highly experienced team and join them in influencing the implementation of the statewide CMS application by implementing and administering a comprehensive information security program to ensure the integrity, confidentiality, and availability of court information.  If you would like to bring your talents to bear in the exciting and challenging effort ahead of us, please submit your cover letter and resume for consideration as described below.</p>

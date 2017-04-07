@@ -5,6 +5,8 @@ publish: 2016-10-20 12:00 -0500
 expire: 2017-01-20 12:00 -0500
 category: csr
 sub_category: DISTRICT
+location: Tulsa County
+hrlogic: 3
 layout: career
 ---
 <p><strong>Position:</strong> Certified Shorthand Reporter - (Full Time)<br>

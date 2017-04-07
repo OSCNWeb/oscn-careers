@@ -5,6 +5,8 @@ publish: 2016-07-06 12:00 -0500
 expire: 2017-07-14 12:00 -0500
 category: csr
 sub_category: DISTRICT
+location: Washington County
+hrlogic: 3
 layout: career
 ---
 <p><strong>Position:</strong> Certified Shorthand Reporter<br>

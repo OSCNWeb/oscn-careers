@@ -7,6 +7,8 @@ publish: 2016-04-13 12:00 -0500
 expire: 2016-04-25 12:00 -0500
 category: acc
 sub_category: ACC
+location: Oklahoma City
+hrlogic: 20
 layout: career
 ---
 <p>The Oklahoma Clerk of the Appellate Courts Office is seeking a self-motivated person to join the organization as a <strong>Deputy Supreme Court Clerk</strong>. The <strong>Deputy Supreme Court Clerk</strong> should possess the skills necessary to provide operational support for the Clerk of the Appellate Courts Office.  The Deputy Supreme Court Clerk performs specialized clerical and administrative work in an office that involves interacting with the public, processing initial filings, continuances, judgments and maintaining case documentation.</p>

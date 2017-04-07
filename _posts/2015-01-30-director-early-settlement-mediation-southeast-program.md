@@ -5,6 +5,8 @@ publish: 2015-01-30 12:00 -0500
 expire: 2015-03-06 12:00 -0500
 category: adr
 sub_category: 
+location: 
+hrlogic: 20
 layout: career
 ---
 <p>The Early Settlement Mediation program is accepting applications for a full-time Director of the Early Settlement Mediation – Southeast Program. The program office is currently located in the Kiamichi Technology Center, Wilburton campus, but will be relocated to another sponsor beginning July 1, 2015.</p>

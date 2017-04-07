@@ -5,6 +5,8 @@ publish: 2017-03-27 12:00 -0500
 expire: 
 category: acc
 sub_category: ACC
+location: Oklahoma City
+hrlogic: 20
 layout: career
 ---
 <p style="text-align: center;">The Oklahoma Supreme Court<br>

@@ -5,6 +5,8 @@ publish: 2015-05-15 12:00 -0500
 expire: 2015-10-15 12:00 -0500
 category: csr
 sub_category: 
+location: Garfield County
+hrlogic: 3
 layout: career
 ---
 <p><strong>Certified Shorthand Reporter</strong></p>

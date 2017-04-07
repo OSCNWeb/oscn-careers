@@ -5,6 +5,8 @@ publish: 2015-01-27 12:00 -0500
 expire: 2015-02-06 05:00 -0500
 category: county
 sub_category: 
+location: Tulsa County
+hrlogic: 4
 layout: career
 ---
 <p><strong>Division/Department:</strong> Tulsa County District Court/Juvenile Division<br>

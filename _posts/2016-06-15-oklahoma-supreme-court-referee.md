@@ -5,6 +5,8 @@ publish: 2016-06-15 12:00 -0500
 expire: 2016-08-01 12:00 -0500
 category: supreme
 sub_category: SUP
+location: Oklahoma City
+hrlogic: 20
 layout: career
 ---
 <p>The Oklahoma Supreme Court is now accepting applications for the position of Referee. A Referee is a central staff position. Referees draft memos and make recommendations to the Court on petitions for certiorari to review opinions of the Court of Civil Appeals , conduct oral presentations on applications to assume original jurisdiction and additional duties as determined by the Court. Applicants must be currently licensed to practice law in the State of Oklahoma, have a minimum of 5 years experience as a practicing lawyer or judge, and have excellent legal research and writing skills. </p>

@@ -5,6 +5,8 @@ publish: 2016-11-30 12:00 -0500
 expire: 2016-12-07 12:00 -0500
 category: mis
 sub_category: AOC
+location: Oklahoma City
+hrlogic: 20
 layout: career
 ---
 <p>The Administrative Office of the Courts (AOC) is seeking a self-motivated person to join the organization as an Inventory Control Technician Intern.  The Inventory Control Technician Intern should possess the skills necessary to provide operational support for the information systems of the Administrative Office of the Courts.</p>

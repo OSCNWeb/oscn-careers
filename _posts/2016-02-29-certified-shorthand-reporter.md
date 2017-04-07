@@ -5,6 +5,8 @@ publish: 2016-02-29 12:00 -0500
 expire: 2016-04-04 12:00 -0500
 category: csr
 sub_category: DISTRICT
+location: Creek County
+hrlogic: 3
 layout: career
 ---
 <p>

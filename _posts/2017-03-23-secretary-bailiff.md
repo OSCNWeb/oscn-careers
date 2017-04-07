@@ -5,6 +5,8 @@ publish: 2017-03-23 12:00 -0500
 expire: 2017-03-23 12:00 -0500
 category: bailiffs
 sub_category: DISTRICT
+location: Oklahoma County
+hrlogic: 2
 layout: career
 ---
 <p><strong>Position:</strong> Secretary/Bailiff<br>

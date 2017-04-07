@@ -5,6 +5,8 @@ publish: 2016-03-09 12:00 -0500
 expire: 2016-06-09 12:00 -0500
 category: csr
 sub_category: DISTRICT
+location: First Judicial District  (Cimarron, Texas, Beaver and Harper Counties)
+hrlogic: 3
 layout: career
 ---
 <p><strong>Position:</strong> Certified Shorthand Reporter<br>

@@ -5,6 +5,8 @@ publish: 2015-12-15 12:00 -0500
 expire: 2016-01-08 05:00 -0500
 category: judicial
 sub_category: DISTRICT
+location: Tulsa County
+hrlogic: 1
 layout: career
 ---
 <p>Applications are being accepted for the office of:</p>

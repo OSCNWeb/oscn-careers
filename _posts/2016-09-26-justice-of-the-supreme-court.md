@@ -5,6 +5,8 @@ publish: 2016-09-26 12:00 -0500
 expire: 2016-12-09 12:00 -0500
 category: Supreme
 sub_category: JNC
+location: Oklahoma City
+hrlogic: 20
 layout: career
 ---
 <div class="vacant">

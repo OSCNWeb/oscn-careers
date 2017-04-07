@@ -5,6 +5,8 @@ publish: 2015-05-10 12:00 -0500
 expire: 2015-06-15 12:00 -0500
 category: csr
 sub_category: 
+location: Murray County
+hrlogic: 3
 layout: career
 ---
 <p><strong>Position:</strong> Certified Shorthand Reporter<br>

@@ -5,6 +5,8 @@ publish: 2016-10-04 12:00 -0500
 expire: 2016-11-15 12:00 -0500
 category: District
 sub_category: JNC
+location: Oklahoma County
+hrlogic: 20
 layout: career
 ---
 <div class="vacant">

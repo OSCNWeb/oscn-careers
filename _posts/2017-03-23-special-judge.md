@@ -5,6 +5,8 @@ publish: 2017-03-23 12:00 -0500
 expire: 2017-05-10 12:00 -0500
 category: judicial
 sub_category: DISTRICT
+location: Oklahoma County
+hrlogic: 1
 layout: career
 ---
 <p><strong>Applications are now being accepted for the position of Special Judge.</strong></p>

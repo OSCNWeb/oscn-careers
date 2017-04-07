@@ -5,6 +5,8 @@ publish: 2015-06-18 12:00 -0500
 expire: 2016-02-01 12:00 -0500
 category: csr
 sub_category: 
+location: Payne County
+hrlogic: 3
 layout: career
 ---
 <p><strong>Position:</strong> Certified Shorthand Reporter<br>

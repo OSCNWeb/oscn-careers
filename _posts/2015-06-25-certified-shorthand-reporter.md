@@ -5,6 +5,8 @@ publish: 2015-06-25 12:00 -0500
 expire: 2015-09-25 12:00 -0500
 category: csr
 sub_category: 
+location: Woodward County
+hrlogic: 3
 layout: career
 ---
 <p><strong>Position:</strong> Certified Shorthand Reporter for 4th Judicial District<br>

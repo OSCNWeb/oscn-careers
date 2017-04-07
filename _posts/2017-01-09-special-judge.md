@@ -5,6 +5,8 @@ publish: 2017-01-09 12:00 -0500
 expire: 2017-02-13 12:00 -0500
 category: judicial
 sub_category: DISTRICT
+location: Oklahoma County
+hrlogic: 1
 layout: career
 ---
 <p>Due to the passing of Judge John Jacobsen, applications are now being accepted for the position of Special Judge. </p>

@@ -5,6 +5,8 @@ publish: 2015-03-11 12:00 -0500
 expire: 2015-05-01 12:00 -0500
 category: judicial
 sub_category: 
+location: Pottawatomie County
+hrlogic: 1
 layout: career
 ---
 <p>The Judicial Nominating Commission seeks applicants to fill the following judicial office:</p>

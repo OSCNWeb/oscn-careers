@@ -5,6 +5,8 @@ publish: 2015-08-07 12:00 -0500
 expire: 2015-12-14 12:00 -0500
 category: csr
 sub_category: 
+location: Grady County
+hrlogic: 3
 layout: career
 ---
 <p><strong>Position:</strong> Certified Shorthand Reporter with some Bailiff duties - Special Judge Timothy A. Brauer<br>

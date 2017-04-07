@@ -52,3 +52,9 @@ prose:
               value: "county"
             - name: "Supreme Court"
               value: "supreme"
+      - name: "hrlogic"
+        field:
+          element: "hidden"
+          label: "Order"
+          Help: "todo:"
+          value: ""
