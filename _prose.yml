@@ -24,14 +24,6 @@ prose:
           element: "text"
           label: "Expiration Date"
           value: "CURRENT_DATETIME"
-      - name: "sub_category"
-        field:
-          element: "multiselect"
-          label: "Sub Category"
-          help: ""
-          options:
-            - name: "ACC"
-              value: "ACC"
       - name: "category"
         field:
           element: "multiselect"
@@ -52,6 +44,20 @@ prose:
               value: "county"
             - name: "Supreme Court"
               value: "supreme"
+      - name: "sub_category"
+        field:
+          element: "multiselect"
+          label: "Sub Category"
+          help: "Will be deprecated"
+          options:
+            - name: "District"
+              value: "DISTRICT"			  
+            - name: "Administraive Office of the Courts"
+              value: "AOC"			  
+            - name: "JNC"
+              value: "JNC"			  
+            - name: "Supreme Court"
+              value: "SUP"			  
       - name: "location"
         field:
           element: "text"
