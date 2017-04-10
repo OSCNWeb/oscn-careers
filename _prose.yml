@@ -16,7 +16,7 @@ prose:
           label: "title"
       - name: "published"
         field:
-          element: "checkbox"
+          element: "hidden"
           label: "Published"
           value: true
       - name: "publish"
