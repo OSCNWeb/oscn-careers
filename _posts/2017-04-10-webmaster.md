@@ -5,11 +5,11 @@ publish: '2017-04-10 11:42 -0500'
 expire: '2017-07-10 11:42 -0500'
 published: false
 title: Webmaster
-category:
-  - aoc
 sub_category:
   - AOC
 location: Oklahoma City
+category:
+  - mis
 ---
 ## A New Post
 
