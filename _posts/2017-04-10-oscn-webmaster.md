@@ -17,3 +17,6 @@ Skills:
  
 Education:
  - Yes, Please
+ 
+Benefits:
+ - Awesome.
