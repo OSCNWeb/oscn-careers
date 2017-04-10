@@ -16,9 +16,9 @@ The Administrative Office of the Courts (AOC) is seeking a self-motivated person
 **Position Description:**
 This position will report to the Network Manager and is responsible for the Supreme Court’s network infrastructure which includes: network security, core switching, core routing, wireless, IP phones, and WAN/LAN. The **Network Administrator** will be in charge of ensuring that the network services are adequate for the needs of the organization. The **Network Administrator** will also be responsible for designing and implementing a new network architecture while invoking security practices. 
 
-The Network Administrator will utilize their abilities to "future proof" the organizations network infrastructure to meet the ever-growing demands of tomorrow.  The employee must understand the organization's strategic goals and institute a network architecture to meet those requirements.   
+The **Network Administrator** will utilize their abilities to "future proof" the organizations network infrastructure to meet the ever-growing demands of tomorrow. The employee must understand the organization's strategic goals and institute a network architecture to meet those requirements.   
 
-The **Network Administrator** will possess an independent free thinking persona that can effectively present ideas to management and colleagues.  Additionally, the Network Administrator will possess the ability to exercise good judgment while handling daily activities and implementations, the ability to discern risks associated with production changes, and to follow the AOC change management process.    
+The **Network Administrator** will possess an independent free thinking persona that can effectively present ideas to management and colleagues.  Additionally, the **Network Administrator** will possess the ability to exercise good judgment while handling daily activities and implementations, the ability to discern risks associated with production changes, and to follow the AOC change management process.    
 
 The **Network Administrator** will possess the ability to identify problems and create solutions; and possess a good understanding of current technologies as well as future concepts and industry trends.  
 
