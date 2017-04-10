@@ -18,7 +18,7 @@ prose:
         field:
           element: "checkbox"
           label: "Published"
-          value: "true"
+          value: true
       - name: "publish"
         field:
           element: "text"
