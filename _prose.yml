@@ -13,7 +13,11 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "title"		  
+          label: "title"
+      - name: "published"
+        field:
+          element: "checkbox"
+          value: "true"
       - name: "publish"
         field:
           element: "text"
