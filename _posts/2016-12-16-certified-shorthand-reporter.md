@@ -5,7 +5,7 @@ layout: career
 jobid: 81
 title: Certified Shorthand Reporter
 publish: '2016-12-16 12:00 -0500'
-expire: '2017-07-16 12:00 -0500'
+expire: '2017-08-16 12:00 -0500'
 category:
   - csr
 sub_category:
