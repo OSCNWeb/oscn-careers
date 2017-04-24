@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: career
 jobid: '2017-04-11 12:14 -0500'
 publish: '2017-04-11 12:14 -0500'
@@ -9,6 +9,7 @@ category:
 sub_category:
   - AOC
 location: Oklahoma City
+expire: '2017-04-24 10:33 -0500'
 ---
 The Administrative Office of the Courts is in the process of developing a statewide, unified, multi-jurisdictional Case Management System across the Oklahoma Judiciary.  Requirements analysis and the Joint Applications Design have been completed and we are seeking, eager, talented, self-motivated individuals to join our MIS team to take the construction and implementation of the Oklahoma Case Management System (OCMS) forward.  In this capacity, you will have the opportunity to collaborate with a highly experienced team and join them in influencing the implementation of the statewide OCMS application by collaborating on the vision and design of the application architecture of the Oklahoma Case Management System.  If you would like to bring your talents to bear in the exciting and challenging effort ahead of us, please submit your cover letter and resume for consideration as described below.
 
@@ -64,6 +65,3 @@ The Information Systems Architect is responsible for designing architecture for 
 - Five years of architectural experience in a Microsoft environment.
 - Experience developing strategic infrastructure.
 - Experience in deployment/maintaining system life cycle development.
-
-
-
