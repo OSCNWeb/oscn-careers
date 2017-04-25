@@ -1,5 +1,6 @@
 ---
 hrlogic: 20
+published: true
 layout: career
 jobid: 90
 title: Clerk of the Supreme Court
@@ -9,7 +10,7 @@ category:
 sub_category:
   - ACC
 location: Oklahoma City
-published: true
+expire: '2017-04-25 15:59 -0500'
 ---
 <p style="text-align: center;">The Oklahoma Supreme Court<br>
 is accepting applications<br>
@@ -24,4 +25,3 @@ the Court on the Judiciary.</p>
 than Monday, April 20, 2017 by 5:00 p.m. to the Office of the Chief
 Justice, c/o Vickie Campbell, Oklahoma Judicial Center, 2100 N. Lincoln
 Blvd., Oklahoma City, Oklahoma, 73105.</p>
-
