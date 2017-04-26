@@ -1,13 +1,16 @@
 ---
-title: 'Senior Business Analyst '
-jobid: 71
-publish: 2016-09-20 12:00 -0500
-expire: 
-category: mis
-sub_category: AOC
-location: Oklahoma City
 hrlogic: 20
+published: true
 layout: career
+jobid: 71
+title: 'Senior Business Analyst '
+publish: '2016-09-20 12:00 -0500'
+category:
+  - mis
+sub_category:
+  - AOC
+location: Oklahoma City
+expire: '2017-04-25 12:00 -0500'
 ---
 <p>The Administrative Office of the Courts is in the process of developing a statewide, unified, multi-jurisdictional Case Management System across the Oklahoma Judiciary.  Requirements analysis and the Joint Applications Design have been completed and we are seeking, eager, talented, self-motivated individuals to join our MIS team to take the construction and implementation of the Oklahoma Case Management System (CMS) forward.  In this capacity, you will have the opportunity to collaborate with a highly experienced team and join them in influencing the implementation of the statewide CMS application by liaising with the end users of the Oklahoma courts to represent their requirements in the design, configuration, implementation, and administration of a state-of-the-art case management system.  If you would like to bring your talents to bear in the exciting and challenging effort ahead of us, please submit your cover letter and resume for consideration as described below.</p>
 <p>The Administrative Office of the Courts (AOC) is looking for a self-motivated person to join the organization as a <strong>Senior Business Analyst</strong>. The <strong>Senior Business Analyst</strong> should possess the skills necessary to act as a liaison between the MIS Department and the end-users of the Oklahoma courts as the Court develops and implements statewide systems that support the Oklahoma judiciary.</p>
