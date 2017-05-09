@@ -8,7 +8,7 @@ sub_category:
   - JNC
 location: Oklahoma City
 category:
-  - supreme
+  - Crim
 ---
 <div class="vacant">
 <div class="rup-head">
