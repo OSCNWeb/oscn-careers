@@ -6,7 +6,7 @@ publish: '2017-05-09 11:58 -0500'
 title: Judge of the Court of Criminal Appeals
 sub_category:
   - JNC
-location: Oklahoma City
+location: One
 category:
   - Crim
 ---
