@@ -9,6 +9,7 @@ sub_category:
 location: One
 category:
   - Crim
+expire: '2017-05-09 12:37 -0500'
 ---
 <div class="vacant">
 <div class="rup-head">
@@ -20,7 +21,7 @@ category:
 <div class="rup-body">
 <p>This vacancy is created by the retirement of the Honorable Clancy Smith effective June 1, 2017.</p>
 <p class="innervacant" style="text-align: justify;"><strong>
-To be appointed to the office of Judge of the Court of Criminal Appeals an individual must have been a qualified elector of the judicial district applicable, as opposed to a registered voter, for **one year** immediately prior to his or her appointment, and additionally, must be at least 30 years of age and have been a licensed attorney, practicing law within the State of Oklahoma, or serving as a judge of a court of record in Oklahoma, or both, for **five years** preceding his/her appointment.
+To be appointed to the office of Judge of the Court of Criminal Appeals an individual must have been a qualified elector of the judicial district applicable, as opposed to a registered voter, for <strong>one year</strong> immediately prior to his or her appointment, and additionally, must be at least 30 years of age and have been a licensed attorney, practicing law within the State of Oklahoma, or serving as a judge of a court of record in Oklahoma, or both, for <strong>five years</strong> preceding his/her appointment.
 </strong></p>
 <p>Application forms can be obtained on line at www.oscn.net  under the link to Judicial Nominating Commission, or by contacting Tammy Reaves, Administrative Office of the Courts, 2100 N. Lincoln, Suite 3, Oklahoma City, Oklahoma  73105, (405) 556-9862. Applications must be submitted to the Chairman of the Commission at the same address 
 <strong>no later than 5:00 p.m., Friday, June 16, 2017. If applications are mailed, they must be postmarked by midnight, June 16, 2017.
