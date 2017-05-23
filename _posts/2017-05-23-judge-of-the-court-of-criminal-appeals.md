@@ -7,6 +7,8 @@ expire: '2017-07-22 13:23 -0500'
 title: Judge of the Court of Criminal Appeals
 sub_category:
   - JNC
+category:
+  - Crim
 location: Four
 ---
 <div class="vacant">
