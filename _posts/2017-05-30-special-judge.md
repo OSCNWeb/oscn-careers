@@ -9,6 +9,7 @@ category:
 sub_category:
   - DISTRICT
 location: Oklahoma County
+expire: '2017-06-15 10:14 -0500'
 ---
 Applications are now being accepted for **two 
 Special Judge** positions. 
