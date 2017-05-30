@@ -18,10 +18,12 @@ two (2) copies of the following:
 
 1. A one page letter expressing the applicant’s reasons for applying for the position;
 2. A resume, including employment history;
-3. Three references—one from each category is suggested: 
+3. Three references—one from each category is suggested:
+
   1. A current or former employer, indicating whether we may contact them;
   2. A judge or hearing officer, not in Oklahoma County District Court, before whom the applicant has appeared;
   3. An attorney on the opposing side of a case.
+  
 4. A photograph of the applicant is appreciated but not mandatory. 
 
 Applications must be received at the office of the  
