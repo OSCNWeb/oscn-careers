@@ -8,6 +8,7 @@ category:
   - mis
 sub_category:
   - AOC
+expire: '2017-05-31 14:11 -0500'
 ---
 The Administrative Office of the Courts (AOC) is seeking a self-motivated person to join the organization as an **Inventory Control Technician Intern**.  The **Inventory Control Technician Intern** should possess the skills necessary to provide operational support for the information systems of the Administrative Office of the Courts.
  
@@ -45,4 +46,3 @@ Reporting to the Technical Services Division, the **Inventory Control Technician
 - Specialized courses related to materials management, inventory is preferred.
 - General inventory experience preferred.
 - Experience with inventory technology management systems preferred.
-
