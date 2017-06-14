@@ -4,7 +4,7 @@ layout: career
 jobid: '2017-06-14 08:55 -0500'
 publish: '2017-06-14 08:55 -0500'
 expire: '2017-08-04 08:55 -0500'
-title: District Judge - Cleveland
+title: District Judge
 sub_category:
   - JNC
 location: Cleveland County
