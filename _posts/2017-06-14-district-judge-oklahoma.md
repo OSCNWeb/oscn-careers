@@ -4,7 +4,7 @@ layout: career
 jobid: '2017-06-14 10:17 -0500'
 publish: '2017-06-14 10:17 -0500'
 expire: '2017-08-25 10:17 -0500'
-title: District Judge - Oklahoma
+title: District Judge
 category:
   - District
 sub_category:
