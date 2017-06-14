@@ -36,6 +36,8 @@ prose:
           label: "Category"
           help: ""
           options:
+            - name: "District"
+              value: "District"
             - name: "Judicial"
               value: "judicial"
             - name: "AOC"
