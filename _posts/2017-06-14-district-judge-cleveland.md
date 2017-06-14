@@ -9,7 +9,7 @@ sub_category:
   - JNC
 location: Cleveland County
 category:
-  - judicial
+  - District
 ---
 
 **NOTICE OF JUDICIAL VACANCY**
@@ -29,4 +29,3 @@ Application forms can be obtained on line at www.oscn.net following the link to 
 
 Deborah A. Reheard, Chair
 Oklahoma Judicial Nominating Commission
-
