@@ -5,11 +5,11 @@ jobid: '2017-06-14 08:55 -0500'
 publish: '2017-06-14 08:55 -0500'
 expire: '2017-08-04 08:55 -0500'
 title: District Judge - Cleveland
+sub_category:
+  - JNC
+location: Cleveland County
 category:
   - judicial
-sub_category:
-  - DISTRICT
-location: Cleveland County
 ---
 
 **NOTICE OF JUDICIAL VACANCY**
