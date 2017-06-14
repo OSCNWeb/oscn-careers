@@ -4,7 +4,7 @@ layout: career
 jobid: '2017-06-14 10:14 -0500'
 publish: '2017-06-14 10:14 -0500'
 expire: '2017-08-04 10:14 -0500'
-title: Associate District Judge - Johnston
+title: Associate District Judge
 category:
   - District
 sub_category:
