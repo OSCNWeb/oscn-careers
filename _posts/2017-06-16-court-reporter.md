@@ -12,7 +12,7 @@ sub_category:
 location: Garfield County
 ---
 **Job Opening:**  Certified Shorthand Reporter  
-**Position:**  Certified Shorthand Reporter – Full Time  
+**Position:**  Certified Shorthand Reporter - Full Time  
 **Location:**  Garfield County Courthouse, Enid, Oklahoma  
 **Hiring Official:**  District Judge Paul K. Woodward  
 **Salary:**  Pursuant to Statute  
