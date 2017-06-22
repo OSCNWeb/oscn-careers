@@ -2,8 +2,8 @@
 published: true
 layout: career
 jobid: '2017-06-22 13:05 -0500'
-publish: '2017-06-22 13:05 -0500'
-expire: '2017-06-22 13:05 -0500'
+publish: '2017-06-21 13:05 -0500'
+expire: '2017-06-21 13:05 -0500'
 title: Certified Shorthand Reporter
 category:
   - csr
@@ -24,4 +24,3 @@ Comanche County Courthouse
 315 SW 5th St., Room 507  
 Lawton, OK  73501  
 Or email to: [julie.spaulding@oscn.net](mailto:julie.spaulding@oscn.net)
-
