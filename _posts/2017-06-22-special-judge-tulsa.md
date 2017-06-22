@@ -2,9 +2,9 @@
 published: true
 layout: career
 jobid: '2017-06-22 13:08 -0500'
-publish: '2017-06-22 13:08 -0500'
-expire: '2017-06-22 13:08 -0500'
-title: Special Judge - Tulsa
+publish: '2017-06-21 13:08 -0500'
+expire: '2017-06-21 13:08 -0500'
+title: Special Judge
 sub_category:
   - DISTRICT
 category:
@@ -29,9 +29,3 @@ Tulsa, Oklahoma 74103
 
 Submit your application and 25 copies to the Court Administrator no later than
 Friday, June 16, 2017 at 4:30 p.m. Your application will remain on file for consideration for positions for six(6) months.
-
-
-
-
-
-
