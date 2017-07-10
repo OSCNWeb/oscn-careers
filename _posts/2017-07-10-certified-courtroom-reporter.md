@@ -13,7 +13,7 @@ location: Seminole County
 ---
 **Job Opening:** Certified Shorthand Reporter  
 **Location:** Seminole County  
-**Hiring Official:** Associate District Judge  
+**Hiring Official:** Associate District Judge Timothy Olsen  
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
 **Necessary Qualification:** Certified by the Oklahoma CSR Board and as required by Oklahoma Statute
