@@ -1,13 +1,16 @@
 ---
-title: 'Information Security Administrator'
-jobid: 84
-publish: 2017-02-07 12:00 -0500
-expire: 
-category: mis
-sub_category: AOC
-location: Oklahoma City
 hrlogic: 20
+published: true
 layout: career
+jobid: 84
+title: Information Security Administrator
+publish: '2017-02-07 12:00 -0500'
+category:
+  - mis
+sub_category:
+  - AOC
+location: Oklahoma City
+expire: '2017-07-10 12:00 -500'
 ---
 <p>The Administrative Office of the Courts is in the process of developing a statewide, unified, multi-jurisdictional Case Management System across the Oklahoma Judiciary.  Requirements analysis and the Joint Applications Design has been completed and we are seeking, eager, talented, self-motivated individuals to join our MIS team to take the construction and implementation of the Oklahoma Case Management System (CMS) forward.  In this capacity, you will have the opportunity to collaborate with  highly experienced teams and join them in influencing the implementation of the statewide CMS application by implementing and administering a comprehensive information security program to ensure the integrity, confidentiality, and availability of court information.  If you would like to bring your talents to bear in the exciting and challenging effort ahead of us, please submit your cover letter and resume for consideration as described below.</p>
 <p>The Administrative Office of the Courts (AOC) Management Information Services (MIS) department is seeking a seasoned security professional to join the organization as an <strong>Information Security Administrator</strong>.  
