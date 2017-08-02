@@ -12,8 +12,8 @@ sub_category:
 location: Pittsburg County
 ---
 **Job Opening:** Certified Shorthand Reporter  
-**Position:** Certified Shorthand Reporter - Full Time
-**Location:**  Pittsburg County
+**Position:** Certified Shorthand Reporter - Full Time  
+**Location:**  Pittsburg County  
 **Hiring Official:** District Judge James D. Bland, Associate District Judge Tim Mills  
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
