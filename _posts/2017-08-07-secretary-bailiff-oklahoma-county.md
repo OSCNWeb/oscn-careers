@@ -4,7 +4,7 @@ layout: career
 jobid: '2017-08-07 13:39 -0500'
 publish: '2017-08-07 13:39 -0500'
 expire: '2017-08-07 13:39 -0500'
-title: Secretary / Bailiff - Oklahoma County
+title: Secretary / Bailiff
 ---
 
 **Position:** Secretary/Bailiff  
