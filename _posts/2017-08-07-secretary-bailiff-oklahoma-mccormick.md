@@ -4,7 +4,7 @@ layout: career
 jobid: '2017-08-07 13:41 -0500'
 publish: '2017-08-07 13:41 -0500'
 expire: '2017-08-07 13:41 -0500'
-title: Secretary / Bailiff - Oklahoma - McCormick
+title: Secretary / Bailiff
 ---
 **Position:** Secretary/Bailiff  
 **Location:** Oklahoma County Courthouse  
