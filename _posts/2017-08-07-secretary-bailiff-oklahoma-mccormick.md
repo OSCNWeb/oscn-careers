@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2017-08-07 13:41 -0500'
 publish: '2017-08-07 13:41 -0500'
-expire: '2018-01-07 13:41 -0500'
+expire: '2017-08-10 13:41 -0500'
 title: Secretary / Bailiff
 category:
   - bailiffs
@@ -26,4 +26,3 @@ Trial Court Administrator
 321 Park Avenue, Room 322  
 Oklahoma City, OK  73102  
 Phone: 713-1423
-
