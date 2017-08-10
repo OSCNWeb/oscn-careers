@@ -13,7 +13,7 @@ location: Oklahoma County
 ---
 
 **Position:** Secretary/Bailiff  
-**Location:** Oklahoma County Courthouse  	
+**Location:** Oklahoma County Courthouse  
 **Hiring Official:** District Judge Lisa Tipping Davis  
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
