@@ -4,7 +4,7 @@ layout: career
 jobid: '2017-08-14 15:30 -0500'
 publish: '2017-08-14 15:30 -0500'
 expire: '2017-11-01 15:30 -0500'
-title: Special Judge Oklahoma
+title: Special Judge
 category:
   - judicial
 sub_category:
