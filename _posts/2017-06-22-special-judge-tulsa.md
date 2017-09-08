@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2017-06-22 13:08 -0500'
 publish: '2017-06-21 13:08 -0500'
-expire: '2017-10-21 13:08 -0500'
+expire: '2017-09-07 13:08 -0500'
 title: Special Judge
 sub_category:
   - DISTRICT
