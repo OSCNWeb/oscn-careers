@@ -6,6 +6,10 @@ publish: '2017-09-14 12:54 -0500'
 expire: '2017-10-7 12:54 -0500'
 title: Judicial Administrative Assistant
 location: Oklahoma City
+sub_category:
+  - APP
+category:
+  - APP
 ---
 **Position:** Judicial Administrative Assistant  
 **Location:** Oklahoma Court of Civil Appeals, Divisions I and III, located in Oklahoma City, Oklahoma  
