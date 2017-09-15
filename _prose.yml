@@ -52,6 +52,8 @@ prose:
               value: "county"
             - name: "Supreme Court"
               value: "supreme"
+            - name: "Appellate"
+              value: "APP"              
       - name: "sub_category"
         field:
           element: "multiselect"
@@ -67,7 +69,9 @@ prose:
             - name: "Supreme Court"
               value: "SUP"			  
             - name: "Appellate Court Clerks Office"
-              value: "ACC"			  
+              value: "ACC"
+            - name: "Appellate"
+              value: "APP"              
       - name: "location"
         field:
           element: "text"
