@@ -3,12 +3,13 @@ published: true
 layout: career
 jobid: '2017-09-21 08:44 -0500'
 publish: '2017-09-21 08:44 -0500'
-expire: '2017-09-21 08:44 -0500'
+expire: '2018-03-21 08:44 -0500'
 category:
   - mis
 sub_category:
   - AOC
 title: Quality Assurance Specialist
+location: Oklahoma City
 ---
 The Administrative Office of the Courts is in the process of developing a statewide, unified, multi-jurisdictional Case Management System across the Oklahoma Judiciary.  We are seeking, eager, talented, self-motivated individuals to join our MIS team to take the construction and implementation of the Oklahoma Case Management System (CMS) forward.  In this capacity, you will have the opportunity to collaborate with a highly experienced team and join them in influencing the implementation of the statewide CMS application by ensuring that all requirements are met in the design, configuration, implementation, and administration of a state-of-the-art case management system.  If you would like to bring your talents to bear in the exciting and challenging effort ahead of us, please submit your cover letter and resume for consideration as described below.
 
@@ -48,4 +49,3 @@ The **Quality Assurance Specialist** will work closely with cross-functional tea
 - Computer Science, MIS, or related four-year degree.   Five years professional quality assurance experience may be substituted for a degree.
 - 3+ years of relevant software QA experience.
 - Knowledge in court processes preferred.
-
