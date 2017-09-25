@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2017-08-14 15:30 -0500'
 publish: '2017-08-14 15:30 -0500'
-expire: '2017-11-01 15:30 -0500'
+expire: '2017-09-24 15:30 -0500'
 title: Special Judge
 category:
   - judicial
@@ -31,4 +31,3 @@ by 4:00 PM on September 14, 2017.
 Salary and benefits are paid pursuant to State Law and/or Supreme Court order.
 
 **Start Date is November 1, 2017.**
-
