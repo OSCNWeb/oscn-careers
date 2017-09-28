@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2017-09-26 09:46 -0500'
 publish: '2017-09-26 09:46 -0500'
-expire: '2017-09-26 09:46 -0500'
+expire: '2018-01-26 09:46 -0500'
 title: Juvenile Court Case Manger
 location: Tulsa County
 category:
