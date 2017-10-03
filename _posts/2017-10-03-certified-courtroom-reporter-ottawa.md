@@ -4,7 +4,7 @@ layout: career
 jobid: '2017-10-03 16:26 -0500'
 publish: '2017-10-03 16:26 -0500'
 expire: '2018-02-03 16:26 -0500'
-title: Certified Courtroom Reporter - Ottawa
+title: Certified Courtroom Reporter
 category:
   - csr
 sub_category:
