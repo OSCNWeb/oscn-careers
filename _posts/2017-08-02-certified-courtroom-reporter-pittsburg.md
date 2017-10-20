@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2017-08-02 12:40 -0500'
 publish: '2017-08-02 12:40 -0500'
-expire: '2018-01-02 12:40 -0500'
+expire: '2017-10-20 12:40 -0500'
 title: Certified Courtroom Reporter - Pittsburg
 category:
   - csr
@@ -25,5 +25,4 @@ Pittsburg County Courthouse
 115 E. Carl Albert Parkway  
 McAlester OK  74502  
 (918) 423-6866  
-Or email to [james.bland@oscn.net](mailto:james.bland@oscn.net)  
-
+Or email to [james.bland@oscn.net](mailto:james.bland@oscn.net)
