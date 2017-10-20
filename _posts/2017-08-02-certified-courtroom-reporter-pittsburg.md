@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2017-08-02 12:40 -0500'
 publish: '2017-08-02 12:40 -0500'
-expire: '2017-10-20 12:40 -0500'
+expire: '2017-10-19 12:40 -0500'
 title: Certified Courtroom Reporter - Pittsburg
 category:
   - csr
