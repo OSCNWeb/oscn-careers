@@ -4,7 +4,7 @@ layout: career
 jobid: '2017-10-20 15:57 -0500'
 publish: '2017-10-20 15:57 -0500'
 expire: '2018-01-02 15:57 -0500'
-title: Secretary / Bailiff - Pottawatomie
+title: Secretary / Bailiff
 sub_category:
   - DISTRICT
 category:
