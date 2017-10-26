@@ -14,17 +14,15 @@ location: McIntosh County
 **Job Opening:** Certified Shorthand Reporter  
 **Position:** Certified Shorthand Reporter - Full Time  
 **Location:**  McIntosh County  
-**Hiring Official:** District Judge James D. Bland, Associate District Judge Tim Mills  
+**Hiring Official:** District Judge James D. Bland and Associate District Judge Jim Pratt. 
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
 **Necessary Qualifications:** Certified by the Oklahoma CSR Board as required by Oklahoma Statute
  
 **Resumes should be directed to:**   
 District Judge James D. Bland  
-McIntosh County Courthouse  
+115 E. Carl Albert Parkway 
 110 N. First St.  
-P.O. Box 426  
-Eufaula, Oklahoma 74432  
+McAlester OK  74501  
 (918) 423-6866  
 Or email to [james.bland@oscn.net](mailto:james.bland@oscn.net)
-
