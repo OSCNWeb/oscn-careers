@@ -5,10 +5,11 @@ jobid: '2017-11-07 08:56 -0600'
 publish: '2017-11-06 08:56 -0600'
 expire: '2017-12-15 08:56 -0600'
 title: Justice of the Supreme Court
+sub_category:
+  - JNC
+location: District Nine
 category:
   - supreme
-sub_category:
-  - SUP
 ---
 **NOTICE OF JUDICIAL VACANCY**
 
