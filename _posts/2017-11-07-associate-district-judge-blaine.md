@@ -4,7 +4,7 @@ layout: career
 jobid: '2017-11-07 08:49 -0600'
 publish: '2017-11-07 08:49 -0600'
 expire: '2018-12-15 08:49 -0600'
-title: Associate District Judge - Blaine
+title: Associate District Judge
 category:
   - District
 sub_category:
