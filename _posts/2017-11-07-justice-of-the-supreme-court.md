@@ -9,7 +9,7 @@ sub_category:
   - JNC
 location: District Nine
 category:
-  - supreme
+  - Supreme
 ---
 **NOTICE OF JUDICIAL VACANCY**
 
