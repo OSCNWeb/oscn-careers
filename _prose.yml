@@ -51,7 +51,7 @@ prose:
             - name: "County"
               value: "county"
             - name: "Supreme Court"
-              value: "supreme"
+              value: "Supreme"
             - name: "Appellate"
               value: "APP"              
       - name: "sub_category"
