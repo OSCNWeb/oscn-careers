@@ -7,9 +7,9 @@ expire: '2018-12-15 08:49 -0600'
 title: Associate District Judge
 category:
   - District
-sub_category:
-  - DISTRICT
 location: Blaine County
+sub_category:
+  - JNC
 ---
 **NOTICE OF JUDICIAL VACANCY**
 
