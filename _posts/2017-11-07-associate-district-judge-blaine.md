@@ -27,4 +27,3 @@ Application forms can be obtained on line at www.oscn.net by following the link 
 
 Deborah A. Reheard, Chair  
 Oklahoma Judicial Nominating Commission
-
