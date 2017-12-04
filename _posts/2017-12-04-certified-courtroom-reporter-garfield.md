@@ -3,8 +3,13 @@ published: true
 layout: career
 jobid: '2017-12-04 15:46 -0600'
 publish: '2017-12-04 15:46 -0600'
-expire: '2017-12-04 15:46 -0600'
-title: Certified Courtroom Reporter - Garfield
+expire: '2018-04-04 15:46 -0600'
+title: Certified Courtroom Reporter
+sub_category:
+  - DISTRICT
+category:
+  - csr
+location: Garfield County
 ---
 **Job Opening:** Certified Shorthand Reporter  
 **Position:** Certified Shorthand Reporter - Full Time 
