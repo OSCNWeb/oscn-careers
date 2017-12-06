@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2017-07-26 15:29 -0500'
 publish: '2017-07-26 15:29 -0500'
-expire: '2017-11-26 15:29 -0500'
+expire: '2017-6-26 15:29 -0500'
 category:
   - csr
 sub_category:
