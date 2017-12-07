@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2017-12-01 12:50 -0600'
 publish: '2017-12-01 12:50 -0600'
-expire: '2018-03-01 12:50 -0600'
+expire: '2017-12-06 12:50 -0600'
 title: Secretary / Bailiff - Oklahoma
 category:
   - bailiffs
