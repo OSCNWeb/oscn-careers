@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2017-09-25 09:35 -0500'
 publish: '2017-09-25 09:35 -0500'
-expire: '2017-12-25 09:35 -0500'
+expire: '2017-12-06 09:35 -0500'
 title: Secretary / Bailiff
 category:
   - bailiffs
