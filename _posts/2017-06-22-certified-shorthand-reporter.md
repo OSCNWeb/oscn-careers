@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2017-06-22 13:05 -0500'
 publish: '2017-07-21 13:05 -0500'
-expire: '2017-12-21 13:05 -0500'
+expire: '2018-03-21 13:05 -0500'
 title: Certified Shorthand Reporter
 category:
   - csr
