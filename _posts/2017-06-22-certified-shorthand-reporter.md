@@ -23,4 +23,4 @@ District Judge Gerald F. Neuwirth
 Comanche County Courthouse  
 315 SW 5th St., Room 507  
 Lawton, OK  73501  
-Or email to: [julie.spaulding@oscn.net](mailto:julie.spaulding@oscn.net)
+Or email to: [terry.quisenberry@oscn.net](mailto:terry.quisenberry@oscn.net)
