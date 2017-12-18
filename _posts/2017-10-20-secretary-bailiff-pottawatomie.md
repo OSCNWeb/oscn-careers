@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2017-10-20 15:57 -0500'
 publish: '2017-10-20 15:57 -0500'
-expire: '2018-01-02 15:57 -0500'
+expire: '2017-12-18 15:57 -0500'
 title: Secretary / Bailiff
 sub_category:
   - DISTRICT
@@ -26,5 +26,4 @@ Associate District Judge
 Pottawatomie County  
 325 N. Broadway Ave.  
 Shawnee, OK 74801  
-Phone: (405)273-4308  
-
+Phone: (405)273-4308
