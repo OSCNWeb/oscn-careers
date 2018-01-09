@@ -4,7 +4,7 @@ layout: career
 jobid: '2018-01-09 12:59 -0600'
 publish: '2018-01-09 12:59 -0600'
 expire: '2018-01-09 12:59 -0600'
-title: Certified Courtroom Reporter-Oklahoma
+title: Certified Courtroom Reporter
 ---
 **Position:** Certified Shorthand Reporter  
 **Location:** Courthouse  
