@@ -3,8 +3,12 @@ published: true
 layout: career
 jobid: '2018-01-09 12:59 -0600'
 publish: '2018-01-09 12:59 -0600'
-expire: '2018-01-09 12:59 -0600'
+expire: '2018-04-09 12:59 -0600'
 title: Certified Courtroom Reporter
+sub_category:
+  - DISTRICT
+category:
+  - csr
 ---
 **Position:** Certified Shorthand Reporter  
 **Location:** Courthouse  
