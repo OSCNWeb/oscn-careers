@@ -9,6 +9,7 @@ sub_category:
   - DISTRICT
 category:
   - csr
+location: Oklahoma County
 ---
 **Position:** Certified Shorthand Reporter  
 **Location:** Courthouse  
