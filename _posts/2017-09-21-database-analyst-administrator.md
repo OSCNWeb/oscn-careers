@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2017-09-21 09:00 -0500'
 publish: '2017-09-21 09:00 -0500'
-expire: '2018-03-21 09:00 -0500'
+expire: '2018-01-10 09:00 -0500'
 category:
   - mis
 sub_category:
@@ -64,4 +64,3 @@ The **Database Analyst/Administrator** provides key data recommendations and bes
 **Special Requirements:**
 
 - Occasional travel to remote office locations within the state of Oklahoma.
-
