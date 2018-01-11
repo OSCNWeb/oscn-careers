@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2017-09-21 08:53 -0500'
 publish: '2017-09-21 08:53 -0500'
-expire: '2018-03-21 08:53 -0500'
+expire: '2018-01-10 08:53 -0500'
 category:
   - mis
 sub_category:
@@ -63,4 +63,3 @@ The **Database Administrator** is responsible for all database management functi
 **Physical Demands:**
 
 - Occasional travel to remote office locations within the state of Oklahoma.
-
