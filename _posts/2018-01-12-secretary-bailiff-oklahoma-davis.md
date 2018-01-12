@@ -9,7 +9,7 @@ category:
   - bailiffs
 sub_category:
   - DISTRICT
-location: Oklahoma City
+location: Oklahoma County
 ---
 **Position:** Secretary/Bailiff  
 **Location:** Oklahoma County Courthouse  
