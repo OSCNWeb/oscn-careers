@@ -4,7 +4,7 @@ layout: career
 jobid: '2018-01-12 14:45 -0600'
 publish: '2018-01-12 14:45 -0600'
 expire: '2018-04-12 14:45 -0600'
-title: Secretary / Bailiff - Oklahoma - Davis
+title: Secretary / Bailiff - Oklahoma
 category:
   - bailiffs
 sub_category:
