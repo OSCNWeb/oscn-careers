@@ -19,7 +19,7 @@ location: Oklahoma County
 **Necessary Qualifications:** Knowledge of and proficiency in Word Perfect, Microsoft Word and Excel. Must enjoy dealing with attorneys and the public on the phone and in person, prepare daily dockets, assist the Judge in Court, prepare orders, keep the Judge’s calendar, keep the office organized, order supplies and perform other office duties as assigned by the Judge.
 
 **Applications:**   
-Resumes should be mailed or delivered to:
+Resumes should be mailed or delivered to:  
 Special Judge Lisa K. Hammond  
 321 Park Avenue, Room 527  
 Oklahoma City, OK 73102  
