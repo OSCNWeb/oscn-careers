@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2018-01-25 11:11 -0600'
 publish: '2018-01-25 11:11 -0600'
-expire: '2018-04-25 11:11 -0600'
+expire: '2018-06-25 11:11 -0600'
 title: Certified Courtroom Reporter - Sequoyah
 sub_category:
   - DISTRICT
