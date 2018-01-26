@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2018-01-12 08:36 -0600'
 publish: '2018-01-12 08:36 -0600'
-expire: '2018-04-12 08:36 -0600'
+expire: '2018-01-25 08:36 -0600'
 title: Secretary / Bailiff - Oklahoma
 sub_category:
   - DISTRICT
@@ -23,5 +23,4 @@ Resumes should be mailed or delivered to:
 Special Judge Larry D. Shaw  
 321 Park Avenue, Room 202  
 Oklahoma City, OK  73102  
-Phone 713-1466  
-
+Phone 713-1466
