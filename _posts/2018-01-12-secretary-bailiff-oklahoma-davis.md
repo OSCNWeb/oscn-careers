@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2018-01-12 14:45 -0600'
 publish: '2018-01-12 14:45 -0600'
-expire: '2018-04-12 14:45 -0600'
+expire: '2018-01-29 14:45 -0600'
 title: Secretary / Bailiff - Oklahoma
 category:
   - bailiffs
@@ -23,4 +23,4 @@ Resumes should be mailed or delivered to:
 District Judge Lisa Tipping Davis  
 321 Park Avenue, Room 201  
 Oklahoma City, OK  73102  
-Phone 713-1107  
+Phone 713-1107
