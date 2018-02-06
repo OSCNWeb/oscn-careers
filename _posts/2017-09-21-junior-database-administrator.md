@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2017-09-21 08:57 -0500'
 publish: '2017-09-21 08:57 -0500'
-expire: '2018-03-21 08:57 -0500'
+expire: '2018-02-05 08:57 -0500'
 category:
   - mis
 sub_category:
@@ -56,4 +56,3 @@ The **Junior Database Administrator** is responsible for database management fun
 **Special Requirements:**
 
 - Occasional travel to remote office locations within the State of Oklahoma.
-
