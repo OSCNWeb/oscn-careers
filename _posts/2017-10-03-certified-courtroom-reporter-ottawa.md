@@ -9,6 +9,7 @@ category:
 sub_category:
   - DISTRICT
 location: Ottawa County
+expire: '2020-12-06 09:52 -0600'
 ---
 **Job Opening:** Certified Shorthand Reporter  
 **Location:** Ottawa County Courthouse  
