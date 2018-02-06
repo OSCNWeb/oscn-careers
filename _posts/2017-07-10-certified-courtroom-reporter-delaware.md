@@ -3,7 +3,6 @@ published: true
 layout: career
 jobid: '2017-07-10 12:47 -0500'
 publish: '2017-07-10 12:47 -0500'
-expire: '2018-03-10 12:47 -0500'
 title: Certified Courtroom Reporter - Delaware
 category:
   - csr
