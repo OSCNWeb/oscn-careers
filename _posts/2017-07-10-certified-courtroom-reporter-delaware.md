@@ -9,6 +9,7 @@ category:
 sub_category:
   - DISTRICT
 location: Delaware County
+expire: '2020-12-06 09:52 -0600'
 ---
 **Job Opening:** Certified Shorthand Reporter  
 **Location:** Delaware County Courthouse  
