@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2018-01-10 08:33 -0600'
 publish: '2018-01-10 08:33 -0600'
-expire: '2018-04-10 08:33 -0600'
+expire: '2018-01-25 08:33 -0600'
 title: Juvenile Court Case Manager Oklahoma
 category:
   - county
@@ -25,5 +25,4 @@ location: Oklahoma County
 1.	Be an attorney licensed to practice law in this state with at least two (2) years’ experience in juvenile or family law; or
 2.	Hold a bachelor’s degree in the social sciences or related field from an accredited college or university and three (3) years’ experience working with court procedures, juvenile law, or social work. A master’s degree in social sciences may substitute for one year of the required experience. 
 
-Interested applicants should submit a resume and cover letter by January 26, 2018 at 3:00 p.m. to: LaVon Scott, Bailiff for District Judge Howard R. Haralson, Oklahoma County Juvenile Justice Center, 5905 N. Classen Court, Oklahoma City, OK 73118  
-
+Interested applicants should submit a resume and cover letter by January 26, 2018 at 3:00 p.m. to: LaVon Scott, Bailiff for District Judge Howard R. Haralson, Oklahoma County Juvenile Justice Center, 5905 N. Classen Court, Oklahoma City, OK 73118
