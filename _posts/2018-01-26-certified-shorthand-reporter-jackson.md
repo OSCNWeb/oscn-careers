@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2018-01-26 09:47 -0600'
 publish: '2018-01-26 09:47 -0600'
-expire: '2018-06-26 09:47 -0600'
+expire: '2025-06-26 09:47 -0600'
 title: Certified Shorthand Reporter - Jackson
 category:
   - csr
@@ -25,4 +25,3 @@ Jackson County Courthouse<br>
 Altus, OK  73521<br>
 <a href="mailto:richard.darby@oscn.net" target="_blank">richard.darby@oscn.net</a><br>
 (Phone)  (580) 482-1665</p>
-
