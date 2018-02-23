@@ -9,7 +9,7 @@ category:
   - csr
 sub_category:
   - DISTRICT
-location: Jackson County
+location: 'Jackson, Harmon, Tillman, Greer, and Kiowa Counties'
 ---
 <p><strong>Position:</strong> Certified Shorthand Reporter – (Full Time)<br>
 <strong>Location:</strong> Jackson, Harmon, Tillman, Greer, and Kiowa Counties<br>
