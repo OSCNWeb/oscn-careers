@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2017-09-21 08:44 -0500'
 publish: '2017-09-21 08:44 -0500'
-expire: '2018-03-21 08:44 -0500'
+expire: '2018-03-11 08:44 -0500'
 category:
   - mis
 sub_category:
