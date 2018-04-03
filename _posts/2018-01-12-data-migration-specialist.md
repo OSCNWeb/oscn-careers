@@ -9,6 +9,7 @@ category:
 sub_category:
   - AOC
 location: Oklahoma City
+expire: '2018-04-01 08:23 -0500'
 ---
 The Administrative Office of the Courts is in the process of developing a statewide, unified, multi-jurisdictional Case Management System across the Oklahoma Judiciary.  We are seeking, eager, talented, self-motivated individuals to join our MIS team to take the construction and implementation of the Oklahoma Case Management System (CMS) forward.  In this capacity, you will have the opportunity to collaborate with a highly experienced team and join them in influencing the implementation of the statewide CMS application by designing, configuring, and implementing Extract, Transfer, and Load (ETL) and data mapping processes, procedures, and tools to facilitate a comprehensive and repeatable data transformation process from existing county databases to a statewide database supporting the new CMS.   If you would like to bring your talents to bear in the exciting and challenging effort ahead of us, please submit your cover letter and resume for consideration as described below.
 
@@ -67,4 +68,3 @@ The **Data Migration Specialist** provides key data recommendations and best pra
 **Special Requirements/Physical Demands:**
 
 - Occasional travel to remote office locations within the state of Oklahoma.
-
