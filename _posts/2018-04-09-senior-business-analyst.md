@@ -16,9 +16,11 @@ The Administrative Office of the Courts (AOC) is looking for a self-motivated pe
 
 
 **Position Description:**
+
 Reporting to the Business Management Office Manager, the **Senior Business Analyst** will work with court staff to analyze and elicit court business requirements, produce business and functional specifications, and document business scenarios.  The **Senior Business Analyst** will fully understand Appellate and District Court processes and will be able to clearly communicate those to cross-functional team members both in written and verbal form. The individual must be detailed oriented, able to clearly communicate, and an analytical thinker.
 
 **Responsibilities and essential functions will include (but not be limited to) the following:**
+
 - Identify, assess, and document court business and functional requirements.
 - Analyze the impact of proposed solutions across appellate and district court operations.
 - Develop use cases to explain and demonstrate requirements and specifications to the MIS team.
@@ -36,6 +38,7 @@ Reporting to the Business Management Office Manager, the **Senior Business Analy
 
 
 **Knowledge and Skill Requirements:**
+
 - Superior analytical and problem solving skills, including the ability to ask leading questions and analyze the business impact on proposed solutions.
 - Excellent communication skills, oral and written, including technical writing experience.
 - Demonstrated experience working with Microsoft Windows and Microsoft Office required.
@@ -47,6 +50,7 @@ Reporting to the Business Management Office Manager, the **Senior Business Analy
 
 
 **Education / Experience:**
+
 - Computer Science, MIS, or related four-year degree.   Five years professional analysis experience may be substituted for a degree.
 - 5+ years of relevant software business analyst experience.
 - Knowledge in court processes preferred.
