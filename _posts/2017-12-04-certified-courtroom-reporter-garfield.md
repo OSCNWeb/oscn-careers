@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2017-12-04 15:46 -0600'
 publish: '2017-12-04 15:46 -0600'
-expire: '2018-04-04 15:46 -0600'
+expire: '2018-10-04 15:46 -0600'
 title: Certified Courtroom Reporter
 sub_category:
   - DISTRICT
@@ -25,4 +25,3 @@ Garfield County Courthouse
 Enid, OK 73701  
 (580) 237-5031  
 Or email to [cindy.tubbs@oscn.net](mailto:cindy.tubbs@oscn.net)
-
