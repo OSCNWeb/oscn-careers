@@ -12,7 +12,7 @@ location: Oklahoma City
 ---
 The Administrative Office of the Courts (AOC) is seeking a self-motivated person to join the organization as a **Technical Support Specialist**. The **Technical Support Specialist** should possess the skills necessary to provide excellent customer service while fielding phone calls and requests for technical assistance by performing question/problem diagnosis and guiding users through systematic solutions in a service desk environment.  If you would like to bring your talents to bear please submit y our cover letter and resume for consideration as described below.
 
-** Responsibilities and essential functions will include (but not be limited to) the following:**
+**Responsibilities and essential functions will include (but not be limited to) the following:**
 - Handle customer requests for assistance in person, by email/chat, or over the phone.
 - Monitor and respond quickly and effectively to requests received through the IT Helpdesk. 
 - Provide complex hardware and software troubleshooting expertise for local and remote users.
