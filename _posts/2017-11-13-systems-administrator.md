@@ -3,7 +3,6 @@ published: true
 layout: career
 jobid: '2017-11-13 12:58 -0600'
 publish: '2017-11-13 12:58 -0600'
-expire: '2018-05-14 12:58 -0600'
 category:
   - mis
 sub_category:
@@ -69,6 +68,3 @@ Reporting to the Data Center & System Manager, the System Administrator is respo
 - Bachelor’s degree in Computer Science/Information Systems or related technical field preferred.
 - Equivalent related work experience may be substituted for education requirement.
 - Current MCSA/MCSE/MCTS/MCITP preferred.
-
-
-
