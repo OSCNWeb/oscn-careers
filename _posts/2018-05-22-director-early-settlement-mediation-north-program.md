@@ -12,7 +12,7 @@ category:
 
 The Payne County Board of County Commissioners is accepting applications for a full-time Director of the Early Settlement Mediation – North Program, which serves Kay, Lincoln, Logan, Noble, Pawnee, and Payne Counties. The program office is located in the Payne County Courthouse in Stillwater, OK.
 
-**ESSENTIAL DUTIES AND RESPONSIBILITIES include, but are not limited to:**
+**ESSENTIAL DUTIES AND RESPONSIBILITIES include, but are not limited to:** 
 
 Develop public awareness of the program through correspondence, one-on-one discussions, and speaking presentations to local bar associations, civic clubs, schools, and other community organizations throughout the service area.
 
