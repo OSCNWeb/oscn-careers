@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: career
 jobid: '2018-04-09 11:38 -0500'
 publish: '2018-04-09 11:38 -0500'
@@ -9,6 +9,7 @@ category:
 sub_category:
   - AOC
 location: Oklahoma City
+expire: '2018-06-14 14:50 -0500'
 ---
 The Administrative Office of the Courts is in the process of developing a statewide, unified, multi-jurisdictional Case Management System across the Oklahoma Judiciary.  Requirements analysis and the Joint Applications Design have been completed and we are seeking, eager, talented, self-motivated individuals to join our MIS team to take the construction and implementation of the Oklahoma Case Management System (CMS) forward.  In this capacity, you will have the opportunity to collaborate with a highly experienced team and join them in influencing the implementation of the statewide CMS application by liaising with the end users of the Oklahoma courts to represent their requirements in the design, configuration, implementation, and administration of a state-of-the-art case management system.  If you would like to bring your talents to bear in the exciting and challenging effort ahead of us, please submit your cover letter and resume for consideration as described below.
 
@@ -54,4 +55,3 @@ Reporting to the Business Management Office Manager, the **Senior Business Analy
 - Computer Science, MIS, or related four-year degree.   Five years professional analysis experience may be substituted for a degree.
 - 5+ years of relevant software business analyst experience.
 - Knowledge in court processes preferred.
-
