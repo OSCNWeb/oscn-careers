@@ -22,8 +22,8 @@ Renee Troxell
 Trial Court Administrator  
 321 Park Avenue, Room 322
 Oklahoma City, OK 73102  
-[renee.troxell@oscn.net](mailto:renee.troxell@oscn.net)
+[renee.troxell@oscn.net](mailto:renee.troxell@oscn.net)  
 405-713-1423  
 
-Application Deadline: August 3, 2018  
-Start Date: September 4, 2018
+**Application Deadline:** August 3, 2018  
+**Start Date:** September 4, 2018
