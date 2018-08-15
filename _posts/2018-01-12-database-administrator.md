@@ -9,6 +9,7 @@ category:
 sub_category:
   - AOC
 location: Oklahoma City
+expire: '2018-08-14 15:56 -0500'
 ---
 The Administrative Office of the Courts is in the process of developing a statewide, unified, multi-jurisdictional Case Management System across the Oklahoma Judiciary.  We are seeking, eager, talented, self-motivated individuals to join our MIS team to take the construction and implementation of the Oklahoma Case Management System (CMS) forward.  In this capacity, you will have the opportunity to collaborate with a highly experienced team and join them in influencing the implementation of the statewide CMS application by designing, implementing and administering a statewide database schema, assisting in the design and implementation of a repeatable ETL process, and administer current legacy databases until data transformation is complete for the entire state.   If you would like to bring your talents to bear in the exciting and challenging effort ahead of us, please submit your cover letter and resume for consideration as described below.
 
@@ -69,4 +70,3 @@ Reporting to the Data Systems Manager, the **Database Administrator** is respons
 **Physical Demands:**
 
 - Occasional travel to remote office locations within the state of Oklahoma.
-
