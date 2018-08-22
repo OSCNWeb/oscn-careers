@@ -3,7 +3,6 @@ published: true
 layout: career
 jobid: '2018-08-20 08:59 -0500'
 publish: '2018-08-20 08:59 -0500'
-expire: '2018-08-20 08:59 -0500'
 title: Senior Information Security Analyst
 ---
 The Administrative Office of the Courts (AOC) is seeking a self-motivated person to assume the responsibilities of **Senior Information Security Analyst**.  The **Senior Information Security Analyst** possess the skills necessary to provide operational support for the information security program of the Administrative Office of the Courts.  
@@ -58,4 +57,3 @@ Reporting to the MIS Director / Deputy MIS Director, the **Senior Information Se
 - At least one advanced security certification (example, CISSP, GIAC, or other) is preferred.
 - Experience working on large priority projects as a team member. 
 - Experience with Microsoft Project preferred.
-
