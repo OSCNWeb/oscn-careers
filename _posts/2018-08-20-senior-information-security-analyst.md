@@ -4,6 +4,10 @@ layout: career
 jobid: '2018-08-20 08:59 -0500'
 publish: '2018-08-20 08:59 -0500'
 title: Senior Information Security Analyst
+sub_category:
+  - AOC
+category:
+  - mis
 ---
 The Administrative Office of the Courts (AOC) is seeking a self-motivated person to assume the responsibilities of **Senior Information Security Analyst**.  The **Senior Information Security Analyst** possess the skills necessary to provide operational support for the information security program of the Administrative Office of the Courts.  
 
