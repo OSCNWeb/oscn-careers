@@ -5,6 +5,10 @@ jobid: '2018-08-20 09:04 -0500'
 publish: '2018-08-20 09:04 -0500'
 expire: '2018-08-20 09:04 -0500'
 title: Change Management Analyst
+category:
+  - mis
+sub_category:
+  - AOC
 ---
 The **Change Management Analyst** is responsible for establishing and maintaining controls related to ITIL processes such as change management and analysis, problem analysis, statiscal reporting, and ensure controls are efficient, uniform, repeatable, and clearly communicated. Change Management Analyst tasks also include understanding business changes and assessing the impact of those changes while capturing, analyzing, and documenting the overall impact of the changes. Additionally, the Change Management Analyst will use deep technical knowledge and subject matter expertise to understand business, technical issues, and impacts regarding proposed changes. Analysis involves the understanding of causes and effects. The analyst uses the knowledge gained from analysis to make recommendations or resolutions.
 
@@ -54,4 +58,4 @@ Responsibilities and essential functions will include (but not be limited to) th
 - Bachelor’s degree in Computer Science, Information Systems, or related field; or equivalent work experience.
 - The successful candidate will possess an ITIL V.3 Certification.  Preferred
 - Minimum of ten years operational support (data center operations, change management, problem management, inventory, etc.) experience.
-- Relevant technical or service-oriented coursework completed successfully will also be taken into consideration. 
+- Relevant technical or service-oriented coursework completed successfully will also be taken into consideration.
