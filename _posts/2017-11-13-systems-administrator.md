@@ -9,6 +9,7 @@ sub_category:
   - AOC
 location: Oklahoma City
 title: Systems Administrator
+expire: '2018-09-04 15:49 -0500'
 ---
 The Administrative Office of the Courts is in the process of developing a statewide, unified, 
 multi-jurisdictional Case Management System across the Oklahoma Judiciary.  We are seeking, eager, talented, self-motivated individuals to join our MIS team to take the construction and implementation of the Oklahoma Case Management System (CMS) forward.  In this capacity, you will have the opportunity to collaborate with a highly experienced team and join them in influencing the implementation of the statewide CMS application through design and support of the infrastructure and use of the selected development products.  If you would like to bring your talents to bear in the exciting and challenging effort ahead of us, please submit your cover letter and resume for consideration as described below.
