@@ -4,7 +4,7 @@ layout: career
 jobid: '2018-09-13 08:21 -0500'
 publish: '2018-09-13 08:21 -0500'
 expire: '2019-01-13 08:21 -0500'
-title: Secretary / Bailiff Oklahoma
+title: Secretary / Bailiff
 category:
   - bailiffs
 sub_category:
