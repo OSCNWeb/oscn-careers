@@ -19,7 +19,8 @@ location: Oklahoma County
 **Necessary Qualifications:** Proficiency in Microsoft Word and Excel.  Prepare orders, work with attorneys, prepare daily dockets, assist the Judge in Court, organize incoming reports, keep the Judge’s calendar, order supplies and assist with jurors during Jury trials.
 					
 **Applications:** Resumes should be mailed or delivered to:  
-District Judge Richard C. Ogden  
+District Judge Richard C. Ogden
+[Richard.ogden@oscn.net](mailto:Richard.ogden@oscn.net)
 321 Park Avenue, Room 325  
 Oklahoma City, OK  73102  
 Phone 713-1403  
