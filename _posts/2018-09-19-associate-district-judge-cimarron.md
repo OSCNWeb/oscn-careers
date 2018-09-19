@@ -4,7 +4,7 @@ layout: career
 jobid: '2018-09-19 10:57 -0500'
 publish: '2018-09-19 10:57 -0500'
 expire: '2018-11-17 10:57 -0500'
-title: Associate District Judge - Cimarron
+title: Associate District Judge
 category:
   - judicial
 sub_category:
