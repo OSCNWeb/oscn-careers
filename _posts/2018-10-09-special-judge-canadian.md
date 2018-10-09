@@ -11,7 +11,7 @@ sub_category:
   - DISTRICT
 location: Canadian County
 ---
-Applications are now being accepted for the position of special judge for Canadian County. Applicants must submit a completed Special Judge Application form to District Judge Paul Hesse by 4:00 p.m. on October 19, 2018. Applications may be submitted electronically to [Paul.Hesse@OSCN.net](mailto:Paul.Hesse@OSCN.net), or can be mailed or hand delivered to:
+Applications are now being accepted for the position of special judge for Canadian County. Applicants must submit a completed [Special Judge Application form](http://www.oscn.net/static/special-judge-application-canadian-county.pdf) to District Judge Paul Hesse by 4:00 p.m. on October 19, 2018. Applications may be submitted electronically to [Paul.Hesse@OSCN.net](mailto:Paul.Hesse@OSCN.net), or can be mailed or hand delivered to:
 
 District Judge Paul Hesse  
 Canadian County Courthouse  
@@ -20,3 +20,5 @@ El Reno, Oklahoma  73036
 
 Salary and benefits are paid pursuant to State Law and/or Supreme Court order.  
 Start date is January 2, 2019.
+
+[Application form](http://www.oscn.net/static/special-judge-application-canadian-county.pdf)
