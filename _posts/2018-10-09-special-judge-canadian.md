@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2018-10-09 16:30 -0500'
 publish: '2018-10-09 16:30 -0500'
-expire: '2019-04-09 16:30 -0500'
+expire: '2018-10-21 16:30 -0500''
 title: Special Judge - Canadian
 category:
   - judicial
