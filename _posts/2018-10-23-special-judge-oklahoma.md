@@ -30,4 +30,4 @@ by 4:00 PM on November 8, 2018.
 
 Salary and benefits are paid pursuant to State Law and/or Supreme Court order.
 
-**Start Date is July 2, 2018.**
+**Start Date is January 2, 2019.**
