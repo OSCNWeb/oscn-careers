@@ -9,6 +9,7 @@ sub_category:
 category:
   - csr
 location: McCurtain County
+expire: '2018-10-31 08:19 -0500'
 ---
 **Position:** Certified Shorthand Reporter  
 **Location:** Courthouse  
