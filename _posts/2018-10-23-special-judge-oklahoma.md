@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2018-10-23 12:40 -0500'
 publish: '2018-10-23 12:40 -0500'
-expire: '2020-10-23 12:40 -0500'
+expire: '2018-11-08 12:40 -0500'
 title: Special Judge - Oklahoma
 sub_category:
   - DISTRICT
