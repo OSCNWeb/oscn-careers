@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2017-08-10 08:37 -0500'
 publish: '2017-08-10 08:37 -0500'
-expire: '2019-06-10 08:37 -0500'
+expire: '2018-12-05 08:37 -0500'
 title: Systems Technician
 category:
   - mis
