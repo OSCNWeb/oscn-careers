@@ -9,6 +9,7 @@ category:
 sub_category:
   - AOC
 location: Oklahoma City
+expire: '2018-12-05 13:23 -0600'
 ---
 The Administrative Office of the Courts (AOC) is seeking a self-motivated person to join the organization as a **Technical Support Specialist**. The **Technical Support Specialist** should possess the skills necessary to provide excellent customer service while fielding phone calls and requests for technical assistance by performing question/problem diagnosis and guiding users through systematic solutions in a service desk environment.  If you would like to bring your talents to bear please submit y our cover letter and resume for consideration as described below.
 
@@ -46,4 +47,3 @@ The Administrative Office of the Courts (AOC) is seeking a self-motivated person
 **Physical Demands:**
 - Sit or stand for prolonged periods of time.
 - Occasional travel to remote locations within the State of Oklahoma.
-
