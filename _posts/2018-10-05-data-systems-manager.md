@@ -9,6 +9,7 @@ category:
 sub_category:
   - AOC
 location: Oklahoma City
+expire: '2018-12-05 09:02 -0600'
 ---
 Reporting to the MIS Director/Deputy Director, the **Data Systems Manager** is responsible for the design, development, deployment, administration (including but not limited to budgetary input, human resource requirements, and strategic planning input), support, security and documentation of all court related databases for the Oklahoma District and Appellate courts and the judiciary’s many other constituents.
 
