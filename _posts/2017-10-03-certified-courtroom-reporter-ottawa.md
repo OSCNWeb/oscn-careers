@@ -22,5 +22,6 @@ expire: '2020-12-06 09:52 -0600'
 District Judge Barry Denney 
 Delaware County Courthouse  
 PO Box 489  
-Jay, Oklahoma 74346    
+Jay, Oklahoma 74346  
+918-253-4329  
 Or email to [barry.denney@oscn.net](mailto:barry.denney@oscn.net)
