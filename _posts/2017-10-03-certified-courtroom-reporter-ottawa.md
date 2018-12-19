@@ -19,9 +19,8 @@ expire: '2020-12-06 09:52 -0600'
 **Necessary Qualification:** Certified by the Oklahoma CSR Board and as required by Oklahoma Statute
  
 **Resumes should be directed to:**  
-District Judge Robert Haney  
+District Judge Barry Denney 
 Delaware County Courthouse  
 PO Box 489  
-Jay, Oklahoma 74346  
-918-253-4329  
-Or email to [Robert.Haney@oscn.net](mailto:Robert.Haney@oscn.net)
+Jay, Oklahoma 74346    
+Or email to [barry.denney@oscn.net](mailto:barry.denney@oscn.net)
