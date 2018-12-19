@@ -13,7 +13,7 @@ expire: '2020-12-06 09:52 -0600'
 ---
 **Job Opening:** Certified Shorthand Reporter  
 **Location:** Ottawa County Courthouse  
-**Hiring Official:** District Judge Robert Haney  
+**Hiring Official:** District Barry Denney   
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
 **Necessary Qualification:** Certified by the Oklahoma CSR Board and as required by Oklahoma Statute
