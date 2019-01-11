@@ -13,7 +13,7 @@ location: Oklahoma County
 ---
 **Position:** Certified Shorthand Reporter 
 **Location:** Courthouse 
-**Hiring Official:**  District Judge-elect Natalie Mai 
+**Hiring Official:**  District Judge-elect Natalie Mai  
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
 **Necessary Qualifications:** Certified by the Oklahoma CSR Board as required by Oklahoma Statute  
@@ -23,5 +23,4 @@ c/o Renee Troxell
 321 Park Avenue, Room 322
 Oklahoma City, OK 73102  
 [renee.troxell@oscn.net](mailto:renee.troxell@oscn.net)  
-405-713-1423  
-
+405-713-1423
