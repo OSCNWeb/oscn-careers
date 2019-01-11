@@ -4,7 +4,7 @@ layout: career
 jobid: '2019-01-11 10:19 -0600'
 publish: '2019-01-11 10:19 -0600'
 expire: '2019-10-11 10:19 -0600'
-title: Certified Courtroom Report - Oklahoma - Ogden
+title: Certified Courtroom Report
 category:
   - csr
 sub_category:
