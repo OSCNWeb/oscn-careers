@@ -4,15 +4,15 @@ layout: career
 jobid: '2019-01-11 10:19 -0600'
 publish: '2019-01-11 10:19 -0600'
 expire: '2019-10-11 10:19 -0600'
-title: Certified Courtroom Report
+title: Certified Courtroom Report - Judge Ogden
 category:
   - csr
 sub_category:
   - DISTRICT
 location: Oklahoma County
 ---
-**Position:** Certified Shorthand Reporter 
-**Location:** Courthouse 
+**Position:** Certified Shorthand Reporter  
+**Location:** Courthouse  
 **Hiring Official:**  District Judge Richard C. Ogden   
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
