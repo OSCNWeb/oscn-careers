@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-01-23 08:03 -0600'
 publish: '2019-01-23 08:03 -0600'
-expire: '2019-01-23 08:03 -0600'
+expire: '2020-01-23 08:03 -0600'
 title: Certified Courtroom Reporter - Rogers
 sub_category:
   - DISTRICT
@@ -26,4 +26,3 @@ Rogers County Courthouse
 Claremore, Oklahoma 74017  
 918-923-4968  
 Or email to [sheila.condren@oscn.net](mailto:sheila.condren@oscn.net)
-
