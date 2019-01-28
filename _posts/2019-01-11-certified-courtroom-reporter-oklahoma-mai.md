@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-01-11 10:16 -0600'
 publish: '2019-01-11 10:16 -0600'
-expire: '2019-01-28 10:16 -0600'
+expire: '2019-01-27 10:16 -0600'
 title: Certified Courtroom Reporter - Judge Mai
 category:
   - csr
