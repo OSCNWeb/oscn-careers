@@ -4,7 +4,7 @@ layout: career
 jobid: '2019-01-11 10:19 -0600'
 publish: '2019-01-11 10:19 -0600'
 expire: '2019-10-11 10:19 -0600'
-title: Certified Courtroom Report - Judge Ogden
+title: Certified Courtroom Reporter - Judge Ogden
 category:
   - csr
 sub_category:
@@ -21,6 +21,4 @@ location: Oklahoma County
 District Judge Richard C. Ogden    
 321 Park Avenue, Room 325  
 Oklahoma City, OK 73102   
-405-713-1403    
-
-
+405-713-1403
