@@ -21,4 +21,5 @@ location: Oklahoma County
 District Judge Richard C. Ogden    
 321 Park Avenue, Room 325  
 Oklahoma City, OK 73102   
-405-713-1403
+405-713-1403  
+Or Email to [Richard.Odgen@oscn.net](mailto:richard.ogden@oscn.net)
