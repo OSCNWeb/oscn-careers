@@ -14,7 +14,7 @@ title: Certified Courtroom Reporter - Washington
 **Job Opening:** Certified Shorthand Reporter  
 **Position:** Certified Shorthand Reporter  
 **Location:** Washington County  
-**Hiring Official:** District Judge Linda Thomas 
+**Hiring Official:** District Judge Linda Thomas  
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
 **Necessary Qualifications:** Certified by the Oklahoma CSR Board as required by Oklahoma Statute
