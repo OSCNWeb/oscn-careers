@@ -24,5 +24,5 @@ District Judge Linda Thomas
 Washington County Courthouse  
 420 S. Johnstone, Room 310  
 Bartlesville, OK 74003  
-(918) 423-6866  
-Or email to [bertha.rogers@oscn.net](mailto:bertha.rogers@oscn.net)
+(918) 337-2880  
+Or email to [brenna.parker@oscn.net](mailto:brenna.parker@oscn.net)
