@@ -14,13 +14,13 @@ title: Certified Courtroom Reporter - Washington
 **Job Opening:** Certified Shorthand Reporter  
 **Position:** Certified Shorthand Reporter  
 **Location:** Washington County  
-**Hiring Official:** District Judge Curtis DeLapp  
+**Hiring Official:** District Judge Linda Thomas 
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
 **Necessary Qualifications:** Certified by the Oklahoma CSR Board as required by Oklahoma Statute
  
 **Resumes should be directed to:**   
-District Judge Curtis DeLapp   
+District Judge Linda Thomas   
 Washington County Courthouse  
 420 S. Johnstone, Room 310  
 Bartlesville, OK 74003  
