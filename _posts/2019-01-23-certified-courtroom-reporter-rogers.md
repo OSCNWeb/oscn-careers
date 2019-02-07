@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-01-23 08:03 -0600'
 publish: '2019-01-23 08:03 -0600'
-expire: '2020-01-23 08:03 -0600'
+expire: '2019-02-06 08:03 -0600'
 title: Certified Courtroom Reporter - Rogers
 sub_category:
   - DISTRICT
