@@ -14,7 +14,7 @@ location: McIntosh County
 **Job Opening:**  Certified Shorthand Reporter  
 **Effective:** January 1, 2019  
 **Position:** Certified Shorthand Reporter – Full Time  
-**Hiring Official:**  District Judge Mike Hogan 
+**Hiring Official:**  District Judge Mike Hogan  
 **Salary:**  Pursuant to Statute  
 **Benefits:** State Employment  
 **Necessary Qualifications:**  Certified by the Oklahoma CSR Board as required by Oklahoma Statute
