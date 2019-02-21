@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-02-21 07:58 -0600'
 publish: '2019-02-21 07:58 -0600'
-expire: '2019-06-21 07:58 -0600'
+expire: '2019-12-21 07:58 -0600'
 title: Certified Courtroom Reporter - Okfuskee
 category:
   - csr
