@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-02-19 14:23 -0600'
 publish: '2019-02-19 14:23 -0600'
-expire: '2019-06-19 14:23 -0600'
+expire: '2019-12-19 14:23 -0600'
 title: Certified Courtroom Reporter - Craig
 category:
   - csr
