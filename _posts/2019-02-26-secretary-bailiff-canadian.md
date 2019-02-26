@@ -4,7 +4,7 @@ layout: career
 jobid: '2019-02-26 12:17 -0600'
 publish: '2019-02-26 12:17 -0600'
 expire: '2019-10-26 12:17 -0600'
-title: Secretary / Bailiff - Canadian
+title: Secretary / Bailiff
 sub_category:
   - DISTRICT
 category:
