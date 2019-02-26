@@ -12,7 +12,7 @@ category:
 location: Canadian County
 ---
 **Position:** Secretary/Bailiff  
-**Location:** Canadian County Courthouse 
+**Location:** Canadian County Courthouse  
 **Hiring Official:** District Judge Paul Hesse  
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
