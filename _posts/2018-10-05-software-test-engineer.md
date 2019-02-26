@@ -9,6 +9,7 @@ category:
 sub_category:
   - AOC
 location: Oklahoma City
+expire: '2019-02-25 11:34 -0600'
 ---
 The Administrative Office of the Courts is in the process of developing a statewide, unified, multi-jurisdictional Case Management System across the Oklahoma Judiciary.  We are seeking, eager, talented, self-motivated individuals to join our MIS team to take the construction and implementation of the Oklahoma Case Management System (OUCMS) forward.  In this capacity, you will have the opportunity to collaborate with a highly experienced team and join them in influencing the implementation of the statewide OUCMS application by ensuring that all requirements are met in the design, configuration, implementation, and administration of a state-of-the-art case management system.  If you would like to bring your talents to bear in the exciting and challenging effort ahead of us, please submit your cover letter and resume for consideration as described below.
 
@@ -45,4 +46,3 @@ The Software Test Engineer will work closely with cross-functional team members 
 - Computer Science, MIS, or related four-year degree.   Five years professional quality assurance experience may be substituted for a degree.  Java Scripting a plus.
 - 3+ years of relevant automated, software QA experience.  Selenium experience preferred.
 - Knowledge in court processes, Protractor, Postman, API Testing a plus.
-
