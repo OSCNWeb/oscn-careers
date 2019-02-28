@@ -9,6 +9,7 @@ category:
 sub_category:
   - AOC
 location: Oklahoma City
+expire: '2019-02-27 13:24 -0600'
 ---
 The Administrative Office of the Courts (AOC) Management Information Services (MIS) department is seeking a seasoned security professional to join the organization as an **Information Security Administrator**.  
 
