@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-02-26 12:17 -0600'
 publish: '2019-02-26 12:17 -0600'
-expire: '2019-04-01 12:17 -0600'
+expire: '2019-03-31 12:17 -0600'
 title: Secretary / Bailiff
 sub_category:
   - DISTRICT
