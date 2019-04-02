@@ -16,7 +16,7 @@ location: Tulsa County
 **Hiring Official:** Presiding Judge William J. Musseman, Jr.  
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
-**Applications available:**  www.tulsacountydistrictcourt.org  
+**Applications available:**  [www.tulsacountydistrictcourt.org](www.tulsacountydistrictcourt.org)  
 **Application deadline:** April 22, 2019, 4:00 p.m.  
  
 **Applications should be directed to:**   
@@ -24,5 +24,4 @@ Vicki A. Cox
 Court Administrator   
 Tulsa County Courthouse    
 500 S. Denver, Room 637    
-Tulsa, OK  74103    
-
+Tulsa, OK  74103
