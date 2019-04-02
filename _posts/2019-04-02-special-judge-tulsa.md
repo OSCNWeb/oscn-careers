@@ -16,7 +16,7 @@ location: Tulsa County
 **Hiring Official:** Presiding Judge William J. Musseman, Jr.  
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
-**Applications available:**  [www.tulsacountydistrictcourt.org](www.tulsacountydistrictcourt.org)  
+**Applications available:**  [www.tulsacountydistrictcourt.org](http://www.tulsacountydistrictcourt.org)  
 **Application deadline:** April 22, 2019, 4:00 p.m.  
  
 **Applications should be directed to:**   
