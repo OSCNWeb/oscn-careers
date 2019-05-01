@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-03-22 16:30 -0500'
 publish: '2019-03-22 16:30 -0500'
-expire: '2020-05-01 08:00 -0500'
+expire: '2020-04-31 08:00 -0500'
 title: Justice of the Supreme Court
 sub_category:
   - JNC
