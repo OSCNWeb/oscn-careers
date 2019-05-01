@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-03-22 16:30 -0500'
 publish: '2019-03-22 16:30 -0500'
-expire: '2020-03-22 16:30 -0500'
+expire: '2020-05-01 08:00 -0500'
 title: Justice of the Supreme Court
 sub_category:
   - JNC
@@ -29,4 +29,3 @@ Oklahoma Judicial Nominating Commission
 Administrative Office of the Courts  
 2100 N. Lincoln Blvd., Suite 3  
 Oklahoma City, Oklahoma 73105
-
