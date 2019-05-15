@@ -5,6 +5,11 @@ jobid: '2019-05-15 07:59 -0500'
 publish: '2019-05-15 07:59 -0500'
 expire: '2019-05-15 07:59 -0500'
 title: Secretary Bailiff Oklahoma Pemberton
+category:
+  - bailiffs
+sub_category:
+  - DISTRICT
+location: Oklahoma County
 ---
 **Position:** Secretary/Bailiff  
 **Location:** Oklahoma County Courthouse  
