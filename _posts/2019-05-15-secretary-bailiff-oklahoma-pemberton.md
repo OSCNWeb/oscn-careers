@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-05-15 07:59 -0500'
 publish: '2019-05-15 07:59 -0500'
-expire: '2019-05-15 07:59 -0500'
+expire: '2019-11-15 07:59 -0500'
 title: Secretary Bailiff Oklahoma Pemberton
 category:
   - bailiffs
