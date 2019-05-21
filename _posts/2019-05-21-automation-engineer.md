@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-05-21 07:32 -0500'
 publish: '2019-05-21 07:32 -0500'
-expire: '2019-05-21 07:32 -0500'
+expire: '2019-11-21 07:32 -0500'
 title: Automation Engineer
 category:
   - mis
