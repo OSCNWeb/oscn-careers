@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-04-02 11:37 -0500'
 publish: '2019-04-02 11:37 -0500'
-expire: '2019-10-02 11:37 -0500'
+expire: '2019-06-02 11:37 -0500'
 title: Certified Courtroom Reporter - Oklahoma
 category:
   - csr
@@ -29,4 +29,3 @@ Oklahoma City, OK  73102
 (405) 713-1423
 
 **Start Date:** As soon as possible
-
