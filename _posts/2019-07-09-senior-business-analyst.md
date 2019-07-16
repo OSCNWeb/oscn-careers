@@ -9,6 +9,7 @@ category:
 sub_category:
   - AOC
 location: Oklahoma City
+expire: '2019-09-16 08:57 -0500'
 ---
 The Administrative Office of the Courts is in the process of developing a statewide, unified, multi-jurisdictional Case Management System across the Oklahoma Judiciary.  To that end, the Administrative Office of the Courts (AOC) is seeking a self-motivated person to join the organization as a **Senior Business Analyst** with opportunity for growth to Product Owner.  The position should possess the skills necessary to provide operational support for the information systems of the Administrative Office of the Courts.
 
@@ -72,4 +73,3 @@ The **Senior Business Analyst** is the most important role for ensuring an Agile
 - ITIL and Agile certification(s) preferred.
 - DevOps experience preferred
 - Experience in court systems preferred.
-
