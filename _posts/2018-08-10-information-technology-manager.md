@@ -9,6 +9,7 @@ category:
 sub_category:
   - AOC
 location: Oklahoma City
+expire: '2019-07-22 13:10 -0500'
 ---
 Reporting to the MIS Director/Deputy Director, the **Information Technology Manager** is responsible for the design, installation, implementation, administration (including but not limited to budgetary input, human resource requirements, and strategic planning input), disaster recovery site, support, security, and documentation of infrastructure servers, computer and storage systems, and enterprise infrastructure applications.
 
@@ -62,4 +63,3 @@ The successful candidate will be able to grow and manage world class data center
 - 5 years of experience directly managing data centers, systems administration,  architecture/capacity, and operations teams.  Required.
 - ITIL certification(s) preferred.
 - Experience in court systems preferred.
-
