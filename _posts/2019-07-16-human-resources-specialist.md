@@ -7,9 +7,9 @@ expire: '2019-09-16 08:57 -0500'
 title: Human Resources Specialist
 category:
   - aoc
-sub_category:
-  - ACC
 location: Oklahoma City
+sub_category:
+  - AOC
 ---
 **Position Description:**
 Reporting to the General Counsel of the Administrative Office of the Courts, the Human Resources Specialist will assist the Administrative Director of the Courts and the General Counsel in performing HR duties on a professional level for the Oklahoma Judiciary. Essential functions of this position will include: 
@@ -50,4 +50,3 @@ This job operates in a professional office environment. This role routinely uses
 
 **Physical Demands**
 While performing the duties of this job, the employee is regularly required to talk, hear, comprehend, observe and evaluate. Specific vision abilities required by this job include close vision and ability to adjust focus. This position requires the ability to lift files, open filing cabinets, operate standard office and computer equipment, and bend or stand on a stool as necessary.
-
