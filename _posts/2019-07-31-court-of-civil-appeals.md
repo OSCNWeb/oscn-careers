@@ -9,7 +9,7 @@ location: One
 sub_category:
   - JNC
 category:
-  - Crim
+  - Civil
 ---
 **NOTICE OF JUDICIAL VACANCY**
 
