@@ -9,7 +9,7 @@ category:
 sub_category:
   - JNC
 expire: '2020-03-22 09:00 -0500'
-location: Muskogee County
+location: Oklahoma County
 ---
 **NOTICE OF JUDICIAL VACANCY**
 
@@ -17,7 +17,7 @@ The Judicial Nominating Commission seeks applicants to fill the following judici
 
 **District Judge  
 Seventh Judicial District, Office 12   
-Muskogee County**
+Oklahoma County**
 
 This vacancy is due to the untimely passing of the Honorable Lisa Davis on April 14, 2019.
 
