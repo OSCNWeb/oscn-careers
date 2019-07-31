@@ -5,7 +5,7 @@ jobid: '2019-07-31 09:02 -0500'
 publish: '2019-07-31 09:02 -0500'
 expire: '2020-07-31 09:02 -0500'
 title: Court of Civil Appeals
-location: Oklahoma City
+location: One
 sub_category:
   - JNC
 category:
