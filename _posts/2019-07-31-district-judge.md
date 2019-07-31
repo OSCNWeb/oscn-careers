@@ -9,6 +9,7 @@ category:
 sub_category:
   - JNC
 expire: '2020-03-22 09:00 -0500'
+location: Muskogee County
 ---
 **NOTICE OF JUDICIAL VACANCY**
 
