@@ -9,7 +9,7 @@ location: Oklahoma City
 sub_category:
   - JNC
 category:
-  - Supreme
+  - Crim
 ---
 **NOTICE OF JUDICIAL VACANCY**
 
