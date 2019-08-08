@@ -48,4 +48,3 @@ The **Software Test Engineer** will work closely with cross-functional team memb
 - Computer Science, MIS, or related four-year degree.   Five years professional quality assurance experience may be substituted for a degree.  Java Scripting a plus.
 - 3+ years of relevant automated, software QA experience.  Selenium experience preferred.
 - Knowledge in court processes, Protractor, Postman, API Testing a plus.
-
