@@ -9,15 +9,16 @@ category:
 sub_category:
   - DISTRICT
 location: Love County
+expire: '2020-08-08 14:12 -0500'
 ---
 **Position:** Certified Shorthand Reporter – Full Time  
 **Location:** Love County    
 **Hiring Official:** Associate District Judge T. Todd Hicks    
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
-**Necessary Qualifications:** Certified by the Oklahoma CSR Board and as required by Oklahoma Statute
+**Necessary Qualifications:** Certified by the Oklahoma CSR Board and as required by Oklahoma Statute  
+**Starting Date:** October 1st, 2019  
 
-**Available:** Presently    
 **Resumes should be directed to:**  
 Associate District Judge T. Todd Hicks  
 Love County Courthouse   
