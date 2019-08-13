@@ -3,7 +3,6 @@ published: true
 layout: career
 jobid: '2019-07-31 09:02 -0500'
 publish: '2019-07-31 09:02 -0500'
-expire: '2020-07-31 09:02 -0500'
 title: Court of Civil Appeals
 location: One
 sub_category:
@@ -16,8 +15,7 @@ category:
 The Judicial Nominating Commission seeks applicants to fill the following judicial office:
 
 **Judge for Oklahoma Court of Civil Appeals  
-District One, Office One   
-Muskogee County**
+District One, Office One**
 
 This vacancy is created by the retirement of the Honorable Jerry L. Goodman effective July 31, 2019.
 
