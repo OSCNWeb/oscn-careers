@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-07-16 08:57 -0500'
 publish: '2019-07-16 08:57 -0500'
-expire: '2019-08-14 08:57 -0500'
+expire: '2019-08-13 08:57 -0500'
 title: Human Resources Specialist
 category:
   - aoc
