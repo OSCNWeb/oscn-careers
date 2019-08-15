@@ -15,7 +15,7 @@ location: Oklahoma City
 **Position:** Juvenile Court Case Manager   
 
 **Necessary Qualifications:** Attorney Licensed to Practice in Oklahoma with at least 2 years' experience in juvenile or family law;  
-OR  
+**OR**  
 Bachelor's Degree in the social sciences or related field with 3 years' experience with court procedures, juvenile law, or social work. A master's degree in social sciences may substitute for one year of the required experience. 
 
 Familiarity with the Indian Child Welfare Act is preferred.
