@@ -6,9 +6,7 @@ publish: '2019-08-15 08:59 -0500'
 expire: '2020-08-15 08:59 -0500'
 title: Juvenile Court Case Manager Oklahoma
 category:
-  - District
-sub_category:
-  - DISTRICT
+  - county
 location: Oklahoma City
 ---
 **Location:** Juvenile Justice Center  
