@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-08-09 15:20 -0500'
 publish: '2019-08-09 15:20 -0500'
-expire: '2020-08-09 15:20 -0500'
+expire: '2019-08-09 15:20 -0500'
 title: Systems Technician
 category:
   - mis
@@ -60,4 +60,3 @@ The AOC Systems Technician must be able to sit for prolonged periods in front of
 - Lifting heavy equipment (up to 50 lbs. unassisted), 
 - Bending, standing, climbing or walking.  
 - Traveling to remote locations within the State of Oklahoma will incur, but not be limited to 75% of job related assignments. Some overnight stay will be necessary.  Valid driver license is required.
-
