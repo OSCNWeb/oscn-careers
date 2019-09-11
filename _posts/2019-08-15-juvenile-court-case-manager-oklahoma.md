@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-08-15 08:59 -0500'
 publish: '2019-08-15 08:59 -0500'
-expire: '2020-08-15 08:59 -0500'
+expire: '2019-09-10 08:59 -0500'
 title: Juvenile Court Case Manager Oklahoma
 category:
   - county
@@ -30,6 +30,3 @@ Judge Trevor S. Pemberton
 Oklahoma City, OK 73118  
 Phone 713-6796  
 [trevor.pemberton@oscn.net](mailto:trevor.pemberton@oscn.net)
-
-
-
