@@ -15,7 +15,7 @@ location: Osage County
 **Location:** Osage County  
 **Hiring Official:** Associate District Judge Stuart Tate   
 **Salary:** Pursuant to Statute  
-**Benefits:** State Employment 
+**Benefits:** State Employment  
 **Necessary Qualifications:** Certified by the Oklahoma CSR Board and as required by Oklahoma Statute  
 **Available:** Immediately
 
@@ -24,4 +24,3 @@ Associate District Judge Stuart Tate
 Osage County Courthouse  
 600 Grandview, Room 203  
 Pawhuska, OK 74056
-
