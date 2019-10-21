@@ -4,7 +4,7 @@ layout: career
 jobid: '2019-10-21 08:51 -0500'
 publish: '2019-10-21 08:51 -0500'
 expire: '2019-10-21 08:51 -0500'
-title: Secretary / Bailiff - Oklahoma - Coleman
+title: Secretary / Bailiff
 ---
 ## A New Post
 
