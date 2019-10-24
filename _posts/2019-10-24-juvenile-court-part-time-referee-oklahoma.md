@@ -25,3 +25,8 @@ Judge Trevor S. Pemberton
 Oklahoma City, OK  73118  
 Phone 713-6796  
 [trevor.pemberton@oscn.net](mailto:trevor.pemberton@oscn.net)
+
+**RESUMES MUST BE RECEIVED BY November 14, 2019**
+
+**Preferred start date is December 2, 2019.**
+
