@@ -4,7 +4,7 @@ layout: career
 jobid: '2019-09-05 17:02 -0500'
 publish: '2019-09-05 17:02 -0500'
 expire: '2020-09-05 17:02 -0500'
-title: Juvenile Court Case Manager - Tulsa
+title: Juvenile Court Case Manager
 category:
   - Juvenile
 location: Tulsa County
