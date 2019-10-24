@@ -9,7 +9,7 @@ location: Oklahoma County
 sub_category:
   - DISTRICT
 category:
-  - county
+  - Juvenile
 ---
 **Position:** Juvenile Court Referee   
 **Location:** Juvenile Justice Center  
@@ -29,4 +29,3 @@ Phone 713-6796
 **RESUMES MUST BE RECEIVED BY November 14, 2019**
 
 **Preferred start date is December 2, 2019.**
-
