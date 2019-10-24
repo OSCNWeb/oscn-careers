@@ -50,6 +50,8 @@ prose:
               value: "csr"
             - name: "County"
               value: "county"
+            - name: "Juvenile"
+              value: "Juvenile"
             - name: "Supreme Court"
               value: "Supreme"
             - name: "OCCA"
