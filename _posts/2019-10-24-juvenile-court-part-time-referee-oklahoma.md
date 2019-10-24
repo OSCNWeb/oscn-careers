@@ -4,7 +4,7 @@ layout: career
 jobid: '2019-10-24 15:04 -0500'
 publish: '2019-10-24 15:04 -0500'
 expire: '2020-10-24 15:04 -0500'
-title: Juvenile Court Part-Time Referee - Oklahoma
+title: Juvenile Court Part-Time Referee
 location: Oklahoma County
 sub_category:
   - DISTRICT
