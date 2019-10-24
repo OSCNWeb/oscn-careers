@@ -9,7 +9,7 @@ location: Oklahoma County
 sub_category:
   - DISTRICT
 category:
-  - District
+  - county
 ---
 **Position:** Juvenile Court Referee   
 **Location:** Juvenile Justice Center  
