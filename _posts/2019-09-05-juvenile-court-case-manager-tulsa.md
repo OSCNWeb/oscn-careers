@@ -6,8 +6,10 @@ publish: '2019-09-05 17:02 -0500'
 expire: '2020-09-05 17:02 -0500'
 title: Juvenile Court Case Manager - Tulsa
 category:
-  - county
+  - Juvenile
 location: Tulsa County
+sub_category:
+  - DISTRICT
 ---
 **Location:** Juvenile Bureau  
 **Hiring Official:** District Judge Martha Rupp Carter  
