@@ -9,7 +9,7 @@ sub_category:
   - JNC
 location: Judge
 category:
-  - judicial
+  - OWCC
 ---
 **NOTICE OF JUDICIAL VACANCY** 
 
