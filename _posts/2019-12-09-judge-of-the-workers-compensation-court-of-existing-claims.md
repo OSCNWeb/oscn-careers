@@ -9,7 +9,7 @@ sub_category:
   - JNC
 location: Workers' Compensation Court of Existing Claims
 category:
-  - APP
+  - District
 ---
 **NOTICE OF JUDICIAL VACANCY** 
 
@@ -23,4 +23,4 @@ Application forms can be obtained on line at www.oscn.net, click on Programs, th
 Jim Webb, Chairman  
 Oklahoma Judicial Nominating Commission  
 2100 North Lincoln Boulevard, Suite 3  
-Oklahoma City, OK  73105  
+Oklahoma City, OK  73105
