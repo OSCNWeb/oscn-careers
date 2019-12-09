@@ -7,9 +7,9 @@ expire: '2020-12-09 08:14 -0600'
 title: Judge of the Workers Compensation Court of Existing Claims
 sub_category:
   - JNC
-location: Workers' Compensation Court of Existing Claims
+location: Judge
 category:
-  - District
+  - judicial
 ---
 **NOTICE OF JUDICIAL VACANCY** 
 
