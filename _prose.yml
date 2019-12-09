@@ -58,6 +58,8 @@ prose:
               value: "Crim"
             - name: "COCA"
               value: "Civil"              
+            - name: "OWCC"
+              value: "OWCC"              
             - name: "Appellate"
               value: "APP"              
       - name: "sub_category"
