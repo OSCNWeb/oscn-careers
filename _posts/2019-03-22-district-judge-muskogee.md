@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-03-22 16:32 -0500'
 publish: '2019-03-22 16:32 -0500'
-expire: '2020-03-22 16:32 -0500'
+expire: '2019-12-10 16:32 -0500'
 title: District Judge
 sub_category:
   - JNC
