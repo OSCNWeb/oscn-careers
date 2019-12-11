@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-05-29 09:27 -0500'
 publish: '2019-05-29 09:27 -0500'
-expire: '2020-05-29 09:27 -0500'
+expire: '2019-12-10 09:27 -0500'
 title: Associate District Judge
 category:
   - District
