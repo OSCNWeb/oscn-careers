@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-10-21 08:51 -0500'
 publish: '2019-10-21 08:51 -0500'
-expire: '2020-02-21 08:51 -0500'
+expire: '2019-12-16 08:51 -0500'
 title: Secretary / Bailiff
 category:
   - bailiffs
@@ -25,4 +25,3 @@ District Judge Kendra Coleman
 Oklahoma City, OK  73102  
 Phone 713-1420  
 [kendra.coleman@oscn.net](mailto:kendra.coleman@oscn.net)
-  
