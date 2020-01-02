@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-05-01 13:13 -0500'
 publish: '2019-05-01 13:13 -0500'
-expire: '2020-05-01 13:13 -0500'
+expire: '2020-01-01 13:13 -0500'
 category:
   - Supreme
 sub_category:
