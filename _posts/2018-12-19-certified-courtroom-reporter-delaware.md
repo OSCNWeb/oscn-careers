@@ -13,15 +13,15 @@ location: Delaware County
 ---
 **Job Opening:** Certified Shorthand Reporter  
 **Location:** Delaware County Courthouse  
-**Hiring Official:** District Barry Denney   
+**Hiring Official:** Associate District Judge Dave Crutchfield  
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
 **Necessary Qualification:** Certified by the Oklahoma CSR Board and as required by Oklahoma Statute
  
 **Resumes should be directed to:**  
-District Judge Barry Denney 
+Associate District Judge Dave Crutchfield  
 Delaware County Courthouse  
-PO Box 489  
+327 S. 5th St.    
 Jay, Oklahoma 74346  
 918-253-4329  
-Or email to [Barry.Denney@oscn.net](mailto:barry.denney@oscn.net)
+Or email to [Dave.Crutchfield@oscn.net](mailto:Dave.Crutchfield@oscn.net)
