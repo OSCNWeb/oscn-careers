@@ -13,15 +13,15 @@ expire: '2020-12-06 09:52 -0600'
 ---
 **Job Opening:** Certified Shorthand Reporter  
 **Location:** Ottawa County Courthouse  
-**Hiring Official:** District Barry Denney   
+**Hiring Official:** Associate District Judge Jennifer McAffrey  
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
 **Necessary Qualification:** Certified by the Oklahoma CSR Board and as required by Oklahoma Statute
  
 **Resumes should be directed to:**  
-District Judge Barry Denney 
-Delaware County Courthouse  
-PO Box 489  
-Jay, Oklahoma 74346  
-918-253-4329  
-Or email to [barry.denney@oscn.net](mailto:barry.denney@oscn.net)
+Associate District Judge Jennifer McAffrey  
+Ottawa County Courthouse  
+102 E Central Ave., Ste. 204  
+Miami, Oklahoma 74354  
+918-542-2862  
+Or email to [jennifer.mcaffrey@oscn.net](mailto:jennifer.mcaffrey@oscn.net)
