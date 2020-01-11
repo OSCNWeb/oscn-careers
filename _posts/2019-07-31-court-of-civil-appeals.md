@@ -9,6 +9,7 @@ sub_category:
   - JNC
 category:
   - Civil
+expire: '2020-01-10 14:20 -0600'
 ---
 **NOTICE OF JUDICIAL VACANCY**
 
