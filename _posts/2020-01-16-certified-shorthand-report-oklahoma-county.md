@@ -5,6 +5,11 @@ jobid: '2020-01-16 11:21 -0600'
 publish: '2020-01-16 11:21 -0600'
 expire: '2021-01-16 11:21 -0600'
 title: Certified Shorthand Report - Oklahoma County
+category:
+  - csr
+sub_category:
+  - DISTRICT
+location: Oklahoma County
 ---
 **Position:** Certified Shorthand Reporter (Full-time)  
 **Location:** Canadian County Courthouse  
@@ -20,4 +25,3 @@ Oklahoma City, OK  73102
 Phone 405-713-1433
 
 **RESUMES BEING ACCEPTED IMMEDIATELY**
-
