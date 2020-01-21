@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-09-17 10:48 -0500'
 publish: '2019-09-17 10:48 -0500'
-expire: '2020-09-17 10:48 -0500'
+expire: '2020-01-20 10:48 -0500'
 title: Technical Support Specialist
 category:
   - mis
@@ -52,4 +52,3 @@ The Administrative Office of the Courts (AOC) is seeking a self-motivated person
 **Physical Demands:**  
 - Sit or stand for prolonged periods.
 - Occasional travel to remote locations within the State of Oklahoma.
-
