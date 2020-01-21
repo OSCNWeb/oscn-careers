@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-08-28 11:32 -0500'
 publish: '2019-08-28 11:32 -0500'
-expire: '2020-08-28 11:32 -0500'
+expire: '2020-01-20 11:32 -0500'
 title: Project Manager
 category:
   - mis
@@ -52,4 +52,3 @@ The Administrative Office of the Courts (AOC) is seeking a self-motivated person
 **Physical Demands:**
 
 - Occasional travel to remote office locations within the state of Oklahoma.
-
