@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-12-09 08:14 -0600'
 publish: '2019-12-09 08:14 -0600'
-expire: '2020-12-09 08:14 -0600'
+expire: '2020-01-17 08:14 -0600'
 title: Judge of the Workers Compensation Court of Existing Claims
 sub_category:
   - JNC
