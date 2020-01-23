@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-11-19 14:50 -0600'
 publish: '2019-11-19 9:00 -0600'
-expire: '2020-11-19 9:00 -0600'
+expire: '2020-01-22 9:00 -0600'
 title: Associate District Judge
 category:
   - District
@@ -29,4 +29,4 @@ Application forms can be obtained on line at www.oscn.net, click on Programs, th
 Jim Webb, Chairman  
 Oklahoma Judicial Nominating Commission  
 2100 North Lincoln Boulevard, Suite 3  
-Oklahoma City, OK  73105  
+Oklahoma City, OK  73105
