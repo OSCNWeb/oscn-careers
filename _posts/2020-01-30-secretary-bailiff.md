@@ -25,3 +25,5 @@ District Judge Richard C. Ogden
 Oklahoma City, OK  73102  
 Phone 713-1403  
 [richard.ogden@oscn.net](mailto:richard.ogden@oscn.net)
+
+**START DATE March 2, 2020**
