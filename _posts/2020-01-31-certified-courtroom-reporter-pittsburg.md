@@ -5,11 +5,11 @@ jobid: '2020-01-31 15:22 -0600'
 publish: '2020-01-31 15:22 -0600'
 expire: '2021-01-31 15:22 -0600'
 title: Certified Courtroom Reporter - Pittsburg
-category:
-  - bailiffs
 sub_category:
   - DISTRICT
 location: Pittsburg County
+category:
+  - csr
 ---
 **Job Opening:** Certified Shorthand Reporter  
 **Position:** Certified Shorthand Reporter - Full Time  
