@@ -23,6 +23,6 @@ category:
 District Judge Michael W. Hogan  
 Pittsburg County Courthouse  
 115 E. Carl Albert Parkway  
-McAlester OK  74502  
+McAlester OK  74501  
 (918) 423-6866  
 Or email to [mike.hogan@oscn.net](mailto:mike.hogan@oscn.net)
