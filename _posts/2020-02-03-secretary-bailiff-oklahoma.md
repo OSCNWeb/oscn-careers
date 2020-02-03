@@ -23,6 +23,6 @@ District Judge Richard C. Ogden
 [Richard.ogden@oscn.net](mailto:Richard.ogden@oscn.net)  
 321 Park Avenue, Room 325  
 Oklahoma City, OK  73102  
-Phone 713-1403  
+Phone 405-713-1403  
 
 **START DATE MARCH 2, 2020.**
