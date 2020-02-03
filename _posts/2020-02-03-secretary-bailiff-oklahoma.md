@@ -12,7 +12,7 @@ sub_category:
 location: Oklahoma County
 ---
 **Position:** Secretary/Bailiff  
-**Location:** Oklahoma County Courthouse 
+**Location:** Oklahoma County Courthouse  
 **Hiring Official:** District Judge Richard C. Ogden  
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
