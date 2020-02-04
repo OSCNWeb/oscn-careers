@@ -9,7 +9,7 @@ category:
   - Civil
 sub_category:
   - JNC
-location: Tenth District
+location: 4th District
 ---
 **NOTICE OF JUDICIAL VACANCY**
  
