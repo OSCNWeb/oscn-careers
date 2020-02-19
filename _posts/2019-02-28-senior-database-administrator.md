@@ -9,6 +9,7 @@ sub_category:
 category:
   - mis
 location: Oklahoma City
+expire: '2020-02-18 12:00 -0600'
 ---
 The Administrative Office of the Courts (AOC) is seeking a self-motivated person to assume the responsibilities of the Senior Database Administrator.  The Senior Database Administrator should possess the skills necessary to plan, coordinate and supervise all activities related to the design, development, implementation, improvement, and maintenance of Court databases in close collaboration with the Information Management and Infrastructure Teams.  The Senior Database Administrator oversees the database design and development, while working with multi-functional groups of Project Managers, Business Analysts, Network Administrators, Security Analysis, Quality Assurance Specialists, implementation teams, and court users to ensure continuous quality, on-time delivery, and customer satisfaction.  
 
