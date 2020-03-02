@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2020-01-16 11:20 -0600'
 publish: '2020-01-16 11:20 -0600'
-expire: '2020-04-01 11:20 -0600'
+expire: '2020-03-01 11:20 -0600'
 title: Special Judge - Oklahoma
 category:
   - judicial
