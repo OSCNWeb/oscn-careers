@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-10-16 09:42 -0500'
 publish: '2019-10-16 09:42 -0500'
-expire: '2020-10-16 09:42 -0500'
+expire: '2020-03-08 09:42 -0500'
 title: Certified Courtroom Reporter - Canadian
 sub_category:
   - DISTRICT
