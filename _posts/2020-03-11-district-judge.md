@@ -8,7 +8,7 @@ title: District Judge
 category:
   - judicial
 sub_category:
-  - DISTRICT
+  - JNC
 location: Osage County
 ---
 **NOTICE OF JUDICIAL VACANCY**
