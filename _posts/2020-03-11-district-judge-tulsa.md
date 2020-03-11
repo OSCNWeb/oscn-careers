@@ -4,7 +4,7 @@ layout: career
 jobid: '2020-03-11 09:34 -0500'
 publish: '2020-03-11 09:34 -0500'
 expire: '2020-04-18 09:34 -0500'
-title: District Judge - Tulsa
+title: District Judge
 category:
   - District
 sub_category:
