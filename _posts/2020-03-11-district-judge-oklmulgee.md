@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2020-03-11 09:32 -0500'
 publish: '2020-03-11 09:32 -0500'
-expire: '2020-03-11 09:32 -0500'
+expire: '2020-04-18 09:32 -0500'
 title: District Judge
 category:
   - District
@@ -24,4 +24,3 @@ c/o Tammy Reaves
 Administrative Office of the Courts  
 2100 N. Lincoln Blvd., Suite 3  
 Oklahoma City, OK 73105
-
