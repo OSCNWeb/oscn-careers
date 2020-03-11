@@ -5,11 +5,11 @@ jobid: '2020-03-11 08:53 -0500'
 publish: '2020-03-11 08:53 -0500'
 expire: '2020-04-11 08:53 -0500'
 title: District Judge
-category:
-  - judicial
 sub_category:
   - JNC
 location: Osage County
+category:
+  - District
 ---
 **NOTICE OF JUDICIAL VACANCY**
 
@@ -27,4 +27,4 @@ Oklahoma Judicial Nominating Commission
 c/o Tammy Reaves  
 Administrative Office of the Courts  
 2100 N. Lincoln Blvd., Suite 3  
-Oklahoma City, OK 73105  
+Oklahoma City, OK 73105
