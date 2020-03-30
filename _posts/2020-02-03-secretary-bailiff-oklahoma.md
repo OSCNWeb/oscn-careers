@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2020-02-03 14:30 -0600'
 publish: '2020-02-03 14:30 -0600'
-expire: '2021-02-03 14:30 -0600'
+expire: '2020-03-29 14:30 -0600'
 title: Secretary / Bailiff - Oklahoma
 category:
   - bailiffs
