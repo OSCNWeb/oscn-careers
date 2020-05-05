@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-12-18 10:03 -0600'
 publish: '2019-12-18 10:03 -0600'
-expire: '2020-06-18 10:03 -0600'
+expire: '2020-05-04 10:03 -0600'
 title: Service Delivery Manager
 category:
   - mis
