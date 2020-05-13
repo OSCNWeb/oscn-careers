@@ -16,7 +16,7 @@ location: Oklahoma County
 **Hiring Official:** Special Judge James M. Siderias  
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
-**Necessary Qualifications:** Proficiency in Microsoft Word and Excel.  Prepare orders, work with attorneys, prepare daily dockets, assist the Judge in Court, organize incoming reports, keep the Judge’s calendar, order supplies and assist with jurors during Jury trials.
+**Necessary Qualifications:** Proficiency in Microsoft Word and Excel.  Prepare orders, work with attorneys, prepare daily dockets, assist the Judge in Court, organize incoming reports, keep the Judge’s calendar, order supplies and perform other secretarial duties as requested by the Judge.  
 					
 **Applications:** Resumes should be mailed or delivered to:  
 Special Judge James M. Siderias    
