@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: career
 jobid: '2020-05-14 15:43 -0500'
 publish: '2020-05-14 15:43 -0500'
@@ -23,5 +23,4 @@ Associate District Judge Erin N. Kirksey
 Woodward County  
 1600 Main Street, Suite 6  
 Woodward, OK 73801  
-(580) 256-3566  
-
+(580) 256-3566
