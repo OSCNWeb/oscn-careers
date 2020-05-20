@@ -14,7 +14,7 @@ location: Tulsa County
 **Job Opening:** Certified Shorthand Reporter  
 **Position:** Certified Shorthand Reporter - Full Time  
 **Location:**  Tulsa County, Tulsa, Oklahoma  
-**Hiring Official:** District Judge William J. Musseman, Jr.   
+**Hiring Official:** District Judge William J. Musseman, Jr.     
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
 **Necessary Qualifications:** Certified by the Oklahoma CSR Board as required by Oklahoma Statute
@@ -24,4 +24,4 @@ location: Tulsa County
 District Judge William J. Musseman, Jr.  
 Tulsa County Courthouse  
 500 S. Denver, Rm 706  
-Tulsa, OK 74103  
+Tulsa, OK 74103
