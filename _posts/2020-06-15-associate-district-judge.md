@@ -21,8 +21,7 @@ Cleveland County, Oklahoma**
 
 This vacancy is created by the retirement of the Honorable Stephen W. Bonner on July 1, 2020.  
 
-**To be appointed an Associate District Judge, an individual must be a registered voter of the applicable judicial district at the time (s)he takes the oath of office and assumes the duties of office.  Additionally, prior to appointment, the appointee must have had a minimum of two years experience as a licensed practicing attorney, or as a judge of a court of record, or combination thereof, within the State of Oklahoma.
-**  
+**To be appointed an Associate District Judge, an individual must be a registered voter of the applicable judicial district at the time (s)he takes the oath of office and assumes the duties of office.  Additionally, prior to appointment, the appointee must have had a minimum of two years experience as a licensed practicing attorney, or as a judge of a court of record, or combination thereof, within the State of Oklahoma.**  
 
 Application forms can be obtained on line at www.oscn.net, click on Programs, then Judicial Nominating Commission or by contacting Tammy Reaves at (405) 556-9300.   Applications must be submitted to the Chairman of the Commission at the address below **no later than 5:00 p.m., Friday, July 24, 2020.  If applications are mailed, they must be postmarked by midnight, July 24, 2020.**  
   
