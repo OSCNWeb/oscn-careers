@@ -22,21 +22,21 @@ Reporting to the Technical Services Manager, the **Audio Visual Specialist** (AV
 - Participates in creating, testing and supporting Microsoft Teams/Skype Meetings
 - Working with training department to develop training and instructional materials for  users
 - Coordinate audio visual activities for conferences and events:
- - Scheduling Planning Sessions
- - Contacting Vendors and Venues
- - Communicating with Presenters
- - Organizing Presentations
- - Staff Scheduling and Labor Coordination
+  - Scheduling Planning Sessions
+  - Contacting Vendors and Venues
+  - Communicating with Presenters
+  - Organizing Presentations
+  - Staff Scheduling and Labor Coordination
 - Configuration and operation of the following conference and event based hardware:
- - Professional Camcorders
- - External Video Monitors/Recorders
- - Video Signal Converters
- - Live Production Switchers
- - Audio Mixers
- - Wireless Microphones
- - Projectors
- - Lighting and Sound Reinforcement
- - IP Based PTZ Cameras
+  - Professional Camcorders
+  - External Video Monitors/Recorders
+  - Video Signal Converters
+  - Live Production Switchers
+  - Audio Mixers
+  - Wireless Microphones
+  - Projectors
+  - Lighting and Sound Reinforcement
+  - IP Based PTZ Cameras
 - Video and Audio editing of recorded events or training sessions
 - Managing storage of media archives located on storage arrays, servers, and online
 - Maintains the security and integrity of all data
