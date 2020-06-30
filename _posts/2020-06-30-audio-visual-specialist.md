@@ -16,9 +16,9 @@ Reporting to the Technical Services Manager, the **Audio Visual Specialist** (AV
 **Responsibilities and essential functions will include (but are not limited to) the following:**
 
 - Responsible for configuration, installation and support of the following communication based software and hardware:
- - Microsoft Teams/Skype Room Systems
- - Microsoft Teams/Skype Desktop Applications
- - IP Based Phones and Phone System
+  - Microsoft Teams/Skype Room Systems
+  - Microsoft Teams/Skype Desktop Applications
+  - IP Based Phones and Phone System
 - Participates in creating, testing and supporting Microsoft Teams/Skype Meetings
 - Working with training department to develop training and instructional materials for  users
 - Coordinate audio visual activities for conferences and events:
