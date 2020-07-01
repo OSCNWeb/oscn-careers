@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2020-04-16 07:42 -0500'
 publish: '2020-04-16 07:42 -0500'
-expire: '2020-10-16 07:42 -0500'
+expire: '2020-06-30 07:42 -0500'
 title: District Judge
 category:
   - District
