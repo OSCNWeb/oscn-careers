@@ -5,11 +5,9 @@ jobid: '2020-07-14 10:08 -0500'
 publish: '2020-07-14 10:08 -0500'
 expire: '2020-08-14 10:08 -0500'
 title: Parent Representation Program Analyst
-sub_category:
-  - AOC
-category:
-  - Supreme
 location: Oklahoma City
+category:
+  - aoc
 ---
 The Supreme Court of Oklahoma through the Administrative Office of the Courts, Court Improvement Program is looking for an individual to be the Program Analyst to assist in the development of the Parent Representation Program (PRP).  The purpose of the PRP is to improve the quality of legal representation for parents involved with Oklahoma’s child welfare system by implementing attributes of high- quality representation.
 
