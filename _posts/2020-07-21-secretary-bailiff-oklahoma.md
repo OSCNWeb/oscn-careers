@@ -25,3 +25,4 @@ Oklahoma City, OK  73102
 Phone 713-1433  
 e-mail preferred [Richard.Kirby@oscn.net](mailto:Richard.Kirby@oscn.net)
 
+**START DATE September 9, 2020**
