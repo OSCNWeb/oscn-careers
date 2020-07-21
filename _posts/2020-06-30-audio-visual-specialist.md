@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2020-06-30 17:21 -0500'
 publish: '2020-06-30 17:21 -0500'
-expire: '2020-09-30 17:21 -0500'
+expire: '2020-07-20 17:21 -0500'
 title: Audio Visual Specialist
 sub_category:
   - AOC
