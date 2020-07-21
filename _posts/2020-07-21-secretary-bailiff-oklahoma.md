@@ -12,7 +12,7 @@ sub_category:
 location: Oklahoma County
 ---
 **Position:** Secretary/Bailiff  
-**Location:** Oklahoma County Courthouse 
+**Location:** Oklahoma County Courthouse  
 **Hiring Official:** Associate District Judge Richard Kirby  
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
