@@ -12,7 +12,7 @@ sub_category:
 location: Oklahoma County
 ---
 **Position:** Secretary/Bailiff  
-**Location:** Washington County Courthouse, Bartlesville, OK  
+**Location:** Oklahoma County  
 **Hiring Official:** Associate District Judge Richard Kirby  
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
