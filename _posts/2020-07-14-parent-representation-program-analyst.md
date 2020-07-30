@@ -1,12 +1,13 @@
 ---
-published: true
+published: false
 layout: career
 jobid: '2020-07-14 10:08 -0500'
 publish: '2020-07-14 10:08 -0500'
 expire: '2020-08-14 10:08 -0500'
 title: Parent Representation Program Analyst
 location: Oklahoma City
-category: okccip
+category:
+  - okccip
 ---
 The Supreme Court of Oklahoma through the Administrative Office of the Courts, Court Improvement Program is looking for an individual to be the Program Analyst to assist in the development of the Parent Representation Program (PRP).  The purpose of the PRP is to improve the quality of legal representation for parents involved with Oklahoma’s child welfare system by implementing attributes of high- quality representation.
 
@@ -59,4 +60,4 @@ c/o Court Improvement Program
 Administrative Office of the Courts  
 2100 N. Lincoln Blvd Ste 3  
 Oklahoma City, OK 73105  
-[Felice.hamilton@oscn.net](mailto:Felice.hamilton@oscn.net) 
+[Felice.hamilton@oscn.net](mailto:Felice.hamilton@oscn.net)
