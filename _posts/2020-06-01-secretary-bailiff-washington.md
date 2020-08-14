@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2020-06-01 10:06 -0500'
 publish: '2020-06-01 10:06 -0500'
-expire: '2020-10-01 10:06 -0500'
+expire: '2020-08-13 10:06 -0500'
 title: Secretary / Bailiff - Washington
 location: Washington County
 category:
