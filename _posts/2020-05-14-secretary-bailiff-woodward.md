@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2020-05-14 15:43 -0500'
 publish: '2020-05-14 15:43 -0500'
-expire: '2020-08-22 15:43 -0500'
+expire: '2020-08-13 15:43 -0500'
 title: Secretary / Bailiff - Woodward
 category:
   - bailiffs
