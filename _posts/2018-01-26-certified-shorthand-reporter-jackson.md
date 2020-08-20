@@ -19,9 +19,9 @@ location: 'Jackson, Harmon, Tillman, Greer, and Kiowa Counties'
 <strong>Necessary Qualifications:</strong> Certified by the Oklahoma CSR Board and as required by Oklahoma Statute<br>
 <strong>Available:</strong> Immediately</p>
 <p><strong>Resumes should be directed to:</strong><br>
-District Judge Richard Darby<br>
+District Judge Brad Leverett<br>
 Jackson County Courthouse<br>
-101 N. Main Street, Suite 304<br>
+101 N. Main Street, Suite 305<br>
 Altus, OK  73521<br>
-<a href="mailto:richard.darby@oscn.net" target="_blank">richard.darby@oscn.net</a><br>
-(Phone)  (580) 482-1665</p>
+<a href="mailto:brad.leverett@oscn.net" target="_blank">brad.leverett@oscn.net</a><br>
+(Phone)  (580) 482-1980</p>
