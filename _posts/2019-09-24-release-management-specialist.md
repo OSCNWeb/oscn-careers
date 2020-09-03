@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-09-24 08:56 -0500'
 publish: '2019-09-24 08:56 -0500'
-expire: '2020-09-24 08:56 -0500'
+expire: '2020-09-02 08:56 -0500'
 title: Release Management Specialist
 category:
   - mis
