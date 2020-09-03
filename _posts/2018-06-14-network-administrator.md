@@ -9,6 +9,7 @@ category:
 sub_category:
   - AOC
 location: Oklahoma City
+expire: '2020-09-02 15:13 -0500'
 ---
 The Administrative Office of the Courts (AOC) is seeking a self-motivated person to join the organization as a **Network Administrator**. If you would like to bring your talents to bear please submit your cover letter and resume for consideration as described below.
 
