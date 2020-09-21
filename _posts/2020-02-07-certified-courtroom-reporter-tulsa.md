@@ -19,7 +19,7 @@ location: Tulsa County
 **Benefits:** State Employment  
 **Necessary Qualifications:** Certified by the Oklahoma CSR Board as required by Oklahoma Statute
  
-**Available:** tentative date March, 2020  
+**Available:** Immediately  
 **Resumes should be directed to:**   
 District Judge William J. Musseman, Jr.  
 Tulsa County Courthouse  
