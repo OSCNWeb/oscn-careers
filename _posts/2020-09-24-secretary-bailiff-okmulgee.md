@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2020-09-24 08:28 -0500'
 publish: '2020-09-24 08:28 -0500'
-expire: '2020-10-10 08:28 -0500'
+expire: '2020-10-08 08:28 -0500'
 title: Secretary / Bailiff - Okmulgee
 category:
   - bailiffs
