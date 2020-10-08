@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2020-09-24 13:46 -0500'
 publish: '2020-09-24 13:46 -0500'
-expire: '2020-10-10 13:46 -0500'
+expire: '2020-10-07 13:46 -0500'
 title: Special Judge - Okmulgee
 sub_category:
   - DISTRICT
