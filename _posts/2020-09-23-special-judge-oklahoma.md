@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2020-09-23 12:28 -0500'
 publish: '2020-09-23 12:28 -0500'
-expire: '2020-12-01 12:28 -0500'
+expire: '2020-10-23 12:28 -0500'
 title: Special Judge - Oklahoma
 sub_category:
   - DISTRICT
@@ -31,4 +31,3 @@ by 4:00 PM on October 23, 2020.
 Salary and benefits are paid pursuant to State Law and/or Supreme Court order.
 
 **Start Date is December 1, 2020**.
-
