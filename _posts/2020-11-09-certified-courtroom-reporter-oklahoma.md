@@ -13,10 +13,10 @@ location: Oklahoma County
 ---
 **Position:** Certified Shorthand Reporter  
 (Juvenile Court Pool)  
-(Full-time)
+(Full-time)  
 **Location:** Juvenile Justice Center  
 5905 Classen Court  
-Oklahoma City, OK 73118
+Oklahoma City, OK 73118  
 **Hiring Official:** District Judge Sheila Stinson  
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
