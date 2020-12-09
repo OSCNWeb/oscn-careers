@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2020-11-24 13:31 -0600'
 publish: '2020-11-24 13:31 -0600'
-expire: '2020-12-09 13:31 -0600'
+expire: '2020-12-08 13:31 -0600'
 title: Secretary / Bailiff - Oklahoma
 location: Oklahoma County
 category:
