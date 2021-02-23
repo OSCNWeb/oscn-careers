@@ -4,7 +4,7 @@ layout: career
 jobid: '2021-02-23 08:33 -0600'
 publish: '2021-02-23 08:33 -0600'
 expire: '2021-08-23 08:33 -0600'
-title: Certified Shorthand Reporter - Oklahoma - Stallings
+title: Certified Shorthand Reporter - Oklahoma
 category:
   - csr
 sub_category:
