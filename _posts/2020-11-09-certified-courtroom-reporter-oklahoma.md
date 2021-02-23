@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2020-11-09 08:26 -0600'
 publish: '2020-11-09 08:26 -0600'
-expire: '2020-12-01 08:26 -0600'
+expire: '2021-12-01 08:26 -0600'
 title: Certified Courtroom Reporter - Oklahoma
 category:
   - csr
@@ -25,10 +25,11 @@ Oklahoma City, OK 73118
 
 **Applications:**   
 **Resumes should be directed to:**  
-Renée Troxell    
-321 Park Avenue, Room 322  
-Oklahoma City, OK  73102  
-(405) 713-1423
-[renee.troxell@oscn.net](mailto:renee.troxell@oscn.net)  
+District Judge Sheila Stinson  
+Juvenile Justice Center  
+5905 Classen Court, JUV-205  
+Oklahoma City, OK 73118  
+405-713-6796  
+[Sheila.Stinson@oscn.net](mailto:Sheila.Stinson@oscn.net)  
 
-**Start Date:** December 1, 2020
+**Start Date:** ASAP
