@@ -22,7 +22,7 @@ location: Oklahoma County
 
 **Applications:**   
 **Resumes should be directed to:**  
-Renée Troxell   
+Renee Troxell   
 Trial Court Administrator	  
 321 Park Avenue, Room 322  
 Oklahoma City, OK  73102  
