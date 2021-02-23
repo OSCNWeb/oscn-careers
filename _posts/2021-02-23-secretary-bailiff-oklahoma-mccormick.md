@@ -16,7 +16,7 @@ location: Oklahoma County
 **Hiring Official:** Special Judge Mark McCormick  
 **Salary:** Pursuant to Statute  
 **Benefits:** State Employment  
-**Job Qualifications:** Proficiency in Microsoft Word and Excel. Prepare orders and Judgement and Sentences, work with attorneys, prepare daily dockets and jail lists, assist the Judge in Court, organize incoming reports, keep the Judge's calendar, order supplies, answer the phone, and prepare jury instructions and assist with jurors during Jury trials.
+**Job Qualifications:** Proficiency in Microsoft Word and Excel.  Prepare orders and Judgement and Sentences, work with attorneys, prepare daily dockets and jail lists, assist the Judge in Court, organize incoming reports, keep the Judge’s calendar, order supplies, answer the phone, and other office related duties as assigned.
 
 **Applications:** Resumes should be sent to:  
 Special Judge Mark McCormick  
