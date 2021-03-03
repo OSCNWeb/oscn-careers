@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2021-01-15 08:09 -0600'
 publish: '2021-01-15 08:09 -0600'
-expire: '2021-12-15 08:09 -0600'
+expire: '2021-03-01 08:09 -0600'
 title: Technical Support Specialist
 category:
   - mis
