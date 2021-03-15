@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2020-11-09 08:26 -0600'
 publish: '2020-11-09 08:26 -0600'
-expire: '2021-12-01 08:26 -0600'
+expire: '2021-03-14 08:26 -0600'
 title: Certified Courtroom Reporter - Oklahoma
 category:
   - csr
