@@ -51,7 +51,7 @@ The **Information Security Administrator** will be able to administer security s
 **Education / Experience:**
 
 - Bachelor's Degree in Computer Science, Management Information Systems, or related field, or equivalent experience (2-3 years).  
-- Certifications: Comp TIA’s Security +
+- Certifications: Comp TIA's Security +
 - Two or more years of progressive experience in computing and information security, including experience with Internet technology and security issues.  Experience in court systems preferred. 
 - Experience working on large priority projects as a team member. 
 - Experience with Microsoft Project, Imperva, Palo Alto, Traps, AlienVault, or SCCM preferred.
