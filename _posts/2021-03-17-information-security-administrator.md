@@ -9,6 +9,7 @@ sub_category:
 category:
   - mis
 location: Oklahoma City
+expire: '2021-03-17 09:41 -0500'
 ---
 Reporting to the Director / Deputy Director Management Information Systems, the **Information Security Administrator** will be responsible for establishing and maintaining an information security program to ensure adequate protection for information assets.  
 
@@ -55,4 +56,3 @@ The **Information Security Administrator** will be able to administer security s
 - Two or more years of progressive experience in computing and information security, including experience with Internet technology and security issues.  Experience in court systems preferred. 
 - Experience working on large priority projects as a team member. 
 - Experience with Microsoft Project, Imperva, Palo Alto, Traps, AlienVault, or SCCM preferred.
-
