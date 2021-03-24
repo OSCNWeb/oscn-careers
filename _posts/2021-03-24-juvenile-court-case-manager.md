@@ -23,9 +23,9 @@ location: Tulsa County
 - Hold a bachelor's degree in the social sciences or related field from an accredited college or university and three (3) years experience working with court procedures, juvenile law or social work. A master’s degree in social sciences may substitute for one year of the required experience.
 
 **Applications:**
-Resumes and letters of reference should be mailed or emailed to:
-Vicki A. Cox, Court Administrator
-500 S. Denver, Room 637
-Tulsa, OK 74103
-918-596-5400
+Resumes and letters of reference should be mailed or emailed to:  
+Vicki A. Cox, Court Administrator  
+500 S. Denver, Room 637  
+Tulsa, OK 74103  
+918-596-5400  
 [vicki.cox@oscn.net](mailto:vicki.cox@oscn.net)
