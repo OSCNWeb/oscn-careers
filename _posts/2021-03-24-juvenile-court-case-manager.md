@@ -28,5 +28,5 @@ Resumes and letters of reference should be mailed or emailed to:
 Vicki A. Cox, Court Administrator  
 500 S. Denver, Room 637  
 Tulsa, OK 74103  
-918-596-5400  
+918-596-5400   
 [vicki.cox@oscn.net](mailto:vicki.cox@oscn.net)
