@@ -17,11 +17,11 @@ location: Tulsa County
 **Hiring Official:** Tulsa County District Court  
 **Salary:** $32,225  
 **Benefits:** State Employment  
-**Necessary Qualifications:** Computer skills required, prefer proficiency in Word, Outlook, Excel
-Available: Various, positions open until filled
+**Necessary Qualifications:** Computer skills required, prefer proficiency in Word, Outlook, Excel  
+**Available:** Various, positions open until filled
 
 **Resumes should be directed to:** 
 Vicki A. Cox, Trial Court Administrator  
 Tulsa County Courthouse  
 500 S. Denver, Rm 637  
-Tulsa, OK 74103  
+Tulsa, OK 74103
