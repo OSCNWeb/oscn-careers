@@ -10,13 +10,13 @@ sub_category:
   - DISTRICT
 location: Oklahoma County
 ---
-**Position:** Secretary/Bailiff
-**Location:** Oklahoma County Courthouse		
-**Hiring Official:** District Judge-select Anthony L. Bonner, Jr.
-**Salary:** Pursuant to Statute
+**Position:** Secretary/Bailiff  
+**Location:** Oklahoma County Courthouse  
+**Hiring Official:** District Judge-select Anthony L. Bonner, Jr.  
+**Salary:** Pursuant to Statute  
 **Benefits:** State Employment
 
-**Necessary Qualifications:** Proficiency in Microsoft Word and Excel.  Prepare orders, work with attorneys, prepare daily dockets, assist the Judge in Court, organize incoming reports, keep the Judge’s calendar, order supplies and assist with jurors during Jury trials.
+**Necessary Qualifications:** Proficiency in Microsoft Word and Excel.  Prepare orders, work with attorneys, prepare daily dockets, assist the Judge in Court, organize incoming reports, keep the Judge's calendar, order supplies and assist with jurors during Jury trials.
 
 **Applications:** Resumes should be sent to:  
 District Judge-select Anthony L. Bonner, Jr.  
