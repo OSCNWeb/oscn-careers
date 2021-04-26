@@ -20,7 +20,7 @@ location: Oklahoma County
 
 **Applications:** Resumes should be sent to:  
 District Judge-select Anthony L. Bonner, Jr.  
-c/o Ren&eacute;e Troxell, Trial Court Administrator  
+c/o Renee Troxell, Trial Court Administrator  
 321 Park Avenue, Room 322   
 Oklahoma City, OK  73102  
 Phone (405) 713-1423  
