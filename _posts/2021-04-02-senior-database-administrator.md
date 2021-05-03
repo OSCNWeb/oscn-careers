@@ -9,6 +9,7 @@ category:
 sub_category:
   - AOC
 location: Oklahoma City
+expire: '2021-05-01 13:59 -0500'
 ---
 Reporting to the Data Systems Manager, the **Senior Database Administrator** is responsible for the design, installation, implementation, administration, support, security and documentation of databases from all supported database platforms.
 
