@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2021-03-24 14:10 -0500'
 publish: '2021-03-24 14:10 -0500'
-expire: '2021-10-24 14:10 -0500'
+expire: '2021-05-09 14:10 -0500'
 title: Juvenile Court Case Manager
 category:
   - Juvenile
