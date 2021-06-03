@@ -9,7 +9,7 @@ category:
   - csr
 sub_category:
   - DISTRICT
-location: McIntosh
+location: McIntosh County
 ---
 **Job Opening:** Certified Shorthand Reporter  
 **Position:** Certified Shorthand Reporter - Full Time  
@@ -26,4 +26,3 @@ McAlester, OK 74501
 918-423-6866 phone  
 918-426-1886 fax   
 [mike.hogan@oscn.net](mailto:mike.hogan@oscn.net)
-
