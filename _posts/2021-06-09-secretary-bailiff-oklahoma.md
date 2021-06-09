@@ -27,5 +27,5 @@ Oklahoma City, OK  73102
 Phone 713-1116  
 [martha.oakes@oscn.net](mailto:martha.oakes@oscn.net)  
 
-**RESUMES BEING ACCEPTED IMMEDIATELY **
+**RESUMES BEING ACCEPTED IMMEDIATELY**  
 Start date August 2, 2021
