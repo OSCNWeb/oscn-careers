@@ -12,7 +12,7 @@ sub_category:
 location: Payne County
 ---
 **Job Opening:** Certified Shorthand Reporter  
-**Position:** Certified Shorthand Reporter – Full Time  
+**Position:** Certified Shorthand Reporter - Full Time  
 **Location:** Stillwater, Oklahoma, Payne County  
 **Hiring Official:** Associate District Judge Stephen Kistler  
 **Salary:** Pursuant to Statute  
