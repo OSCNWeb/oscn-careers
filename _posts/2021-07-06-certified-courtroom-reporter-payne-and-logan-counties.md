@@ -4,7 +4,7 @@ layout: career
 jobid: '2021-07-06 13:49 -0500'
 publish: '2021-07-06 13:49 -0500'
 expire: '2021-12-06 13:49 -0500'
-title: Certified Courtroom Reporter - Payne and Logan Counties
+title: Certified Courtroom Reporter
 category:
   - csr
 sub_category:
