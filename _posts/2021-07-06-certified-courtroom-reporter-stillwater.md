@@ -4,7 +4,7 @@ layout: career
 jobid: '2021-07-06 13:47 -0500'
 publish: '2021-07-06 13:47 -0500'
 expire: '2021-12-06 13:47 -0500'
-title: Certified Courtroom Reporter - Stillwater
+title: Certified Courtroom Reporter
 category:
   - csr
 sub_category:
