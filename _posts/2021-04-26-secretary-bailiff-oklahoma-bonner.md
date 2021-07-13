@@ -9,7 +9,7 @@ category:
 sub_category:
   - DISTRICT
 location: Oklahoma County
-expire: '2021-12-09 08:10 -0500'
+expire: '2021-07-12 08:10 -0500'
 ---
 **Position:** Secretary/Bailiff  
 **Location:** Oklahoma County Courthouse  
