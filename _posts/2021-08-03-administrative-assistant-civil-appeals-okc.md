@@ -9,7 +9,7 @@ location: Oklahoma City
 category:
   - Civil
 sub_category:
-  - JNC
+  - APP
 ---
 **Job Opening:** Administrative Assistant  
 **Position:** Full Time  
