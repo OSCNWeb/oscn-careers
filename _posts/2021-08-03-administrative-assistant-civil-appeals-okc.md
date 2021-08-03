@@ -5,11 +5,11 @@ jobid: '2021-08-03 13:18 -0500'
 publish: '2021-08-03 13:18 -0500'
 expire: '2021-08-16 13:18 -0500'
 title: Administrative Assistant
-sub_category:
-  - APP
-category:
-  - judicial
 location: Oklahoma City
+category:
+  - Civil
+sub_category:
+  - JNC
 ---
 **Job Opening:** Administrative Assistant  
 **Position:** Full Time  
