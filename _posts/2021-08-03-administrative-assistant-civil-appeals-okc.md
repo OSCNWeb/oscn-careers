@@ -4,7 +4,7 @@ layout: career
 jobid: '2021-08-03 13:18 -0500'
 publish: '2021-08-03 13:18 -0500'
 expire: '2021-08-16 13:18 -0500'
-title: COURT OF CIVIL APPEALS-OKC - Administrative Assistant
+title: 'COURT OF CIVIL APPEALS-OKC, Administrative Assistant'
 location: Oklahoma City
 category:
   - Civil
