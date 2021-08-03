@@ -8,7 +8,7 @@ title: Administrative Assistant
 sub_category:
   - APP
 category:
-  - Civil
+  - judicial
 location: Oklahoma City
 ---
 **Job Opening:** Administrative Assistant  
