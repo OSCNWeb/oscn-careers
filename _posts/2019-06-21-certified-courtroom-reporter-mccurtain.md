@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-06-21 11:13 -0500'
 publish: '2019-06-21 11:13 -0500'
-expire: '2020-06-21 11:13 -0500'
+expire: '2021-06-21 11:13 -0500'
 title: Certified Courtroom Reporter - McCurtain
 location: McCurtain County
 sub_category:
@@ -23,5 +23,4 @@ category:
 Judge Michael D. DeBerry  
 108 N. Central   
 Idabel, Oklahoma    
-[michael.deberry@oscn.net](mailto:michael.deberry@oscn.net)  
-
+[michael.deberry@oscn.net](mailto:michael.deberry@oscn.net)
