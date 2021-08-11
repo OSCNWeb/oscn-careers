@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2021-07-15 10:38 -0500'
 publish: '2021-07-15 10:38 -0500'
-expire: '2021-10-15 10:38 -0500'
+expire: '2021-08-10 10:38 -0500'
 title: Juvenile Court Part-Time Referee
 category:
   - Juvenile
