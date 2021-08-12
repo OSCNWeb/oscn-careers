@@ -9,6 +9,7 @@ category:
 sub_category:
   - AOC
 location: Oklahoma City
+expire: '2021-08-11 14:07 -0500'
 ---
 Reporting to the MIS Director /Deputy MIS Director, the **Information Security Analyst** is responsible for assisting with the administration of and providing operational support for the information security program of the Administrative Office of the Courts. Responsibilities include researching current and emerging security risks and proposing mitigation strategies, leading security-related projects and participating as a security representative in other MIS projects, providing non-supervisory leadership and mentoring to other security department personnel, assisting in the design of security policy and procedures, training, and awareness activities, monitoring compliance with IT security policy and applicable law, and assisting in the investigation and reporting of security incidents. The **Information Security Analyst** will also coordinate the identification and remediation of all security issues. This also includes participating in network penetration tests, application vulnerability assessment scans, PCI Compliance, and risk assessment reviews. 
 
@@ -49,4 +50,4 @@ Reporting to the MIS Director /Deputy MIS Director, the **Information Security A
 - Four or more years of progressive security experience in computing and information security, including experience with Internet technology and security issues.  Experience in court systems preferred. 
 - At least one year of experience in Imperva and AlienVault. 
 - Certifications: Certified Ethical Hacker (CEH), and Certified Information Systems Security Professional (CISSP)
-- Experience working on large priority projects as a team member. 
+- Experience working on large priority projects as a team member.
