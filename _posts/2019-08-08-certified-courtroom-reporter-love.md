@@ -11,7 +11,7 @@ sub_category:
 location: Love County
 expire: '2023-08-08 14:12 -0500'
 ---
-**Position:** Certified Shorthand Reporter – Full Time  
+**Position:** Certified Shorthand Reporter - Full Time  
 **Location:** Love County    
 **Hiring Official:** Associate District Judge T. Todd Hicks    
 **Salary:** Pursuant to Statute  
