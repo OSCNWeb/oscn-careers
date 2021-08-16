@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2021-08-16 13:59 -0500'
 publish: '2021-08-16 13:59 -0500'
-expire: '2021-12-16 13:59 -0500'
+expire: '2022-12-16 13:59 -0500'
 title: 'Secretary / Bailiff '
 sub_category:
   - DISTRICT
