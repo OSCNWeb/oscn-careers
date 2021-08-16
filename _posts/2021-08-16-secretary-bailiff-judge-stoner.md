@@ -27,5 +27,5 @@ Oklahoma City, OK  73102
 Phone (405) 713-2352  
 e-mail [Kenneth.Stoner@oscn.net](mailto:Kenneth.Stoner@oscn.net)
 
-**RESUMES BEING ACCEPTED IMMEDIATELY**
+**RESUMES BEING ACCEPTED IMMEDIATELY**  
 Start date as early as September 1, 2021
