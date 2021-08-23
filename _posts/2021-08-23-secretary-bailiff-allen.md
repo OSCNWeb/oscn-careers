@@ -4,7 +4,7 @@ layout: career
 jobid: '2021-08-23 15:35 -0500'
 publish: '2021-08-23 15:35 -0500'
 expire: '2021-12-23 15:35 -0500'
-title: Secretary / Bailiff - Allen
+title: Secretary / Bailiff
 sub_category:
   - DISTRICT
 category:
