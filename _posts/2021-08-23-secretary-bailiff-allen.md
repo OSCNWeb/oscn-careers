@@ -4,7 +4,7 @@ layout: career
 jobid: '2021-08-23 15:35 -0500'
 publish: '2021-08-23 15:35 -0500'
 expire: '2021-12-23 15:35 -0500'
-title: 'Secretary / Bailiff '
+title: Secretary / Bailiff - Allen
 sub_category:
   - DISTRICT
 category:
@@ -17,7 +17,7 @@ location: Oklahoma County
 **Salary:** $32,225.00  
 **Benefits:** State Employment  
 
-**Necessary Qualifications:** Proficiency in Microsoft Word and Excel.  Prepare orders, work with attorneys, prepare daily dockets, assist the Judge in Court, organize incoming reports, keep the Judge’s calendar, order supplies, assist with jurors during jury trials, and perform other secretarial duties as requested by the Judge.  
+**Necessary Qualifications:** Proficiency in Microsoft Word and Excel.  Prepare orders, work with attorneys, prepare daily dockets, assist the Judge in Court, organize incoming reports, keep the Judge's calendar, order supplies, assist with jurors during jury trials, and perform other secretarial duties as requested by the Judge.  
 					
 **Applications:**
 Resumes should be mailed or delivered to:  
