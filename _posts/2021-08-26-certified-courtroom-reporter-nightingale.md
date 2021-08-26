@@ -5,6 +5,11 @@ jobid: '2021-08-26 10:01 -0500'
 publish: '2021-08-26 10:01 -0500'
 expire: '2021-08-26 10:01 -0500'
 title: Certified Courtroom Reporter
+category:
+  - csr
+sub_category:
+  - DISTRICT
+location: Tulsa County
 ---
 **Job Opening:** Certified Shorthand Reporter  
 **Position:** Certified Shorthand Reporter-Full Time-
