@@ -4,7 +4,7 @@ layout: career
 jobid: '2021-08-26 10:01 -0500'
 publish: '2021-08-26 10:01 -0500'
 expire: '2021-08-26 10:01 -0500'
-title: Certified Courtroom Reporter - Nightingale
+title: Certified Courtroom Reporter
 ---
 **Job Opening:** Certified Shorthand Reporter  
 **Position:** Certified Shorthand Reporter-Full Time-
