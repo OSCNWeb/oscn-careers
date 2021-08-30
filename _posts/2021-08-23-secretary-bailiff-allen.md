@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2021-08-23 15:35 -0500'
 publish: '2021-08-23 15:35 -0500'
-expire: '2021-08-30 15:35 -0500'
+expire: '2021-08-29 15:35 -0500'
 title: Secretary / Bailiff
 sub_category:
   - DISTRICT
