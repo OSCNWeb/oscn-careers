@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2020-09-04 16:03 -0500'
 publish: '2020-09-04 16:03 -0500'
-expire: '2021-09-04 16:03 -0500'
+expire: '2020-09-04 16:03 -0500'
 title: 'Court of Civil Appeals,  District 5'
 category:
   - Civil
@@ -24,5 +24,4 @@ Oklahoma Judicial Nominating Commission
 c/o Tammy Reaves  
 Administrative Office of the Courts  
 2100 N. Lincoln Blvd., Suite 3  
-Oklahoma City, OK 73105  
-
+Oklahoma City, OK 73105
