@@ -4,7 +4,7 @@ layout: career
 jobid: '2021-09-01 09:19 -0500'
 publish: '2021-09-01 09:19 -0500'
 expire: '2021-09-01 09:19 -0500'
-title: Certified Courtroom Reporter
+title: Certified Shorthand Reporter
 category:
   - csr
 sub_category:
