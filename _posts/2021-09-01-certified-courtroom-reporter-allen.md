@@ -22,7 +22,7 @@ Necessary Qualifications: Certified by the Oklahoma CSR Board and as required by
 
 **Resumes should be directed to:**  
 District Judge-select Kaitlyn Allen  
-c/o Renée Troxell  
+c/o Ren&eacute;e Troxell  
 321 Park Avenue, Room 322  
 Oklahoma City, OK  73102  
 (405) 713-1423  
