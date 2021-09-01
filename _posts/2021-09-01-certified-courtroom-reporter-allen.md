@@ -4,7 +4,7 @@ layout: career
 jobid: '2021-09-01 09:19 -0500'
 publish: '2021-09-01 09:19 -0500'
 expire: '2021-09-01 09:19 -0500'
-title: Certified Courtroom Reporter - Allen
+title: Certified Courtroom Reporter
 category:
   - csr
 sub_category:
@@ -29,4 +29,3 @@ Oklahoma City, OK  73102
 [Renee.troxell@oscn.net](mailto:Renee.troxell@oscn.net)
 
 **Start Date October 1, 2021.**
-
