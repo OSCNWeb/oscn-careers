@@ -4,7 +4,7 @@ layout: career
 jobid: '2021-09-01 09:15 -0500'
 publish: '2021-09-01 09:15 -0500'
 expire: '2022-09-01 09:15 -0500'
-title: UntitledSecretary / Bailiff - Coyle
+title: Secretary / Bailiff - Coyle
 category:
   - bailiffs
 sub_category:
