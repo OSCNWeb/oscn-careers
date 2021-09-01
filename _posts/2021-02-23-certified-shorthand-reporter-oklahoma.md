@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2021-02-23 08:28 -0600'
 publish: '2021-02-23 08:28 -0600'
-expire: '2021-08-23 08:28 -0600'
+expire: '2022-08-23 08:28 -0600'
 title: Certified Shorthand Reporter - Oklahoma
 sub_category:
   - DISTRICT
@@ -11,12 +11,11 @@ category:
   - csr
 location: Oklahoma County
 ---
-**Position:** Certified Shorthand Reporter   
-(Full-time)  
+**Position:** Certified Shorthand Reporter (Two Full-time Positions)    
 **Location:** Courthouse Court Reporter Pool   
 **Hiring Official:** Trial Court Administrator    
 **Salary:** Pursuant to Statute  
-**Benefits:** State Employment  
+**Benefits:** State Employment (includes, paid annual and sick leave, insurance benefits, retirement)    
 **Necessary Qualifications:** Certified by the Oklahoma CSR Board And as required by Oklahoma statutes
 										
 
