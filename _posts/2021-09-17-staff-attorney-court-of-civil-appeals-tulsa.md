@@ -13,7 +13,7 @@ location: Tulsa County
 ---
 **Position:** Staff Attorney (term)  
 **Location:** Court of Civil Appeals – Tulsa  
-**Hiring Official:** Judge Gregory C. Blackwell 
+**Hiring Official:** Judge Gregory C. Blackwell  
 **Salary:** $74,603 per year  
 **Benefits:** Health, dental, etc.  
 **Qualifications:** 
