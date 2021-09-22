@@ -11,17 +11,18 @@ sub_category:
   - DISTRICT
 location: Noble County
 ---
-Job Opening: Certified Shorthand Reporter
-Position: Certified Shorthand Reporter - Full Time
-Location: Perry, Oklahoma, Noble County
-Hiring Official: Associate District Judge Nikki G. Leach
-Salary: Pursuant to Statute
-Benefits: State Employment
-Necessary Qualifications: Certified by the Oklahoma CSR Board as required by Oklahoma Statute
-Available: Immediately
-Resumes should be directed to:
-Associate District Judge Nikki G. Leach
-Noble County Courthouse
-300 Courthouse Dr.  Box #14
-Perry, OK., 73077
+**Job Opening:** Certified Shorthand Reporter  
+**Position:** Certified Shorthand Reporter - Full Time  
+**Location:** Perry, Oklahoma, Noble County  
+**Hiring Official:** Associate District Judge Nikki G. Leach  
+**Salary:** Pursuant to Statute  
+**Benefits:** State Employment  
+**Necessary Qualifications:** Certified by the Oklahoma CSR Board as required by Oklahoma Statute
+
+**Available:** Immediately  
+Resumes should be directed to:  
+Associate District Judge Nikki G. Leach  
+Noble County Courthouse  
+300 Courthouse Dr. Box #14  
+Perry, OK., 73077  
 
