@@ -5,7 +5,7 @@ jobid: '2021-09-29 09:50 -0500'
 publish: '2021-09-29 09:50 -0500'
 expire: '2022-09-29 09:50 -0500'
 title: Certified Courtroom Reporter
-location: Okmulgee
+location: Okmulgee County
 sub_category:
   - DISTRICT
 category:
@@ -24,4 +24,3 @@ Okmulgee County Courthouse
 314 W. 7th  
 Okmulgee, Oklahoma 74447  
 Or email to [cindy.pickering@oscn.net ](mailto:cindy.pickering@oscn.net)
-
