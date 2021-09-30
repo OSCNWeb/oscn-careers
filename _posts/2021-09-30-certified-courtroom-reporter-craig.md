@@ -4,7 +4,7 @@ layout: career
 jobid: '2021-09-30 12:13 -0500'
 publish: '2021-09-30 12:13 -0500'
 expire: '2022-09-30 12:13 -0500'
-title: Certified Courtroom Reporter - Craig
+title: Certified Courtroom Reporter
 category:
   - csr
 sub_category:
