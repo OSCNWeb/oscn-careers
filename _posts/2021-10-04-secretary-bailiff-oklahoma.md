@@ -12,7 +12,7 @@ category:
   - bailiffs
 ---
 **Position:** Secretary/Bailiff  
-**Location:** Oklahoma County Courthouse  			
+**Location:** Oklahoma County Courthouse  
 **Hiring Official:** Special Judge Kathryn Savage  
 **Salary:** $32,225.00  
 **Benefits:** State Employment (includes, paid annual and sick leave, insurance benefits, retirement)
