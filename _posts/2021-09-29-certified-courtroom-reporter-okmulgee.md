@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2021-09-29 09:50 -0500'
 publish: '2021-09-29 09:50 -0500'
-expire: '2022-09-29 09:50 -0500'
+expire: '2021-10-25 09:50 -0500'
 title: Certified Courtroom Reporter
 location: Okmulgee County
 sub_category:
