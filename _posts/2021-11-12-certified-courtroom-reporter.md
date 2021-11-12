@@ -24,7 +24,7 @@ District Judge K. Nikki Kirkpatrick
 321 Park Avenue, Room 223  
 Oklahoma City, OK  73102  
 Phone 405-713-7103  
-Nikki.Kirkpatrick@oscn.net
+[Nikki.Kirkpatrick@oscn.net](mailto:Nikki.Kirkpatrick@oscn.net)
 
 
 **Start Date:** ASAP
