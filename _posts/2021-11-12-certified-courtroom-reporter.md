@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2021-11-12 09:31 -0600'
 publish: '2021-11-12 09:31 -0600'
-expire: '2021-11-12 09:31 -0600'
+expire: '2022-11-12 09:31 -0600'
 title: Certified Courtroom Reporter
 location: Oklahoma County
 category:
