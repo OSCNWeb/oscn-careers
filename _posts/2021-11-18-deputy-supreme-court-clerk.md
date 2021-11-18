@@ -20,7 +20,7 @@ Position Description: This position is responsible for the intake and maintenanc
 - Assisting in filing all paperwork docketed with the Clerk's office on a daily basis.
 - Preparing and forwarding all requests for Attorney Certificates of Good Standing.
 - Assisting in directing the general public and attorneys about policies, procedures and rules of the Oklahoma Supreme Court when requested.
-- Assisting all other Deputy Supreme Court Clerk’s in the performance of their duties as necessary.
+- Assisting all other Deputy Supreme Court Clerk's in the performance of their duties as necessary.
 
 **Knowledge and Skill Requirements:**
 - The successful candidate will possess basic computer skills using the Microsoft Windows Suite to include Word, Excel, etc. Experience with HP and Adobe is a plus.
