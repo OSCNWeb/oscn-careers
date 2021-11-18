@@ -17,7 +17,7 @@ Position Description: This position is responsible for the intake and maintenanc
 **Responsibilities and functions will include (but not be limited to) the following:**
 - Receiving and docketing pleadings in all civil cases filed with the Oklahoma Supreme Court and the Oklahoma Court of Civil Appeals.
 - Receiving and processing Orders and Opinions issued by the Oklahoma Supreme Court and ensuring they are properly mailed out.
-- Assisting in filing all paperwork docketed with the Clerk’s office on a daily basis.
+- Assisting in filing all paperwork docketed with the Clerk's office on a daily basis.
 - Preparing and forwarding all requests for Attorney Certificates of Good Standing.
 - Assisting in directing the general public and attorneys about policies, procedures and rules of the Oklahoma Supreme Court when requested.
 - Assisting all other Deputy Supreme Court Clerk’s in the performance of their duties as necessary.
@@ -32,5 +32,3 @@ Position Description: This position is responsible for the intake and maintenanc
 **Education / Experience:**
 - At a minimum, you must be a high school graduate.
 - Applicants with professional experience working in a courthouse or law office preferred.
-
-
