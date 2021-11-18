@@ -32,3 +32,12 @@ Position Description: This position is responsible for the intake and maintenanc
 **Education / Experience:**
 - At a minimum, you must be a high school graduate.
 - Applicants with professional experience working in a courthouse or law office preferred.
+
+The standard benefits for the State of Oklahoma includes employee leave, retirement and a health plan package. Salary will be commensurate with experience and qualifications. Applicant must be willing to self-relocate if applicable. **Position open until December 15, 2021 or until filled. Submit resume and cover letter with salary requirements and availability date via email with "Deputy Supreme Court Clerk" in message title to** [opportunities@oscn.net](mailto:opportunities@oscn.net) and/or to the Supreme Court of Oklahoma Administrative Office of the Courts 2100 N. Lincoln Blvd., Suite 3 Oklahoma City, Oklahoma 73105. http://www.oscn.net
+
+Candidates who are eligible to work in the United States are encouraged to apply. The Administrative Office of the Courts will not sponsor a work visa (H-1B, etc.) to fill this position.
+
+As a condition of employment, any successful candidate who receives an offer of employment will be required to pass a background investigation.
+
+The Oklahoma Supreme Court is an Equal Opportunity Employer.
+
