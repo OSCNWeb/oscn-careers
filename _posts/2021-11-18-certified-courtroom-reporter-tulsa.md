@@ -7,7 +7,7 @@ expire: '2022-11-18 10:39 -0600'
 title: Certified Courtroom Reporter - Tulsa
 category:
   - csr
-location: Oklahoma City
+location: Tulsa County
 ---
 **Position:** Certified Shorthand Reporter – Full Time, Several positions available  
 **Location:** Tulsa County, Tulsa, Oklahoma  
