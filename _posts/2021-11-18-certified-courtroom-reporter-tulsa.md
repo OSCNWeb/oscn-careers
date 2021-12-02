@@ -9,7 +9,7 @@ category:
   - csr
 location: Tulsa County
 ---
-**Position:** Certified Shorthand Reporter – Full Time, Several positions available  
+**Position:** Certified Shorthand Reporter - Full Time, Several positions available  
 **Location:** Tulsa County, Tulsa, Oklahoma  
 **Hiring Officials:** District Judge Tracy Priddy and District Judge William Musseman  
 **Salary:** Pursuant to Statute  
