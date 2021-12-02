@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2021-08-31 10:24 -0500'
 publish: '2021-08-31 10:24 -0500'
-expire: '2022-02-31 10:24 -0500'
+expire: '2021-12-01 10:24 -0500'
 title: Certified Courtroom Reporter
 sub_category:
   - DISTRICT
