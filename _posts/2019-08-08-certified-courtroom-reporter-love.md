@@ -9,7 +9,7 @@ category:
 sub_category:
   - DISTRICT
 location: Love County
-expire: '2023-08-08 14:12 -0500'
+expire: '2021-12-01 14:12 -0500'
 ---
 **Position:** Certified Shorthand Reporter - Full Time  
 **Location:** Love County    
