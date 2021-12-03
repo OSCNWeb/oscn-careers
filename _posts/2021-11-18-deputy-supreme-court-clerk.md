@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2021-11-18 09:06 -0600'
 publish: '2021-11-18 09:06 -0600'
-expire: '2022-11-18 09:06 -0600'
+expire: '2021-12-02 09:06 -0600'
 title: Deputy Supreme Court Clerk
 category:
   - APP
@@ -40,4 +40,3 @@ Candidates who are eligible to work in the United States are encouraged to apply
 As a condition of employment, any successful candidate who receives an offer of employment will be required to pass a background investigation.
 
 The Oklahoma Supreme Court is an Equal Opportunity Employer.
-
