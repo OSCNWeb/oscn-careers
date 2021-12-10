@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2021-10-21 10:10 -0500'
 publish: '2021-10-21 10:10 -0500'
-expire: '2021-12-21 10:10 -0500'
+expire: '2021-12-09 10:10 -0500'
 title: Senior Business Analyst
 category:
   - mis
@@ -73,4 +73,3 @@ The Senior Business Analyst is the most important role for ensuring an Agile pro
 - ITIL and Agile certification(s) preferred.
 - DevOps experience preferred
 - Experience in court systems preferred.
-
