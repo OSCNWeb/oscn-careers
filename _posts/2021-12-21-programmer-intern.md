@@ -45,11 +45,10 @@ The Administrative Office of the Courts (AOC) is seeking a self-motivated person
 
 **Education / Experience:**
 
-- Interest in Associates or Bachelor’s degree in Computer Science, Information Systems, or related field or equivalent work experience.  A degree in Computer Science is preferred.
+- Interest in Associates or Bachelor's degree in Computer Science, Information Systems, or related field or equivalent work experience.  A degree in Computer Science is preferred.
 - 1 year training or experience in an MIS/Computer course field creating web-based applications or course field using .NET programming.
 - 1 year training or experience in an MIS/Computer course field using with SQL and T-SQL.
 - Knowledge of Service-Oriented Architecture (SOA) is preferred.
 - Prior experience in the court system, legal field, or accounting is a plus.
 - Experience with SharePoint, Visual Studio and multiple programming languages, a plus.
 - Excellent problem solving, analytical skills and technical troubleshooting skills.
-
