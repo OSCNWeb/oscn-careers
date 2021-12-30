@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2021-11-23 09:57 -0600'
 publish: '2021-11-23 09:57 -0600'
-expire: '2022-11-23 09:57 -0600'
+expire: '2021-12-29 09:57 -0600'
 title: Secretary / Bailiff - Canadian County
 category:
   - bailiffs
