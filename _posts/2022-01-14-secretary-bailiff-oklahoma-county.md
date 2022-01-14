@@ -24,4 +24,6 @@ Special Judge April Collins
 321 Park Avenue, Room 631  
 Oklahoma City, OK  73102  
 Phone (405) 713-1181  
-e-mail preferred: april.collins@oscn.net
+e-mail preferred: [april.collins@oscn.net](mailto:april.collins@oscn.net)
+
+**START DATE as soon as Februaru 15, 2022**
