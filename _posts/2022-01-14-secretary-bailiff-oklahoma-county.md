@@ -11,11 +11,11 @@ category:
   - bailiffs
 location: Oklahoma County
 ---
-**Position:** Secretary/Bailiff
-**Location:** Oklahoma County Courthouse
-**Hiring Official:** Special Judge April Collins
-**Salary:** $32,225.00
-**Benefits:** State Employment (includes, paid annual and sick leave, insurance benefits, retirement)
+**Position:** Secretary/Bailiff  
+**Location:** Oklahoma County Courthouse  
+**Hiring Official:** Special Judge April Collins  
+**Salary:** $32,225.00  
+**Benefits:** State Employment (includes, paid annual and sick leave, insurance benefits, retirement)  
 **Necessary Qualifications:** Proficiency in Microsoft Word and Excel.  Prepare orders, work with attorneys and public, prepare daily dockets, assist the Judge in Court, organize incoming reports, keep the Judge’s calendar, answer the phones, order supplies and perform other secretarial duties as assigned by the Judge.
 					
 
@@ -25,4 +25,3 @@ Special Judge April Collins
 Oklahoma City, OK  73102  
 Phone (405) 713-1181  
 e-mail preferred: april.collins@oscn.net
-
