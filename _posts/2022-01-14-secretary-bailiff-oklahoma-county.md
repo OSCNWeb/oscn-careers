@@ -16,7 +16,7 @@ location: Oklahoma County
 **Hiring Official:** Special Judge April Collins  
 **Salary:** $32,225.00  
 **Benefits:** State Employment (includes, paid annual and sick leave, insurance benefits, retirement)  
-**Necessary Qualifications:** Proficiency in Microsoft Word and Excel.  Prepare orders, work with attorneys and public, prepare daily dockets, assist the Judge in Court, organize incoming reports, keep the Judge’s calendar, answer the phones, order supplies and perform other secretarial duties as assigned by the Judge.
+**Necessary Qualifications:** Proficiency in Microsoft Word and Excel.  Prepare orders, work with attorneys and public, prepare daily dockets, assist the Judge in Court, organize incoming reports, keep the Judge's calendar, answer the phones, order supplies and perform other secretarial duties as assigned by the Judge.
 					
 
 **Applications: Resumes should be sent to:**  
