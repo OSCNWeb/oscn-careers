@@ -4,7 +4,7 @@ layout: career
 jobid: '2022-01-27 10:19 -0600'
 publish: '2022-01-27 10:19 -0600'
 expire: '2022-10-27 10:19 -0600'
-title: ''
+title: Audio Visual Specialist
 category:
   - mis
 sub_category:
