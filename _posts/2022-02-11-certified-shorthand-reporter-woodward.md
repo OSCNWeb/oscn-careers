@@ -11,7 +11,7 @@ category:
   - csr
 location: Woodward County
 ---
-**Position:** Certified Shorthand Reporter – Full Time  
+**Position:** Certified Shorthand Reporter - Full Time  
 **Location:** Woodward County or Woods County  
 **Hiring Official:** District Judge Justin P. Eilers  
 **Salary:** Pursuant to Statute  
