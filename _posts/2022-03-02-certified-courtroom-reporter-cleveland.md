@@ -26,5 +26,6 @@ District Judge Lori M. Walkley
 Norman, OK 73069  
 (405) 366-0639  
 [lori.walkley@oscn.net](mailto:lori.walkley@oscn.net)
+
 **Start Date March 1, 2022.**
 
