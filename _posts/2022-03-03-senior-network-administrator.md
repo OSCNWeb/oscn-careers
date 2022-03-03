@@ -18,6 +18,7 @@ The Senior Network Administrator will utilize their abilities to “future proof
 The Senior Network Administrator will possess the ability to identify problems and create solutions; and possess a good understanding of current technologies as well as future concepts and industry trends.  Additionally, they will possess the ability to manage time, costs and resources to complete objectives, as well as managing the expectations of project sponsors and stakeholders.   
 
 **Responsibilities and functions will include (but not be limited to) the following:**
+
 - Provides network designs and innovative technical solutions based on process and technical requirements.
 - Responsible for the design and implementation of the organization's network architecture and future planning.
 - Takes a lead role in major network initiatives, network designs, and deployments as well as coordinating technical issues with clients and internal teams.
@@ -39,6 +40,7 @@ The Senior Network Administrator will possess the ability to identify problems a
 - Performs all other duties as assigned.
  
 **Knowledge and Skill Requirements:**
+
 - Working knowledge of internet routing and security.
 - Expert knowledge of IP networking NAT, TCP/IP, multicast, etc.
 - An understanding of layered network designs and hierarchal network infrastructure models.
@@ -47,6 +49,7 @@ The Senior Network Administrator will possess the ability to identify problems a
 - Required to perform advanced math; understand written procedures, write routine documents, and speak clearly; and understand multi-step written and oral instructions. Specific knowledge-based competencies required to perform the functions of the job include knowledge of SNMP, SolarWinds, Aruba switches and wireless, ClearPass, Cisco IOS, TACACs, Call Manager, Imperva, Palo Alto, along with developing and maintaining networking principles in a multi-platform environment.
 
 **Education / Experience:**
+
 - A Bachelor's degree in Computer Science or related field, or a substitution of 8 years of related experience.
 - Five or more years of enterprise network engineering experience.
 - Certifications:
