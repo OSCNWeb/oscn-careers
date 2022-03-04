@@ -18,7 +18,7 @@ The Senior Network Administrator will utilize their abilities to “future proof
 The Senior Network Administrator will possess the ability to identify problems and create solutions; and possess a good understanding of current technologies as well as future concepts and industry trends.  Additionally, they will possess the ability to manage time, costs and resources to complete objectives, as well as managing the expectations of project sponsors and stakeholders.   
 
 **Responsibilities and functions will include (but not be limited to) the following:**
-
+ - 
 - Provides network designs and innovative technical solutions based on process and technical requirements.
 - Responsible for the design and implementation of the organization's network architecture and future planning.
 - Takes a lead role in major network initiatives, network designs, and deployments as well as coordinating technical issues with clients and internal teams.
@@ -58,7 +58,7 @@ The Senior Network Administrator will possess the ability to identify problems a
  - Comp TIA Security+
  - CCNA
  - CCNP
- - MCSE – plus
+ - MCSE - plus
 - Advanced knowledge and hands-on experience with Cisco and Aruba equipment and software.
 - Experience developing complex network designs and solutions.
 - Experience with a wide range of WAN/LAN network topologies including MPLS, LTE/4G, DSL, Ethernet, Frame Relay, VoIP, and Wireless.
