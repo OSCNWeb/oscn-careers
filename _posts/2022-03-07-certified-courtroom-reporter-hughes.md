@@ -24,7 +24,7 @@ category:
 Associate District Trisha D. Smith  
 Hughes County Courthouse  
 P.O. Box 875  
-Holdenville, OK 74848
+Holdenville, OK 74848  
 (405) 379-3211  
 [laura.armstrong@oscn.net](mailto:laura.armstrong@oscn.net)
 
