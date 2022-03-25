@@ -3,8 +3,13 @@ published: true
 layout: career
 jobid: '2022-03-25 11:03 -0500'
 publish: '2022-03-25 11:03 -0500'
-expire: '2022-03-25 11:03 -0500'
+expire: '2023-03-25 11:03 -0500'
 title: Certified Courtroom Reporter - Comanche
+category:
+  - csr
+sub_category:
+  - DISTRICT
+location: Comanche County
 ---
 **Position:** Certified Shorthand Reporter  
 **Location:** Comanche County Courthouse  
