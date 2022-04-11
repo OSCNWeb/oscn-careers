@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2021-12-21 11:29 -0600'
 publish: '2021-12-21 11:29 -0600'
-expire: '2022-12-21 11:29 -0600'
+expire: '2022-04-10 10:19 -0600'
 title: Programmer Intern
 sub_category:
   - AOC
