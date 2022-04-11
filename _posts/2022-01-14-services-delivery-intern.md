@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-01-14 14:14 -0600'
 publish: '2022-01-14 14:14 -0600'
-expire: '2022-07-14 14:14 -0600'
+expire: '2022-04-10 10:19 -0600'
 title: Services Delivery Intern
 category:
   - mis
@@ -47,4 +47,3 @@ The **Services Delivery Intern** must possess an independent freethinking person
 - Hands on experience troubleshooting/configuring and/or repairing computing equipment. 
 - Demonstrated experience in a Customer Service Environment. 
 - Experience with drafting technical knowledge base articles.
-
