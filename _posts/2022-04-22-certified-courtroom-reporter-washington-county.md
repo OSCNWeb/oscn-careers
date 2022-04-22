@@ -11,12 +11,12 @@ sub_category:
 category:
   - csr
 ---
-**Position:** Certified Shorthand Reporter (Full Time)
-**Location:** Washington County; Bartlesville, OK
-**Hiring Official:** District Judge Linda S. Thomas 
-**Salary:** Pursuant to State Statute
-**Benefits:** State Employment (includes, paid annual and sick leave, insurance benefits, retirement)
-**Necessary Qualifications:** Certified by the Oklahoma CSR Board and as required by Oklahoma Statute
+**Position:** Certified Shorthand Reporter (Full Time)  
+**Location:** Washington County; Bartlesville, OK  
+**Hiring Official:** District Judge Linda S. Thomas   
+**Salary:** Pursuant to State Statute  
+**Benefits:** State Employment (includes, paid annual and sick leave, insurance benefits, retirement)  
+**Necessary Qualifications:** Certified by the Oklahoma CSR Board and as required by Oklahoma Statute  
 **Available:** Immediately  
 
 **Resumes should be directed to:** District Judge Linda S. Thomas
