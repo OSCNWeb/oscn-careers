@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-04-20 08:22 -0500'
 publish: '2022-04-20 08:22 -0500'
-expire: '2022-05-06 08:22 -0500'
+expire: '2022-06-02 08:22 -0500'
 title: Trial Court Administrator
 location: Tulsa County
 sub_category:
@@ -22,4 +22,4 @@ category:
 Applications, additional pages and attachments must be submitted by email in pdf format.  
 **To:** vicki.cox@oscn.net
 
-**Application deadline is Friday, May 6, 2022,5:00 p.m.**.
+**Application deadline is Wednesday, June 1, 2022,5:00 p.m.**.
