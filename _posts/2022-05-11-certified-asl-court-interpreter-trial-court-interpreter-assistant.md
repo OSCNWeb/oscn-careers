@@ -3,8 +3,13 @@ published: true
 layout: career
 jobid: '2022-05-11 09:42 -0500'
 publish: '2022-05-11 09:42 -0500'
-expire: '2022-05-11 09:42 -0500'
+expire: '2022-10-11 09:42 -0500'
 title: Certified ASL Court Interpreter / Trial Court Interpreter Assistant
+category:
+  - District
+sub_category:
+  - DISTRICT
+location: Oklahoma County
 ---
 **Position:** Full-time Certified ASL Court Interpreter  
 **Location:** Oklahoma County Courthouse  
