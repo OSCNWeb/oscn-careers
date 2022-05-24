@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2021-09-29 10:02 -0500'
 publish: '2021-09-29 10:02 -0500'
-expire: '2022-09-29 10:02 -0500'
+expire: '2022-03-01 10:02 -0500'
 title: Special Judge - Tulsa
 location: Tulsa County
 sub_category:
@@ -26,4 +26,3 @@ Tulsa County Courthouse
 Tulsa, OK 74103
 
 <u>**Application deadline is Friday, October 15, 2021, 4:30 p.m**.</u>
-
