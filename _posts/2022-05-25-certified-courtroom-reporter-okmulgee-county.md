@@ -18,10 +18,9 @@ location: Okmulgee County
 **Benefits:** State Employment  
 **Necessary Qualifications:** Certified by the Oklahoma CSR Board, as required by Oklahoma Statute
 
-**Resumes should be delivered to:**
+**Resumes should be delivered to:**  
 Cynthia D. Pickering  
 Associate District Judge  
 Okmulgee County Courthouse  
 314 West 7th Street, 3rd Floor  
 Okmulgee, Oklahoma  74447
-
