@@ -26,4 +26,5 @@ District Judge
 Stillwater, OK 74074  
 [phillip.corley@oscn.net](mailto:phillip.corley@oscn.net)  
 (405) 372-3624  
-Start Date: As soon as possible
+
+**Start Date: As soon as possible**
