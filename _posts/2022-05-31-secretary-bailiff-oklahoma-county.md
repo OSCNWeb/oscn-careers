@@ -16,7 +16,7 @@ location: Oklahoma County
 **Hiring Official:** District Judge Cindy H. Truong  
 **Salary:** $42,000.00  
 **Benefits:** State Employment (includes, paid annual and sick leave, insurance benefits, retirement)  
-**Necessary Qualifications:** Proficiency in Microsoft Word and Excel.  Prepare orders and judgements and sentence, work with attorneys, prepare daily dockets, assist the Judge in Court, organize incoming reports, keep the Judge’s calendar, order supplies and assist with jurors during Jury trials.
+**Necessary Qualifications:** Proficiency in Microsoft Word and Excel. Prepare orders and judgements and sentence, work with attorneys, prepare daily dockets, assist the Judge in Court, organize incoming reports, keep the Judge's calendar, order supplies and assist with jurors during Jury trials.
 					
 
 **Applications:** Resumes should be sent to:  
