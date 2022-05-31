@@ -1,9 +1,9 @@
 ---
 published: true
 layout: career
-jobid: '2022-05-31 15:16 -0500'
-publish: '2022-05-31 15:16 -0500'
-expire: '2022-10-30 15:16 -0500'
+jobid: '2022-05-31 15:26 -0500'
+publish: '2022-05-31 15:26 -0500'
+expire: '2022-10-30 15:26 -0500'
 title: Certified Courtroom Reporter - Tulsa County
 location: Tulsa County
 sub_category:
