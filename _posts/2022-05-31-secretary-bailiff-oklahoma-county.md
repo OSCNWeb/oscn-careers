@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-05-31 15:10 -0500'
 publish: '2022-05-31 15:10 -0500'
-expire: '2022-09-01 15:10 -0500'
+expire: '2022-06-01 15:10 -0500'
 title: Secretary / Bailiff - Oklahoma County
 sub_category:
   - DISTRICT
@@ -28,4 +28,3 @@ Phone 405-713-1408
 e-mail preferred [Cindy.Truong@oscn.net](mailto:Cindy.Truong@oscn.net)
 
 **START DATE SEPTEMBER 1, 2022**
-
