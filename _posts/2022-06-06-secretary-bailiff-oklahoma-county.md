@@ -2,7 +2,7 @@
 published: true
 layout: career
 jobid: '2022-06-06 14:33 -0500'
-publish: '2022-06-06 14:33 -0500'
+publish: '2022-06-05 14:33 -0500'
 expire: '2022-12-06 14:33 -0500'
 title: SECRETARY / BAILIFF - Oklahoma County
 category:
