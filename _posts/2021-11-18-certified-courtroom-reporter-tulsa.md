@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2021-11-18 10:39 -0600'
 publish: '2021-11-18 10:39 -0600'
-expire: '2022-11-18 10:39 -0600'
+expire: '2022-06-06 10:39 -0600'
 title: Certified Courtroom Reporter - Tulsa
 category:
   - csr
