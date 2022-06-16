@@ -23,7 +23,7 @@ Assist employees in enrolling in various flexible benefits under state and feder
 
 Knowledge, skills and abilities required include knowledge of OPERS and/or JSRJJ retirement plans; IRS rules and regulations and state and federal laws concerning flexible benefits plans; of medical and dental programs; of claims processing procedures and of insurance terminology and concepts.  Ability is required to establish and maintain effective working relationships with others; to express ideas clearly and concisely; to conduct several projects simultaneously; to work independently; and to conduct presentations for groups and individuals.
 
-**Education and Experience Requirements: **
+**Education and Experience Requirements:**
 
 Education and experience requirements consist of a bachelor’s degree and three years of experience in the administration, management, communication, or marketing of group health or flexible benefits plans or retirement plans; or an equivalent combination of education and experience, substituting one additional year of qualifying experience for each year of the required education.
 
