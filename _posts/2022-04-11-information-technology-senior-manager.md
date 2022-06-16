@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-04-11 13:22 -0500'
 publish: '2022-04-11 13:22 -0500'
-expire: '2022-10-11 13:22 -0500'
+expire: '2022-06-11 13:22 -0500'
 title: Information Technology Senior Manager
 category:
   - mis
