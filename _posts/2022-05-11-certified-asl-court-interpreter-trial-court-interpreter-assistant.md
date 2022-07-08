@@ -21,6 +21,8 @@ location: Oklahoma County
 **Qualifications:**	Certified by the Oklahoma Supreme Court	  
 **Applications:** Resumes should be sent to:   
 Renée Troxell, Trial Court Administrator  
+[Renee.Troxell@oscn.net](mailto:Renee.Troxell@oscn.net)  
 321 Park Avenue, Room 322  
 Oklahoma City, OK  73102  
 Phone (405) 713-1423
+
