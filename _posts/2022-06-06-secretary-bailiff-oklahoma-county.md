@@ -28,4 +28,4 @@ Oklahoma City, OK  73102
 Phone 713-1403  
 e-mail preferred [Richard.Ogden@oscn.net](Richard.Ogden@oscn.net)  
 
-**START DATE: September 15, 2022**
+**START DATE: July 15, 2022**
