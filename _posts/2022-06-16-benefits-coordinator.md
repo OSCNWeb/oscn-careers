@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-06-16 15:26 -0500'
 publish: '2022-06-16 15:26 -0500'
-expire: '2022-10-16 15:26 -0500'
+expire: '2022-07-16 15:26 -0500'
 title: Benefits Coordinator
 category:
   - aoc
@@ -35,4 +35,3 @@ Responsibilities and skills listed above are essential to the position. Inabilit
 **Eligibility:** Eligibility to work in the United States is required. The employer will not sponsor a work visa (H-1B, etc.) to fill this position.
 
 The State of Oklahoma has an excellent benefits package including 3 weeks of vacation, employee retirement and health benefit plans. Applicant must be willing to self-relocate if applicable.  Position open until filled. Criminal background check required.  Submit resume and cover letter with salary requirements and availability date via email with "Benefits Coordinator" in message title to [opportunities@oscn.net](mailto:opportunities@oscn.net) The Supreme Court of Oklahoma Administrative Office of the Courts 2100 N. Lincoln Blvd., Suite 3 Oklahoma City, Oklahoma 73105. [http://www.oscn.net](http://www.oscn.net)
-
