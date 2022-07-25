@@ -15,8 +15,8 @@ Applications are now being accepted for the position of **Special Judge**.
 
 Applicants must submit an original and two (2) copies of the following:
 
-1.	A one page letter expressing the applicant's reasons for applying for the position;
-2.	A resume, including employment history and residential address (Title 20 O.S. &sect; 122 (1));
+1.	A one page letter expressing the applicants reasons for applying for the position;
+2.	A resume, including employment history and residential address (Title 20 O.S. Section 122 (1));
 3.	Three references-one from each category is suggested: 
   -	A current or former employer, indicating whether we may contact them;
   - A judge or hearing officer, **not** in Oklahoma County District Court, before whom the applicant has appeared;
@@ -31,4 +31,4 @@ by 4:00 PM on August 8, 2022.
 Salary and benefits are paid pursuant to State Law and/or Supreme Court order.
 
 **Appointment Date is September 15, 2022,**  
-**subject to compliance with Title 20 O.S. &sect; 122 (1).**
+**subject to compliance with Title 20 O.S. Section 122 (1).**
