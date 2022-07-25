@@ -4,12 +4,12 @@ layout: career
 jobid: '2022-07-25 11:20 -0500'
 publish: '2022-07-25 11:20 -0500'
 expire: '2023-07-25 11:20 -0500'
-title: Secretary / Bailiff - Marshall County
+title: Court Reporter - Marshall County
 location: Marshall County
 sub_category:
   - DISTRICT
 category:
-  - bailiffs
+  - csr
 ---
 Come and work in a great county which is home to beautiful Lake Texoma, with many kind, hard-working, generous persons in a Courthouse with outstanding Bailiffs, Court Clerk and Deputy Court Clerks, in a family-type environment.
 
