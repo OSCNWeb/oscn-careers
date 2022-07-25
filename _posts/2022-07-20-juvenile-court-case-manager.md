@@ -5,11 +5,11 @@ jobid: '2022-07-20 09:33 -0500'
 publish: '2022-07-20 09:33 -0500'
 expire: '2023-07-20 09:33 -0500'
 title: Juvenile Court Case Manager
-category:
-  - judicial
 sub_category:
   - DISTRICT
 location: Tulsa County
+category:
+  - Juvenile
 ---
 **Position:** Juvenile Case Manager - (Full Time)  
 **Location:** Tulsa-Juvenile Justice Center  
