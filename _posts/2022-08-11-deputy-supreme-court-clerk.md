@@ -21,7 +21,7 @@ documentation.
 
 **Position Description:** This position is responsible for the maintenance of pleadings and
 paperwork filed and docketed in cases primarily brought before the Oklahoma Court of
-Criminal Appeals. This position will also interact with Court of Criminal Appeals’
+Criminal Appeals. This position will also interact with Court of Criminal Appeals'
 Secured Communication files and sensitive documents related to active investigations
 so a background check is necessary. This deputy clerk also serves as the liaison between
 the Court of Criminal Appeals and the federal courts insofar as the forwarding of
@@ -32,8 +32,8 @@ Records on Appeals to those courts concerned.
 Court of Criminal Appeals.
 - Receiving and processing Orders and Opinions issued by the Oklahoma Court of
 Criminal Appeals.
-- Assisting in filing all paperwork docketed with the Clerk’s office on a daily basis.
-- Maintaining the Court of Criminal Appeal’s Secured Communications files.
+- Assisting in filing all paperwork docketed with the Clerk's office on a daily basis.
+- Maintaining the Court of Criminal Appeal's Secured Communications files.
 - Assisting in directing the general public and attorneys about policies, procedures
 and rules of the Oklahoma Court of Criminal Appeals when requested.
 - Assisting all other Deputy Clerks in the performance of their duties as necessary
