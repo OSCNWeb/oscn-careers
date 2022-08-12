@@ -3,8 +3,13 @@ published: true
 layout: career
 jobid: '2022-08-12 14:16 -0500'
 publish: '2022-08-12 14:16 -0500'
-expire: '2022-08-12 14:16 -0500'
+expire: '2023-08-12 14:16 -0500'
 title: Certified Shorthand Reporter - Haskell County
+location: Haskell County
+sub_category:
+  - DISTRICT
+category:
+  - csr
 ---
 **Job Opening:** Certified Shorthand Reporter, Full-time  
 **Location:** Haskell County Courthouse  
