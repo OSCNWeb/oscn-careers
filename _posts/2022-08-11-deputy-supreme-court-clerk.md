@@ -4,7 +4,7 @@ layout: career
 jobid: '2022-08-11 14:21 -0500'
 publish: '2022-08-11 14:21 -0500'
 expire: '2023-04-11 14:21 -0500'
-title: Deputy Supreme Court Clerk
+title: Deputy Appellate Court Clerk
 category:
   - APP
 sub_category:
@@ -57,7 +57,7 @@ preferred.
 and a health plan package. Applicant must be willing to self-relocate if
 applicable. Position open until September 15, 2022. Submit resume and cover letter
 with salary requirements and availability date via email with "Deputy Appellate
-Court Clerk" in message title to opportunities@oscn.net and/or to the Supreme Court
+Court Clerk" in message title to [opportunities@oscn.net](mailto:opportunities@oscn.net) and/or to the Supreme Court
 of Oklahoma Administrative Office of the Courts 2100 N. Lincoln Blvd., Suite 3
 Oklahoma City, Oklahoma 73105. http://www.oscn.net
 
