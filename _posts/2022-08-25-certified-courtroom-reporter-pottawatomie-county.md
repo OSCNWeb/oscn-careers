@@ -17,6 +17,7 @@ location: 'Pottawatomie County '
 **Salary:** Pursuant to statute  
 **Benefits:** State Employment  
 **Necessary Qualifications:** Certified by the Oklahoma CSR Board and as required by Oklahoma statutes  
+  
 **Resumes should be mailed to:**  
 District Judge John G. Canavan, Jr.  
 325 N. Broadway  
