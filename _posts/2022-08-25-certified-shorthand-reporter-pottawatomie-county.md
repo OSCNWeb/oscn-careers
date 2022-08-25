@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-08-25 12:20 -0500'
 publish: '2022-08-25 12:20 -0500'
-expire: '2021-02-25 12:20 -0500'
+expire: '2023-02-25 12:20 -0500'
 title: Certified Shorthand Reporter - Pottawatomie County
 location: Pottawatomie County
 category:
@@ -22,5 +22,4 @@ sub_category:
 District Judge John G. Canavan, Jr.  
 325 N. Broadway  
 Shawnee, OK  74801  
-405-275-1296  
-
+405-275-1296
