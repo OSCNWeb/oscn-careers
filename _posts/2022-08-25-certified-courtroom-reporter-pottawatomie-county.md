@@ -15,7 +15,7 @@ location: 'Pottawatomie County '
 **Location:** Pottawatomie County Courthouse  
 **Hiring Official:** District Judge John G. Canavan, Jr.  
 **Salary:** Pursuant to statute  
-**Benefits:** State Employment  
+**Benefits:** State Employment Benefits (Includes paid annual and sick leave, insurance benefits and retirement)  
 **Necessary Qualifications:** Certified by the Oklahoma CSR Board and as required by Oklahoma statutes  
   
 **Resumes should be mailed to:**  
