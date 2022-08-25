@@ -2,8 +2,8 @@
 published: true
 layout: career
 jobid: '2022-08-25 12:23 -0500'
-publish: '2022-08-25 12:23 -0500'
-expire: '2023-05-25 12:23 -0500'
+publish: '2022-08-25 10:23 -0500'
+expire: '2023-05-25 10:23 -0500'
 title: Secretary / Bailiff - Oklahoma County
 category:
   - bailiffs
@@ -27,4 +27,3 @@ Phone 405-713-1423
 **e-mail preferred:** [Renee.Troxell@oscn.net](mailto:Renee.Troxell@oscn.net)
 
 START DATE SEPTEMBER 15, 2022
-
