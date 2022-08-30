@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-07-15 09:50 -0500'
 publish: '2022-07-15 09:50 -0500'
-expire: '2022-10-15 09:50 -0500'
+expire: '2022-08-29 09:50 -0500'
 title: Database Administrator Intern
 category:
   - aoc
