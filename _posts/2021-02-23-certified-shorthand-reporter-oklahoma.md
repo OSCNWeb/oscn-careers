@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2021-02-23 08:28 -0600'
 publish: '2021-02-23 08:28 -0600'
-expire: '2022-08-23 08:28 -0600'
+expire: '2023-08-23 08:28 -0600'
 title: Certified Shorthand Reporter - Oklahoma
 sub_category:
   - DISTRICT
