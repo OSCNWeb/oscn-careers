@@ -24,8 +24,7 @@ Oklahoma City, OK 73118
 District Judge Kaitlyn Allen  
 5905 Classen Court, Room 205  
 Oklahoma City, OK  73118  
-(405) 713-6796  
- 
+(405) 713-6796   
 [kaitlyn.allen@oscn.net](mailto:kaitlyn.allen@oscn.net)
 
 **Start Date ASAP**
