@@ -14,7 +14,7 @@ location: Oklahoma County
 **Position:** Certified Shorthand Reporter (Two Full-time Positions)    
 **Location:** Courthouse Court Reporter Pool   
 **Hiring Official:** Trial Court Administrator    
-**Salary:** Pursuant to Statute  
+**Salary:** Starting Salary $53,000.00  
 **Benefits:** State Employment (includes, paid annual and sick leave, insurance benefits, retirement)    
 **Necessary Qualifications:** Certified by the Oklahoma CSR Board And as required by Oklahoma statutes
 										
