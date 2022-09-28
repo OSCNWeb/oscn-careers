@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2021-09-30 12:13 -0500'
 publish: '2021-09-30 12:13 -0500'
-expire: '2022-09-30 12:13 -0500'
+expire: '2022-07-30 12:13 -0500'
 title: Certified Courtroom Reporter
 category:
   - csr
@@ -25,4 +25,3 @@ Pryor, OK  74361
 (918) 825-0960  
 [Mandy.Hooker@oscn.net](mailto:Mandy.Hooker@oscn.net)  
 **Start Date October 1, 2021**
-
