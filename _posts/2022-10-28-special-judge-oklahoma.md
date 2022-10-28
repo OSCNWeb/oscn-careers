@@ -13,7 +13,7 @@ location: Oklahoma County
 ---
 Applications are now being accepted for the position of **Special Judge**. 
 
-Applicants must submit an original and two (2) copies of the following:
+Applicants must submit an original and two (2) copies of the following:  
 
 1.	A one page letter expressing the applicant's reasons for applying for the position;
 2.	A resume, including employment history and residential address (Title 20 O.S. &sect; 122 (1));
