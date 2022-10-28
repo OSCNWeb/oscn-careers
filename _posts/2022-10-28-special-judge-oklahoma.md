@@ -9,6 +9,7 @@ category:
   - judicial
 sub_category:
   - DISTRICT
+location: Oklahoma County
 ---
 Applications are now being accepted for the position of **Special Judge**. 
 
