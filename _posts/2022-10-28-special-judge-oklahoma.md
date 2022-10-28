@@ -31,4 +31,4 @@ by 4:00 PM on November 9, 2022.
 Salary and benefits are paid pursuant to State Law and/or Supreme Court order.
 
 **Appointment Date is January 9, 2023,**
-**subject to compliance with Title 20 O.S. § 122 (1).**
+**subject to compliance with Title 20 O.S. &sect; 122 (1).**
