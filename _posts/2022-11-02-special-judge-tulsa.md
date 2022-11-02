@@ -18,7 +18,7 @@ Applications are being accepted for the office of:
 **TULSA-PAWNEE COUNTIES**  
 **STATE OF OKLAHOMA**  
 
-Application forms may be found at www.tulsacountydistrictcourt.org
+Application forms may be found at [www.tulsacountydistrictcourt.org](http://www.tulsacountydistrictcourt.org)
 or may be obtained from:
 
 Kim M. Hall, Court Administrator  
