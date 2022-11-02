@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-08-11 14:21 -0500'
 publish: '2022-08-11 14:21 -0500'
-expire: '2023-04-11 14:21 -0500'
+expire: '2022-11-01 14:21 -0500'
 title: Deputy Appellate Court Clerk
 category:
   - APP
