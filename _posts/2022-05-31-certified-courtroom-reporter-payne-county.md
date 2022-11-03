@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-05-31 15:55 -0500'
 publish: '2022-05-31 15:55 -0500'
-expire: '2022-10-31 15:55 -0500'
+expire: '2023-10-31 15:55 -0500'
 title: Certified Courtroom Reporter - Payne County
 location: Payne County
 sub_category:
