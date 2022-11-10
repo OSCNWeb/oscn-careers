@@ -45,7 +45,7 @@ Reporting to the Data Center & System Supervisor, the **System Administrator** i
 - Strong knowledge of Windows Active Directory
 - Strong knowledge of Windows-based infrastructure technologies, including file and print services, NTFS share and folder permissions, terminal services, failover and load-balancing clustering services, IIS, DNS, DHCP, etc
 - Knowledge of MS Endpoint Configuration Manager
-- Knowledge of Storage Area Network technologies, including HBA’s, fiber cabling, zoning, and SAN switch management
+- Knowledge of Storage Area Network technologies, including HBA's, fiber cabling, zoning, and SAN switch management
 - Strong knowledge of current data center technologies, including blade server hardware, operating system virtualization (both software and hardware based), application virtualization and high-availability/clustering
 - Working knowledge of Microsoft Office applications
 - Solid knowledge of virtualization technologies with emphasis in VMWare.
