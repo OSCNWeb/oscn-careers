@@ -33,7 +33,7 @@ Reporting to the Data Center & System Supervisor, the **System Administrator** i
 - Maintains cloud interfaces and environments such as M365, Azure, etc.
 - Implements and performs system automation functions
 - Perform tasks for application releases
-- Participates and utilizes organization’s change management process
+- Participates and utilizes organization's change management process
 - Manages and maintains VMWare infrastructure and environments including ESXi, vCenter, vRealize Operations Manager and Site Recovery Manager
 - Supports data center operations tasks based on availability of Data Center Operations Lead
 - Maintains and updates system documentation.  Performs other duties as required
