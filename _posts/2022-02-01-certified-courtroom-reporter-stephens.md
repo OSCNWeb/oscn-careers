@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-02-01 12:07 -0600'
 publish: '2022-02-01 12:07 -0600'
-expire: '2022-10-01 12:07 -0600'
+expire: '2023-10-01 12:07 -0600'
 title: Certified Courtroom Reporter - Stephens
 category:
   - csr
@@ -28,4 +28,3 @@ Duncan, OK 73533
 (580) 470-2025  
 
 **Start Date:** February 15, 2022
-
