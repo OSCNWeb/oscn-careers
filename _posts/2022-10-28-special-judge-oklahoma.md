@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-10-28 16:00 -0500'
 publish: '2022-10-28 16:00 -0500'
-expire: '2023-10-28 16:00 -0500'
+expire: '2022-11-09 16:00 -0500'
 title: Special Judge - Oklahoma
 category:
   - judicial
