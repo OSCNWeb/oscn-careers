@@ -11,7 +11,7 @@ sub_category:
 category:
   - csr
 ---
-**Position:** Certified Shorthand Reporter
+**Position:** Certified Shorthand Reporter  
 **Location:** McIntosh County Courthouse  
 110 N. First St.   
 Eufaula, OK 74432  
