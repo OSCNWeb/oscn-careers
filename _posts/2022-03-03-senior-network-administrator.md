@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-03-03 17:54 -0600'
 publish: '2022-03-03 17:54 -0600'
-expire: '2023-03-03 17:54 -0600'
+expire: '2022-12-14 17:54 -0600'
 title: Senior Network Administrator
 category:
   - mis
@@ -66,4 +66,3 @@ The Senior Network Administrator will possess the ability to identify problems a
 - Experience with network security appliances such as Palo Alto or Cisco, IDS/IPS systems, FSM, etc.;
 - Experience with designing and maintaining large cabling infrastructure.
 - Experience with developing complex network documents and presentations using tools such as PowerPoint and Visio.
-
