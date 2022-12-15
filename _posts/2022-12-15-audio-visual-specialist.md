@@ -74,7 +74,7 @@ Reporting to the Technical Services Manager, the **Audio Visual Specialist** (AV
 **Education / Experience:**
 
  - High School Diploma or Equivalent Required 
- - Bachelor’s Degree in a Technology Field Preferred
+ - Bachelor's Degree in a Technology Field Preferred
  - College or Technical Coursework Related to Audio Visual Skills Preferred
- - Minimum of Two Years’ Experience with Audio Visual, Conference Management, or Communication Systems
+ - Minimum of Two Years' Experience with Audio Visual, Conference Management, or Communication Systems
 
