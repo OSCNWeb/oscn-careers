@@ -17,7 +17,7 @@ location: Oklahoma County
 **Salary:** $42,000.00  
 **Benefits:** State Employment (includes, paid annual and sick leave, insurance benefits, retirement)
 
-**Necessary Qualifications:** Proficiency in Microsoft Word and Excel.  Prepare orders, work with attorneys, prepare daily dockets, assist the Judge in Court, organize incoming reports, keep the Judge’s calendar, order supplies and other secretarial duties as assigned by Judge Riesen.
+**Necessary Qualifications:** Proficiency in Microsoft Word and Excel.  Prepare orders, work with attorneys, prepare daily dockets, assist the Judge in Court, organize incoming reports, keep the Judge's calendar, order supplies and other secretarial duties as assigned by Judge Riesen.
 					
 **Applications:** Resumes should be sent to:  
 Special Judge Thomas C. Riesen  
