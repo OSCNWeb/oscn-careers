@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-07-25 11:20 -0500'
 publish: '2022-07-25 11:20 -0500'
-expire: '2023-07-25 11:20 -0500'
+expire: '2023-01-05 11:20 -0500'
 title: Court Reporter - Marshall County
 location: Marshall County
 sub_category:
