@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2023-01-04 16:41 -0600'
 publish: '2023-01-04 16:41 -0600'
-expire: '2023-06-04 16:41 -0600'
+expire: '2023-01-25 16:41 -0600'
 title: Special Judge - Oklahoma
 category:
   - judicial
@@ -32,4 +32,3 @@ Salary and benefits are paid pursuant to State Law and/or Supreme Court order.
 
 **Appointment Date is February 1, 2023,**  
 **subject to compliance with Title 20 O.S. &sect; 122 (1).**
-
