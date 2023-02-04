@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2018-12-19 11:14 -0600'
 publish: '2018-12-19 11:14 -0600'
-expire: '2022-12-19 11:14 -0600'
+expire: '2024-12-19 11:14 -0600'
 title: Certified Courtroom Reporter - Delaware
 category:
   - csr
