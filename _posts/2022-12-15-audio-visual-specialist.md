@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-12-15 15:46 -0600'
 publish: '2022-12-15 15:46 -0600'
-expire: '2023-12-15 15:46 -0600'
+expire: '2023-02-06 15:46 -0600'
 title: Audio Visual Specialist
 sub_category:
   - AOC
@@ -77,4 +77,3 @@ Reporting to the Technical Services Manager, the **Audio Visual Specialist** (AV
  - Bachelor's Degree in a Technology Field Preferred
  - College or Technical Coursework Related to Audio Visual Skills Preferred
  - Minimum of Two Years' Experience with Audio Visual, Conference Management, or Communication Systems
-
