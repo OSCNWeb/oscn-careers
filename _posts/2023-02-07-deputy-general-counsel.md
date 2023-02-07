@@ -34,7 +34,7 @@ recommendations to senior leadership
 and the public
 - Conducting legal research, analysis and writing
 - Assisting the General Counsel with maintaining fee and bond schedules
-- Assisting the General Counsel in providing legal support related to the judiciary’s
+- Assisting the General Counsel in providing legal support related to the judiciary's
 technology applications, including case management systems, jury management system,
 OCIS network, OSCN web site, etc.
 - Assisting the General Counsel and Administrative Director in a diverse variety of legal and
@@ -60,7 +60,7 @@ public
 - Knowledge of public information laws and experience with Oklahoma Open Records Act
 requests
 - Ability to utitlize oscn.net and Westlaw
-- Ability to research and compose well‐written communications and publications, suitably
+- Ability to research and compose well-written communications and publications, suitably
 adapted to the audience, covering a variety of topics
 - Proficient knowledge of Microsoft operating systems and Office suite
 Education / Experience:
