@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-03-03 09:09 -0600'
 publish: '2022-03-03 09:09 -0600'
-expire: '2023-03-03 09:09 -0600'
+expire: '2023-02-20 09:09 -0600'
 title: Certified Courtroom Reporter - Grady
 category:
   - csr
@@ -24,5 +24,4 @@ Associate District Judge
 P O Box 605  
 Chickasha, Oklahoma  73023  
 (405) 224-5314  
-[joseph.young@oscn.net](mailto:joseph.young@oscn.net) *preferred method of delivery 
-
+[joseph.young@oscn.net](mailto:joseph.young@oscn.net) *preferred method of delivery
