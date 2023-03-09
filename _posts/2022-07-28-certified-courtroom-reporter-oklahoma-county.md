@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-07-28 10:16 -0500'
 publish: '2022-07-28 10:16 -0500'
-expire: '2023-07-28 10:16 -0500'
+expire: '2023-03-08 10:16 -0500'
 title: Certified Courtroom Reporter - Oklahoma County
 category:
   - csr
@@ -28,4 +28,3 @@ Phone 405-713-7103
 
 
 **Start Date:** ASAP
-
