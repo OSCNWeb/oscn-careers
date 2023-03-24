@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-12-20 12:08 -0600'
 publish: '2022-12-20 12:08 -0600'
-expire: '2023-12-20 12:08 -0600'
+expire: '2023-03-23 12:08 -0600'
 title: Release Management / TFS-Azure DevOps Specialist
 category:
   - mis
