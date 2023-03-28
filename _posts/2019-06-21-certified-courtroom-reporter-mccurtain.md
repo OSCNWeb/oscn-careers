@@ -20,7 +20,7 @@ category:
 
 **Available:** Presently    
 **Resumes should be directed to:**  
-Judge Emily Maxwell
+Judge Emily Maxwell  
 108 N. Central   
 Idabel, Oklahoma    
 [Emily.Herron@oscn.net](mailto:Emily.Herron@oscn.net)
