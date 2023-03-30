@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2023-02-07 15:51 -0600'
 publish: '2023-02-07 15:51 -0600'
-expire: '2023-12-07 15:51 -0600'
+expire: '2023-03-29 15:51 -0600'
 title: Deputy General Counsel
 category:
   - aoc
