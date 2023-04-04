@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2023-02-24 09:16 -0600'
 publish: '2023-02-24 09:16 -0600'
-expire: '2024-03-23 09:16 -0600'
+expire: '2023-03-23 09:16 -0600'
 title: Senior Business Analyst
 category:
   - mis
