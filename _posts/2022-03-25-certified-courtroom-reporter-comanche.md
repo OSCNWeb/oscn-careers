@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-03-25 11:03 -0500'
 publish: '2022-03-25 11:03 -0500'
-expire: '2023-03-25 11:03 -0500'
+expire: '2028-03-25 11:03 -0500'
 title: Certified Courtroom Reporter - Comanche
 category:
   - csr
@@ -27,4 +27,3 @@ Lawton, OK 73501
 [emmit.tayloe@oscn.net](mailto:emmit.tayloe@oscn.net) 
 
 **Start Date:  Immediately**
-
