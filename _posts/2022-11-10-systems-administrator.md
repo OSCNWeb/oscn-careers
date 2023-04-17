@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-11-10 15:39 -0600'
 publish: '2022-11-10 15:39 -0600'
-expire: '2023-11-10 15:39 -0600'
+expire: '2023-04-16 15:39 -0600'
 title: Systems Administrator
 category:
   - mis
@@ -60,4 +60,3 @@ Reporting to the Data Center & System Supervisor, the **System Administrator** i
 - Bachelor's degree in Computer Science/Information Systems or related technical field preferred
 - Equivalent related work experience may be substituted for education requirement
 - Current MCSA/MCSE/MCTS/MCITP preferred
-
