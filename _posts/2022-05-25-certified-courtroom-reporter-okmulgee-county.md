@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2022-05-25 10:41 -0500'
 publish: '2022-05-25 10:41 -0500'
-expire: '2022-12-25 10:41 -0500'
+expire: '2024-12-25 10:41 -0500'
 title: Certified Courtroom Reporter - Okmulgee County
 category:
   - csr
