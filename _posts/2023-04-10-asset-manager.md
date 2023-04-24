@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2023-04-10 16:07 -0500'
 publish: '2023-04-10 16:07 -0500'
-expire: '2023-10-10 16:07 -0500'
+expire: '2023-04-24 16:07 -0500'
 title: Asset Manager
 category:
   - aoc
