@@ -12,7 +12,7 @@ sub_category:
 location: Oklahoma County
 ---
 **Position**: Administrative Assistant to the Trial Court Administrator  
-**Location**: Oklahoma County Courthouse Trial Court Administrator's Office  
+**Location**: Oklahoma County Courthouse Trial Court Administrator&apos;s Office  
 **Hiring Official**: Trial Court Administrator with approval of the Presiding Judge  
 **Salary**: $42,000.00 (Bailiff Pay Schedule)  
 **Benefits**: State Employment (includes paid annual and sick leave, insurance benefits, retirement)  
