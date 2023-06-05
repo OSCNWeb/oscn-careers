@@ -24,6 +24,6 @@ District Judge C. Brent Dishman
 321 Park Avenue, Room 315  
 Oklahoma City, OK  73102  
 Phone (405) 713-1451  
-e-mail preferred (Brent.Dishman@oscn.net)[mailto:Brent.Dishman@oscn.net]
+e-mail preferred [Brent.Dishman@oscn.net](mailto:Brent.Dishman@oscn.net)
 
 **START DATE:** August 1, 2023
