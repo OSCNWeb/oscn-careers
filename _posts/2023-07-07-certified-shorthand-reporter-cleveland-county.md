@@ -4,7 +4,7 @@ layout: career
 jobid: '2023-07-07 12:44 -0500'
 publish: '2023-07-07 12:44 -0500'
 expire: '2024-07-07 12:44 -0500'
-title: Certified Shorthand Reporter - Cleveland County
+title: Certified Shorthand Reporter
 category:
   - csr
 sub_category:
