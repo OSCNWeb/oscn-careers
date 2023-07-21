@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2023-06-05 10:14 -0500'
 publish: '2023-06-05 10:14 -0500'
-expire: '2024-07-20 10:14 -0500'
+expire: '2023-07-20 10:14 -0500'
 title: Secretary / Bailiff - Oklahoma County
 sub_category:
   - DISTRICT
