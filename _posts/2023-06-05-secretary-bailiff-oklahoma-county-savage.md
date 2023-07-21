@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2023-06-05 10:14 -0500'
 publish: '2023-06-05 10:14 -0500'
-expire: '2024-06-05 10:14 -0500'
+expire: '2024-07-20 10:14 -0500'
 title: Secretary / Bailiff - Oklahoma County
 sub_category:
   - DISTRICT
@@ -28,4 +28,3 @@ Phone (405) 713-1121
 e-mail preferred [Kathryn.Savage@oscn.net](mailto:Kathryn.Savage@oscn.net)
 
 **START DATE:** August 1, 2023
-
