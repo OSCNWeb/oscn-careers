@@ -5,6 +5,11 @@ jobid: '2023-07-24 09:46 -0500'
 publish: '2023-07-24 09:46 -0500'
 expire: '2024-07-24 09:46 -0500'
 title: Secretary / Bailiff
+category:
+  - bailiffs
+sub_category:
+  - DISTRICT
+location: Oklahoma County
 ---
 **Position:** Secretary/Bailiff  
 **Location:** Oklahoma County Juvenile Justice Center  
