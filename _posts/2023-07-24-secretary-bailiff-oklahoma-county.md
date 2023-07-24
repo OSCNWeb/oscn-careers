@@ -4,7 +4,7 @@ layout: career
 jobid: '2023-07-24 09:46 -0500'
 publish: '2023-07-24 09:46 -0500'
 expire: '2024-07-24 09:46 -0500'
-title: Secretary / Bailiff - Oklahoma County
+title: Secretary / Bailiff
 ---
 **Position:** Secretary/Bailiff  
 **Location:** Oklahoma County Juvenile Justice Center  
@@ -21,4 +21,3 @@ Phone (405) 713-6790
 e-mail preferred [Angela.Singleton@oscn.net](mailto:Angela.Singleton@oscn.net)
 
 **START DATE: August 14, 2023**
-
