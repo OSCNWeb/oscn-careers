@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2023-05-04 14:13 -0500'
 publish: '2023-05-04 14:13 -0500'
-expire: '2023-10-04 14:13 -0500'
+expire: '2023-08-02 14:13 -0500'
 title: Inventory Control Technician
 sub_category:
   - AOC
@@ -57,4 +57,3 @@ This is a part-time position working 20 hours a week.
 - Minimum of 5 year’s general inventory experience. 
 - Minimum of 3 years of experience with inventory technology management systems 
 - Working knowledge of Microsoft Office applications.
-
