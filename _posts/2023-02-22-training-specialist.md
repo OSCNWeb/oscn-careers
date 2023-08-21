@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2023-02-22 15:36 -0600'
 publish: '2023-02-22 15:36 -0600'
-expire: '2024-10-22 15:36 -0600'
+expire: '2023-08-20 15:36 -0600'
 title: Training Specialist
 category:
   - mis
