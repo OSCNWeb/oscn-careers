@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2023-08-23 10:28 -0500'
 publish: '2023-08-23 10:28 -0500'
-expire: '2023-08-23 10:28 -0500'
+expire: '2023-09-23 10:28 -0500'
 title: Associate District Judge - District 3
 category:
   - District
@@ -25,12 +25,3 @@ c/o Tammy Reaves
 Administrative Office of the Courts  
 2100 N. Lincoln Blvd., Suite 3  
 Oklahoma City, OK 73105
-
-
-
-
-
-
-
-
-
