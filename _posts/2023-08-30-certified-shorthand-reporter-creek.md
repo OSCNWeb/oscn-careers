@@ -4,7 +4,7 @@ layout: career
 jobid: '2023-08-30 15:22 -0500'
 publish: '2023-08-30 15:22 -0500'
 expire: '2025-08-30 15:22 -0500'
-title: Certified Shorthand Reporter - Creek
+title: Certified Shorthand Reporter
 category:
   - csr
 sub_category:
