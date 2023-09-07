@@ -11,15 +11,15 @@ sub_category:
   - AOC
 location: Oklahoma City
 ---
-This position reports to the Manager of Networks and is responsible for the Supreme Court’s network infrastructure, which includes; network security, core switching, core routing, wireless, IP phones, and WAN/LAN.  The Senior Network Administrator will be in charge of insuring that the network services are adequate for the needs of the organization.  The Senior Network Administrator will also be responsible for designing and implementing a new network architecture while invoking security practices. 
+This position reports to the Manager of Networks and is responsible for the Supreme Court's network infrastructure, which includes; network security, core switching, core routing, wireless, IP phones, and WAN/LAN.  The Senior Network Administrator will be in charge of insuring that the network services are adequate for the needs of the organization.  The Senior Network Administrator will also be responsible for designing and implementing a new network architecture while invoking security practices. 
 
-The Senior Network Administrator will utilize their abilities to “future proof” the organizations network infrastructure to meet the ever-growing demands of tomorrow. They will also possess an independent freethinking persona that can effectively present ideas to management and colleagues.  Additionally, the Senior Network Administrator will possess the ability to exercise good judgment while handling daily activities and implementations, the ability to discern risks associated with production changes, and to follow the AOC change management process.    
+The Senior Network Administrator will utilize their abilities to "future proof" the organizations network infrastructure to meet the ever-growing demands of tomorrow. They will also possess an independent freethinking persona that can effectively present ideas to management and colleagues.  Additionally, the Senior Network Administrator will possess the ability to exercise good judgment while handling daily activities and implementations, the ability to discern risks associated with production changes, and to follow the AOC change management process.    
 
 The Senior Network Administrator will possess the ability to identify problems and create solutions; and possess a good understanding of current technologies as well as future concepts and industry trends.  Additionally, they will possess the ability to manage time, costs and resources to complete objectives, as well as managing the expectations of project sponsors and stakeholders.   
 
 **Responsibilities and functions will include (but not be limited to) the following**:
 - Provides network designs and innovative technical solutions based on process and technical requirements.
-- Responsible for the design and implementation of the organization’s network architecture and future planning.
+- Responsible for the design and implementation of the organization's network architecture and future planning.
 - Takes a lead role in major network initiatives, network designs, and deployments as well as coordinating technical issues with clients and internal teams.
 - Creates, coordinates, and executes implementation plans.
 - Tests and certifies IOS features before production rollout.
@@ -63,5 +63,4 @@ The Senior Network Administrator will possess the ability to identify problems a
 - Experience with network security appliances such as Palo Alto or Cisco, IDS/IPS systems, FSM, etc.;
 - Experience with designing and maintaining large cabling infrastructure.
 - Experience with developing complex network documents and presentations using tools such as PowerPoint and Visio.
-- Must possess a US driver's license to perform job related travel.  
-
+- Must possess a US driver's license to perform job related travel.
