@@ -63,5 +63,5 @@ The Senior Network Administrator will possess the ability to identify problems a
 - Experience with network security appliances such as Palo Alto or Cisco, IDS/IPS systems, FSM, etc.;
 - Experience with designing and maintaining large cabling infrastructure.
 - Experience with developing complex network documents and presentations using tools such as PowerPoint and Visio.
-- Must possess a US driver’s license to perform job related travel.  
+- Must possess a US driver's license to perform job related travel.  
 
