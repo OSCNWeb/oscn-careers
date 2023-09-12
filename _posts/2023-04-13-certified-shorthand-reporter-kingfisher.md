@@ -9,7 +9,7 @@ category:
   - csr
 sub_category:
   - DISTRICT
-location: Kingfisher County
+location: Kingfisher and Blaine County
 ---
 **Position:** Certified Shorthand Reporter   
 **Location:** Kingfisher County Courthouse/Blaine County Courthouse   
