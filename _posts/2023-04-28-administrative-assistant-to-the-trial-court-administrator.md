@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2023-04-28 09:26 -0500'
 publish: '2023-04-28 09:26 -0500'
-expire: '2024-07-05 09:26 -0500'
+expire: '2023-09-13 09:26 -0500'
 title: ADMINISTRATIVE ASSISTANT  TO THE TRIAL COURT ADMINISTRATOR
 category:
   - District
