@@ -15,7 +15,7 @@ Applications are now being accepted to fill **two** Special Judge positions.
 
 Applicants must submit an original and two (2) copies of the following:
 
-1.	A one page letter expressing the applicant's reasons for applying for the position;
+1.	A one page letter expressing the applicants reasons for applying for the position;
 2.	A resume, including employment history and residential address (Title 20 O.S. Section 122 (1));
 3.	Three references - one from each category is suggested: 
   - A current or former employer, indicating whether we may contact them;
