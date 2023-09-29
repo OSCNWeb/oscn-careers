@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-08-09 13:58 -0500'
 publish: '2019-08-09 13:58 -0500'
-title: Certified Courtroom Reporter – Bryan County
+title: Certified Courtroom Reporter - Bryan County
 category:
   - csr
 sub_category:
