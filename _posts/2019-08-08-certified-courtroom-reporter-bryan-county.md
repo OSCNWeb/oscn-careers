@@ -9,7 +9,7 @@ category:
 sub_category:
   - DISTRICT
 location: Bryan County
-expire: '2023-09-29 11:08 -0500'
+expire: '2023-09-25 11:08 -0500'
 ---
 **Job Opening:** Certified Shorthand Reporter, Full-time or Part-time  
 **Location:** Bryan County Courthouse  
