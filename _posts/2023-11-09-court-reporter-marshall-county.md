@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2023-11-09 09:36 -0600'
 publish: '2023-11-09 09:36 -0600'
-expire: '2024-06-09 09:36 -0600'
+expire: '2023-01-09 09:36 -0600'
 title: Court Reporter - Marshall County
 category:
   - csr
@@ -37,5 +37,4 @@ Madill, OK 73446 or [Gregory.Johnson@oscn.net](mailto:Gregory.Johnson@oscn.net)
 
 District Judge Wallace Coppedge  
 100 Plaza, Rm 204  
-Madill, OK 73446 or [Wallace.Coppedge@oscn.net](mailto:Wallace.Coppedge@oscn.net)  
-
+Madill, OK 73446 or [Wallace.Coppedge@oscn.net](mailto:Wallace.Coppedge@oscn.net)
