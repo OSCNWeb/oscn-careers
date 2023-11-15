@@ -19,8 +19,8 @@ category:
 **Necessary Qualification:** Certified by the Oklahoma CSR Board and as required by Oklahoma statute  
 **Availability:** January 2, 2024  
 
-**Resumes may be submitted as follows:** Associate District Judge Lori Jackson
-**Email:** [Loril.jackson@oscn.net](mailto:Loril.jackson@oscn.net)
-**Mail:** Post Office Box 99, Ada, Oklahoma 74821
+**Resumes may be submitted as follows:** Associate District Judge Lori Jackson  
+**Email:** [Loril.jackson@oscn.net](mailto:Loril.jackson@oscn.net)  
+**Mail:** Post Office Box 99, Ada, Oklahoma 74821  
 **Telephone:** (580)332-8940
 
