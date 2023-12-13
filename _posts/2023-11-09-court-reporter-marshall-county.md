@@ -2,8 +2,8 @@
 published: true
 layout: career
 jobid: '2023-11-09 09:36 -0600'
-publish: '2023-11-09 09:36 -0600'
-expire: '2023-01-09 09:36 -0600'
+publish: '2023-12-13 09:36 -0600'
+expire: '2024-07-01 09:36 -0600'
 title: Court Reporter - Marshall County
 category:
   - csr
