@@ -4,7 +4,7 @@ layout: career
 jobid: '2023-12-14 15:13 -0600'
 publish: '2023-12-14 15:13 -0600'
 expire: '2023-12-14 15:13 -0600'
-title: Certified Courtroom Reporter - Oklahoma - Allen
+title: Certified Courtroom Reporter - Oklahoma
 ---
 **Position:** Certified Shorthand Reporter  
 **Location:** Juvenile Justice Center   
