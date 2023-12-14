@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2019-04-02 11:37 -0500'
 publish: '2019-04-02 11:37 -0500'
-expire: '2019-06-02 11:37 -0500'
+expire: '2024-06-02 11:37 -0500'
 title: Certified Courtroom Reporter - Oklahoma
 category:
   - csr
@@ -11,12 +11,13 @@ sub_category:
   - DISTRICT
 location: Oklahoma County
 ---
-**Position:** Certified Shorthand Reporter (Full-time)  
+**Position:** Certified Shorthand Reporter (Full-time Position)  
 **Location:** Courthouse Court Reporter Pool  
 **Hiring Official:** Trial Court Administrator  
-**Salary:** Pursuant to Statute  
-**Benefits:** State Employment  
-**Necessary Qualifications:** Certified by the Oklahoma CSR Board And as required by Oklahoma statutes
+**Salary:** Starting Salary $53,000.00  
+**Benefits:** State Employment (includes, paid annual and sick leave, insurance benefits, retirement)  
+**Necessary Qualifications:** Certified by the Oklahoma CSR Board and as required by Oklahoma statutes  
+
 										
 
 **Applications:**   
