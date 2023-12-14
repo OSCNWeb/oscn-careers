@@ -3,8 +3,13 @@ published: true
 layout: career
 jobid: '2023-12-14 15:13 -0600'
 publish: '2023-12-14 15:13 -0600'
-expire: '2023-12-14 15:13 -0600'
+expire: '2024-12-14 15:13 -0600'
 title: Certified Courtroom Reporter - Oklahoma
+category:
+  - csr
+sub_category:
+  - DISTRICT
+location: Oklahoma County
 ---
 **Position:** Certified Shorthand Reporter  
 **Location:** Juvenile Justice Center   
