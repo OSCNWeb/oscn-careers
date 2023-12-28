@@ -5,9 +5,9 @@ jobid: '2023-12-28 14:56 -0600'
 publish: '2023-12-28 14:56 -0600'
 expire: '2024-12-28 14:56 -0600'
 title: Staff Attorney
-sub_category:
-  - SUP
 location: Oklahoma City
+sub_category:
+  - AOC
 category:
   - aoc
 ---
