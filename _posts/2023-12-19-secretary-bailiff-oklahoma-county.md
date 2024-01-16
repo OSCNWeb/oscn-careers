@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2023-12-19 15:09 -0600'
 publish: '2023-12-19 15:09 -0600'
-expire: '2024-12-19 15:09 -0600'
+expire: '2024-01-15 15:09 -0600'
 title: Secretary / Bailiff - Oklahoma County
 category:
   - bailiffs
@@ -25,4 +25,3 @@ Special Judge Martha Oakes
 Using e-mail address [Martha.Oakes@oscn.net](mailto:Martha.Oakes@oscn.net)
 
 START DATE as soon as January 2, 2024
-
