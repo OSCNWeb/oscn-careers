@@ -43,9 +43,3 @@ This position will be the first point of contact for the Administrative Office o
 * Experience operating various types of office equipment (copier/printer, postage machine, shredder, etc.)
 
 _Responsibilities and skills listed above are essential to the position. Inability to perform these responsibilities with or without an accommodation may result in disqualification from the position._
-
-_The State of Oklahoma has an excellent benefits package including vacation, employee retirement and health benefit plans. Position open until filled. Submit resume and cover letter with availability date via email with Court Services Specialist in the message title to opportunities@oscn.net. The Supreme Court of Oklahoma Administrative Office of the Courts 2100 N. Lincoln Blvd., Suite 3 Oklahoma City, Oklahoma 73105._
-
-_As a condition of employment, any successful candidate who receives an offer of employment will be required to pass a background investigation._
-
-_The Oklahoma Supreme Court is an Equal Opportunity Employer._
