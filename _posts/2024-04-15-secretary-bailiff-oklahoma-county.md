@@ -13,7 +13,7 @@ location: Oklahoma County
 ---
 **Position:** Secretary/Bailiff  
 **Location:** Oklahoma County Courthouse  
-**Hiring Official:** Special Judge April Collins 
+**Hiring Official:** Special Judge April Collins   
 **Salary:** $42,000.00  
 **Benefits:** State Employment (includes, paid annual and sick leave, insurance benefits, retirement)
 
