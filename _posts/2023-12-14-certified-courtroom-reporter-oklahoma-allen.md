@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2023-12-14 15:13 -0600'
 publish: '2023-12-14 15:13 -0600'
-expire: '2024-12-14 15:13 -0600'
+expire: '2024-04-29 15:13 -0600'
 title: Certified Courtroom Reporter - Oklahoma
 category:
   - csr
@@ -29,4 +29,3 @@ Oklahoma City, OK  73118
 [kaitlyn.allen@oscn.net](mailto:kaitlyn.allen@oscn.net)
 
 **Start Date:** ASAP
-
