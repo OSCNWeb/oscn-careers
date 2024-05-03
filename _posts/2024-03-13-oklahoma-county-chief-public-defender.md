@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2024-03-13 09:33 -0500'
 publish: '2024-03-13 09:33 -0500'
-expire: '2024-09-13 09:33 -0500'
+expire: '2024-05-02 09:33 -0500'
 title: Oklahoma County Chief Public Defender
 category:
   - county
