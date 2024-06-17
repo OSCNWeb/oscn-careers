@@ -4,7 +4,7 @@ layout: career
 jobid: '2024-06-17 09:55 -0500'
 publish: '2024-06-17 09:55 -0500'
 expire: '2024-06-17 09:55 -0500'
-title: Secretary / Bailiff - Oklahoma County - Palumbo
+title: Secretary / Bailiff - Oklahoma County
 ---
 **Position:** Secretary/Bailiff  
 **Location:** Oklahoma County Courthouse  
