@@ -11,7 +11,7 @@ sub_category:
   - AOC
 location: Oklahoma City
 ---
-**Program Description: **
+**Program Description:**
 
 The CIP is funded through a Federal Grant authorized under Section 438 of the Social Security Act, as amended by Public Law (P.L.) 116-260, Section 305 of title III of Division CC of the Consolidated Appropriations Act, 2021 with the Department of Health and Human Services. The program is under the highest court in each state; therefore, it operates under the Supreme Court of Oklahoma in the Administrative Office of the Courts (AOC). 
 
