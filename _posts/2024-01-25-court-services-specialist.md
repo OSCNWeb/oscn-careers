@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2024-01-25 13:35 -0600'
 publish: '2024-01-25 13:35 -0600'
-expire: '2024-07-25 13:35 -0600'
+expire: '2024-07-16 13:35 -0600'
 title: Court Services Specialist
 sub_category:
   - AOC
