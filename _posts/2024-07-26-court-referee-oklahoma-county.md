@@ -4,7 +4,7 @@ layout: career
 jobid: '2024-07-26 14:34 -0500'
 publish: '2024-07-26 14:34 -0500'
 expire: '2025-07-26 14:34 -0500'
-title: Court Referee - Oklahoma County
+title: Court Referee
 category:
   - District
 sub_category:
@@ -25,8 +25,8 @@ Applications are now being accepted for a new full-time Court Referee.
 1. A one-page letter expressing the applicant’s reasons for applying for the position.
 2. A resume, including employment history.
 3. Three references—one from each category is suggested: 
- - A current or former employer, indicating whether we may contact them.
- - A judge or hearing officer, not in Oklahoma County District Court, before whom the applicant has appeared.
+  - A current or former employer, indicating whether we may contact them.
+  - A judge or hearing officer, not in Oklahoma County District Court, before whom the applicant has appeared.
   - An attorney on the opposing side of a case.
 4. An OSBI background report including, name based, sex offender, and Marry Rippy violent offender reports. (Form may be picked up in Court Administrator’s Office. Applicant is responsible for payment to the OSBI.)
 5. Signed release allowing the Oklahoma Bar Association to release all information related to Bar Complaints. (Form may be picked up in Court Administrator’s Office.)
