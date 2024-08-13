@@ -1,9 +1,9 @@
 ---
 published: true
 layout: career
-jobid: '2024-08-13 14:12 -0500'
-publish: '2024-08-13 14:12 -0500'
-expire: '2024-12-13 14:12 -0500'
+jobid: '2024-08-13 12:12 -0500'
+publish: '2024-08-13 12:12 -0500'
+expire: '2024-12-13 12:12 -0500'
 title: Certified Shorthand Reporter
 category:
   - csr
