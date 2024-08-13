@@ -3,12 +3,12 @@ published: true
 layout: career
 jobid: '2024-08-13 14:12 -0500'
 publish: '2024-08-13 14:12 -0500'
-expire: '2024-12-13 14:12 -0500'
+expire: '2024-08-13 14:12 -0500'
 title: Certified Shorthand Reporter
-sub_category:
-  - DISTRICT
 category:
   - csr
+sub_category:
+  - DISTRICT
 location: Oklahoma County
 ---
 **Position:** Certified Shorthand Reporter  
