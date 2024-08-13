@@ -26,5 +26,4 @@ Oklahoma City, OK  73102
 Phone 405-713-1171  
 [Don.Andrews@oscn.net](mailto:Don.Andrews@oscn.net)
 
-
 **Start Date:** ASAP
