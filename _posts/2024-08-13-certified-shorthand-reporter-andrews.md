@@ -4,7 +4,7 @@ layout: career
 jobid: '2024-08-13 14:12 -0500'
 publish: '2024-08-13 14:12 -0500'
 expire: '2024-08-13 14:12 -0500'
-title: Certified Shorthand Reporter - Andrews
+title: Certified Shorthand Reporter
 ---
 **Position:** Certified Shorthand Reporter  
 **Location:** Courthouse  			
