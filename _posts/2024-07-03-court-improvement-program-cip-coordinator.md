@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2024-07-03 11:21 -0500'
 publish: '2024-07-03 11:21 -0500'
-expire: '2025-07-03 11:21 -0500'
+expire: '2024-08-15 11:21 -0500'
 title: Court Improvement Program (CIP) Coordinator
 category:
   - aoc
