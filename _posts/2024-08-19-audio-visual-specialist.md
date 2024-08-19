@@ -11,11 +11,11 @@ category:
   - mis
 location: Oklahoma City
 ---
-Reporting to the Technical Services Manager, the Audio Visual Specialist (AVS) is responsible for operation and support of all audiovisual (AV) services and equipment within the Oklahoma State Courts Network (OSCN) located across all 77 counties. Administrative Offices of the Court (AOC) and Management Information Services (MIS) departments customer base consists of Supreme Court Justices, District Court Judges, Court Clerks, and AOC/MIS Personnel. 
+Reporting to the Technical Services Manager, the **Audio Visual Specialist** (AVS) is responsible for operation and support of all audiovisual (AV) services and equipment within the Oklahoma State Courts Network (OSCN) located across all 77 counties. Administrative Offices of the Court (AOC) and Management Information Services (MIS) departments customer base consists of Supreme Court Justices, District Court Judges, Court Clerks, and AOC/MIS Personnel. 
 
-**Salary Range:** $55,000.00 - $72,500.00 (Salary commensurate with Education/Experience)
+Salary Range: $55,000.00 - $72,500.00 (Salary commensurate with Education/Experience)
 
-**Position Description: **
+**Position Description:**
 
 The AV team provides a full range of services for conferences and events throughout the year such as conferences and training sessions provide content for judicial education purposes, streaming live events such as Supreme Court Oral Arguments for public viewing, and video conferencing in the courtrooms across the state. The AVS is responsible for AV room systems to allow for county court functions such as remote court reporting, hearings, and video arraignments. The position will require working with departments across the organization. Communication with vendors and event staff is also required. Strong principles of leadership, dedication and professionalism are required skills.
 
