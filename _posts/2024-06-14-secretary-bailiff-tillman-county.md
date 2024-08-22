@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2024-06-14 10:35 -0500'
 publish: '2024-06-14 10:35 -0500'
-expire: '2026-06-14 10:35 -0500'
+expire: '2024-08-21 10:35 -0500'
 title: Secretary / Bailiff - Tillman County
 category:
   - bailiffs
