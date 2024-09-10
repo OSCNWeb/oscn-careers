@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2024-08-19 16:20 -0500'
 publish: '2024-08-19 16:20 -0500'
-expire: '2024-12-19 16:20 -0500'
+expire: '2024-09-09 16:20 -0500'
 title: Audio Visual Specialist
 sub_category:
   - AOC
@@ -92,5 +92,4 @@ This job operates in a professional office environment. This role routinely uses
 
 While performing the duties of this job, the employee is regularly required to talk, hear, comprehend, observe, and evaluate. Specific vision abilities required by this job include close vision and ability to adjust focus. This position requires the ability to lift files, open filing cabinets, operate standard office and computer equipment, and bend or stand on a step stool as necessary. 
 
-Responsibilities and skills listed above are essential to the position. Inability to perform these responsibilities with or without an accommodation may result in disqualification from the position. 
-
+Responsibilities and skills listed above are essential to the position. Inability to perform these responsibilities with or without an accommodation may result in disqualification from the position.
