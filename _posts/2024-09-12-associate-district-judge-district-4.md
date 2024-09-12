@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2024-09-12 13:57 -0500'
 publish: '2024-09-12 13:57 -0500'
-expire: '2024-09-12 13:57 -0500'
+expire: '2024-10-12 13:57 -0500'
 title: Associate District Judge - District 4
 category:
   - District
@@ -24,4 +24,4 @@ Oklahoma Judicial Nominating Commission
 c/o Gina Antipov  
 Administrative Office of the Courts  
 2100 N. Lincoln Blvd., Suite 3  
-Oklahoma City, OK 73105  
+Oklahoma City, OK 73105
