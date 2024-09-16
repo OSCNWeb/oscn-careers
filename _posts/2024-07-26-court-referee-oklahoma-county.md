@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2024-07-26 14:34 -0500'
 publish: '2024-07-26 14:34 -0500'
-expire: '2025-07-26 14:34 -0500'
+expire: '2024-09-15 14:34 -0500'
 title: Court Referee
 category:
   - District
