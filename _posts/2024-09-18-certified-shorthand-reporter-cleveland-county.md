@@ -19,7 +19,7 @@ sub_category:
 **Necessary Qualifications:** Certified by the Oklahoma CSR Board and as required by Oklahoma statutes  
 **Resumes should be directed to:**  
 Associate District Judge Bethany Stanley  
-Via email: Beth.Stanley@oscn.net  
+Via email: [Beth.Stanley@oscn.net](mailto:Beth.Stanley@oscn.net)  
 **Phone:** (405)321-6251  
 
 **Start Date:** ASAP
