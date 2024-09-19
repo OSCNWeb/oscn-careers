@@ -11,14 +11,14 @@ sub_category:
   - AOC
 location: Oklahoma City
 ---
-**Position Description:**
+**Position Description:**  
 Reporting to the Director of Court Services, the Language Access Program Coordinator is responsible for the statewide coordination of language access services throughout the Oklahoma courts. Administrative responsibilities include managing the court interpreter training and testing program, assisting counties with the coordination of services, and developing and carrying out the requirements of the statewide language access plan. The Language Access Program Coordinator will occasionally provide interpreting and translating services in the Oklahoma courts. The Language Access Program Coordinator will work under the general direction of the Director of Court Services. This position will be on-site Monday – Friday and will require regular travel statewide. 
 
 **Salary Range:** $50,000.00 - $70,000.00 (Commensurate on education and experience)
 
 **FLSA Exemption:** Exempt
 
-**Responsibilities and Essential Functions will include (but not be limited to) the following:**
+**Responsibilities and Essential Functions will include (but not be limited to) the following:**  
 - Assists district courts with coordination of interpreter services and sourcing for rare languages.
 - Develops and implements policies regarding the translation of statewide forms, signage, notices, interpreter complaint procedures, and other services to enhance language access and comply with Title VI requirements.
 - Develops and maintains a statewide Language Access Plan for the Oklahoma courts.
@@ -36,7 +36,7 @@ Reporting to the Director of Court Services, the Language Access Program Coordin
 - Works with the Board of Examiners for Certified Courtroom Interpreters to develop and support statewide policies and procedures affecting interpreters, professional standards for interpreters, educational requirements for interpreters, and interpretation delivery models.
 - Performs other related duties as assigned.
 
-**Knowledge, Skill, and Ability Requirements:**
+**Knowledge, Skill, and Ability Requirements:**   
 - Knowledge of technologies which assist in providing language access services.
 - Knowledge and understanding of the statutes, rules, and ethical code for Oklahoma courtroom interpreters.
 - Skill in active listening.
@@ -51,7 +51,7 @@ Reporting to the Director of Court Services, the Language Access Program Coordin
 - Ability to exercise sound professional judgment and makes independent decisions.
 - Ability to travel throughout the State of Oklahoma.
 
-**Education and Experience Requirements:** 
+**Education and Experience Requirements:**  
 - Bachelor's degree in public administration, social sciences, language, or related field, preferred.
 - A minimum of five (5) years professional experience coordinating or managing programs, preferred.
 - Federal or state court language interpreter credential is preferred; must be willing to obtain Oklahoma Courtroom Interpreter certification.
