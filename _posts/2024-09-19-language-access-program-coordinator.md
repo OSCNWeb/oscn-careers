@@ -55,3 +55,9 @@ Reporting to the Director of Court Services, the Language Access Program Coordin
 - Bachelor's degree in public administration, social sciences, language, or related field, preferred.
 - A minimum of five (5) years professional experience coordinating or managing programs, preferred.
 - Federal or state court language interpreter credential is preferred; must be willing to obtain Oklahoma Courtroom Interpreter certification.
+
+**Working Conditions:**  
+Duties are performed primarily indoors in mostly office settings. Physical and psychological requirements include ability to sit, operate office equipment, move about an office area; ability to see, hear, speak, and communicate with individuals and groups; ability to interact with court employees, including emotional parties, on a regular basis; ability to read, ability to comprehend and follow instructions; ability to remain calm and in control in varied situations. May require sitting for extended periods of time. 
+
+Responsibilities and skills listed above are essential to the position. Inability to perform these responsibilities with or without a reasonable accommodation may result in disqualification from the position.
+
