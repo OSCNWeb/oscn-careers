@@ -4,7 +4,7 @@ layout: career
 jobid: '2024-09-19 09:46 -0500'
 publish: '2024-09-19 09:46 -0500'
 expire: '2025-09-19 09:46 -0500'
-title: Certified Shorthand Reporter - Coal County
+title: Certified Shorthand Reporter
 category:
   - csr
 sub_category:
