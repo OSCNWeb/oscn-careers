@@ -15,7 +15,7 @@ location: Coal County
 **Location:** Coal County Courthouse  
 **Hiring Official:** District Judge D. Clay Mowdy  
 **Salary:** Pursuant to State Statute  
-**Benefits:** State Employment  
+**Benefits:** State Employment - Court Reporter Rural Service Employment 
 **Necessary Qualifications:** Certified by the Oklahoma CSR Board and as required by Oklahoma Statute  
  
 **Resumes should be directed to**:  
@@ -24,4 +24,4 @@ Coal County Courthouse
 4 N. Main Street, Suite 10  
 Coalgate, Oklahoma 74538  
 or via email to [clay.mowdy@oscn.net](mailto:clay.mowdy@oscn.net) and  
-his Bailiff: [cheryl.flint@oscn.net](mailto:cheryl.flint@oscn.net)  
+his Bailiff: [cheryl.flint@oscn.net](mailto:cheryl.flint@oscn.net)
