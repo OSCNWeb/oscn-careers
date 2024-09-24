@@ -15,7 +15,7 @@ location: Coal County
 **Location:** Coal County Courthouse  
 **Hiring Official:** District Judge D. Clay Mowdy  
 **Salary:** Pursuant to State Statute  
-**Benefits:** State Employment - Court Reporter Rural Service Employment 
+**Benefits:** State Employment - Court Reporter Rural Service Employment Grant
 **Necessary Qualifications:** Certified by the Oklahoma CSR Board and as required by Oklahoma Statute  
  
 **Resumes should be directed to**:  
