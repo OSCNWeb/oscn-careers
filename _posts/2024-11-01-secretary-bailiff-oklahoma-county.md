@@ -12,7 +12,7 @@ sub_category:
 location: Oklahoma County
 ---
 **Position:** Secretary/Bailiff  
-**Location:** Oklahoma County Courthouse	  	
+**Location:** Oklahoma County Courthouse  	  	
 **Hiring Official:** Special Judge Michelle C. Harrington  
 **Salary:** $42,000.00  
 **Benefits:** State Employment (includes, paid annual and sick leave, insurance benefits, retirement)  
@@ -25,4 +25,3 @@ at [Shel.Harrington@oscn.net](mailto:Shel.Harrington@oscn.net)
 (405)713-7121 
 
 **START DATE as soon as December 1, 2024**
-
