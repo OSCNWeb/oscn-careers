@@ -3,7 +3,7 @@ published: true
 layout: career
 jobid: '2024-09-19 16:24 -0500'
 publish: '2024-09-19 16:24 -0500'
-expire: '2025-09-19 16:24 -0500'
+expire: '2024-11-04 16:24 -0500'
 title: Language Access Program Coordinator
 category:
   - aoc
@@ -60,4 +60,3 @@ Reporting to the Director of Court Services, the Language Access Program Coordin
 Duties are performed primarily indoors in mostly office settings. Physical and psychological requirements include ability to sit, operate office equipment, move about an office area; ability to see, hear, speak, and communicate with individuals and groups; ability to interact with court employees, including emotional parties, on a regular basis; ability to read, ability to comprehend and follow instructions; ability to remain calm and in control in varied situations. May require sitting for extended periods of time. 
 
 Responsibilities and skills listed above are essential to the position. Inability to perform these responsibilities with or without a reasonable accommodation may result in disqualification from the position.
-
