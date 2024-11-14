@@ -44,7 +44,7 @@ The Administrative Office of the Courts (AOC) is seeking a self-motivated person
 - Knowledge of Windows-based infrastructure technologies, including file and print services, new technology file system (NTFS) share and folder permissions, and domain name server (DNS) as it relates to field infrastructure.
 - Knowledge of wireless, WAN/LAN technologies, printers, and cabling standards.
 
-**Education and Experience Requirements: **
+**Education and Experience Requirements:**
 
 - Two (2) years of information and technology employment experience providing successful systems support, required.
 - A four-year college degree: or the successful completion of a technical course curriculum from an accredited information and technology institution, preferred.
