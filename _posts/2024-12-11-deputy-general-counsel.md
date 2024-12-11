@@ -57,6 +57,6 @@ While performing the duties of this job, the employee is regularly required to t
 
 Responsibilities and skills listed above are essential to the position. Inability to perform these responsibilities with or without an accommodation may result in disqualification from the position. 
 
-**Eligibility: **
+**Eligibility:**  
 Eligibility to work in the United States is required. The employer will not sponsor a work visa (H-1B, etc.) to fill this position.
 
