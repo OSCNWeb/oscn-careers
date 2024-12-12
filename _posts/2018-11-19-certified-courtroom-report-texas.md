@@ -9,7 +9,7 @@ category:
 sub_category:
   - DISTRICT
 location: Texas County
-expire: '2024-12-12 12:01 -0600'
+expire: '2025-01-12 12:01 -0600'
 ---
 **Position:** Certified Shorthand Reporter – (Full Time)  
 **Location:** Texas County  
