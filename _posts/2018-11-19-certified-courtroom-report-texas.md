@@ -9,6 +9,7 @@ category:
 sub_category:
   - DISTRICT
 location: Texas County
+expire: '2024-12-12 12:01 -0600'
 ---
 **Position:** Certified Shorthand Reporter – (Full Time)  
 **Location:** Texas County  
@@ -24,6 +25,5 @@ Texas County Courthouse
 319 N. Main Street, Suite 302  
 PO Box 551  
 Guymon, OK  73942  
-[Jon.parsley@oscn.net](mailto:Jon.parsley@oscn.net)  
-(Phone) (580) 338-3412  
-
+[careers@oscn.net](mailto:careers@oscn.net?subject=texas-county-reporter)  
+(Phone) (580) 338-3412
