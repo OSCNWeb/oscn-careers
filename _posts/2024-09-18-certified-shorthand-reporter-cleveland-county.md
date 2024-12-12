@@ -19,8 +19,7 @@ sub_category:
 **Necessary Qualifications:** Certified by the Oklahoma CSR Board and as required by Oklahoma statutes  
 **Resumes should be directed to:**  
 Associate District Judge Bethany Stanley  
-Via email: [Beth.Stanley@oscn.net](mailto:Beth.Stanley@oscn.net)  
+Via email: [careers@oscn.net](mailto:careers@oscn.net?subject=cleveland-county-reporter)
 **Phone:** (405)321-6251  
 
 **Start Date:** ASAP
-
