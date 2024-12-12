@@ -9,6 +9,7 @@ category:
 sub_category:
   - DISTRICT
 location: Bryan County
+expire: '2024-12-12 09:27 -0600'
 ---
 **Job Opening:** Certified Shorthand Reporter, Full-time or Part-time  
 **Location:** Bryan County Courthouse  
@@ -22,5 +23,4 @@ District Judge Mark R. Campbell
 Bryan County Courthouse  
 402 W. Evergreen  
 Durant, Oklahoma 74701  
-Or email to [Mark.Campbell@oscn.net](mailto:Mark.Campbell@oscn.net)
-
+Or email to [careers@oscn.net](mailto:careers@oscn.net?subject=bryan-county-reporter)
