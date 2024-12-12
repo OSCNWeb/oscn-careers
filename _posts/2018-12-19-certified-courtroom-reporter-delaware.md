@@ -24,4 +24,4 @@ Delaware County Courthouse
 327 S. 5th St.    
 Jay, Oklahoma 74346  
 918-253-4329  
-Or email to [Dave.Crutchfield@oscn.net](mailto:Dave.Crutchfield@oscn.net)
+Or email to [careers@oscn.net](mailto:careers@oscn.net?subject=delaware-county-reporter)
