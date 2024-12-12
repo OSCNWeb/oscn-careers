@@ -24,5 +24,5 @@ Kim Hall, Court Administrator
 Tulsa County Courthouse  
 500 S. Denver, Room 637  
 Tulsa, OK 74103  
-[kim.hall@oscn.net](mailto:kim.hall@oscn.net)  
-(918) 596-5400  
+[careers@oscn.net](mailto:careers@oscn.net?subject=tulsa-county-reporter)  
+(918) 596-5400
