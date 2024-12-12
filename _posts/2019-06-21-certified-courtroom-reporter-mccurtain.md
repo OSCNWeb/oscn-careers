@@ -23,4 +23,4 @@ category:
 Judge Emily Maxwell  
 108 N. Central   
 Idabel, Oklahoma    
-[Emily.Herron@oscn.net](mailto:Emily.Herron@oscn.net)
+[careers@oscn.net](mailto:careers@oscn.net?subject=mccurtain-county-reporter)
