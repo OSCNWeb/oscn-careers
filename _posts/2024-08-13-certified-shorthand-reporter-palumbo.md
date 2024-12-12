@@ -24,6 +24,6 @@ District Judge Amy Palumbo
 321 Park Avenue, Room 809  
 Oklahoma City, OK 73102  
 Phone 405-713-1147  
-[Amy.Palumbo@oscn.net](mailto:Amy.Palumbo@oscn.net)
+[careers@oscn.net](mailto:careers@oscn.net?oklahoma=bryan-county-reporter)
 
 **Start Date:** ASAP
