@@ -23,5 +23,4 @@ District Judge D. Clay Mowdy
 Coal County Courthouse  
 4 N. Main Street, Suite 10  
 Coalgate, Oklahoma 74538  
-or via email to [clay.mowdy@oscn.net](mailto:clay.mowdy@oscn.net) and  
-his Bailiff: [cheryl.flint@oscn.net](mailto:cheryl.flint@oscn.net)
+or via email to [careers@oscn.net](mailto:careers@oscn.net?subject=coal-county-reporter)
