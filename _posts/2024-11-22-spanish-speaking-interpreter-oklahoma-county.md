@@ -35,6 +35,5 @@ Renee Troxell
 Trial Court Administrator  
 321 Park Avenue, Room 322  
 Oklahoma City, OK 73102  
-e-mail address: [renee.troxell@oscn.net](mailto:renee.troxell@oscn.net)
-(405) 713-1432  
-
+e-mail address: [careers@oscn.net](mailto:careers@oscn.net?subject=cleveland-county-spanish-speaking-interpreter)
+(405) 713-1432
