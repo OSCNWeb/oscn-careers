@@ -21,5 +21,5 @@ location: Kingfisher and Blaine Counties
 District Judge Paul K. Woodward   
 114 W. Broadway   
 Enid, OK 73701   
-[cindy.tubbs@oscn.net](mailto:cindy.tubbs@oscn.net)  
+[careers@oscn.net](mailto:careers@oscn.net?subject=kingfisher-county-reporter)  
 580-237-5031
