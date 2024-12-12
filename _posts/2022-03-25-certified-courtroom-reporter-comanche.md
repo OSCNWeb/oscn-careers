@@ -24,6 +24,6 @@ Lawton, OK 73507
 315 SW 5th Street  
 Lawton, OK 73501  
 (580) 581-4595  
-[emmit.tayloe@oscn.net](mailto:emmit.tayloe@oscn.net) 
+[careers@oscn.net](mailto:careers@oscn.net?subject=bryan-county-reporter)
 
 **Start Date:  Immediately**
