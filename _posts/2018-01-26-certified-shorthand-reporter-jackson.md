@@ -23,5 +23,5 @@ District Judge Brad Leverett<br>
 Jackson County Courthouse<br>
 101 N. Main Street, Suite 305<br>
 Altus, OK  73521<br>
-<a href="mailto:careers@oscn.net?subject=jackson-county-reporter" target="_blank">careers@oscn.ne</a><br>
+<a href="mailto:careers@oscn.net?subject=jackson-county-reporter" target="_blank">careers@oscn.net</a><br>
 (Phone)  (580) 482-1980</p>
