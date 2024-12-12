@@ -23,12 +23,10 @@ location: Marshall County
 
 Associate District Judge Greg Johnson  
 100 Plaza, Rm 206  
-Madill, OK 73446 or [Gregory.Johnson@oscn.net](mailto:Gregory.Johnson@oscn.net)  
+Madill, OK 73446 or [careers@oscn.net](mailto:careers@oscn.net?subject=marshall-county-reporter)  
 
 **And/Or:**  
 
 District Judge Wallace Coppedge  
 100 Plaza, Rm 204  
-Madill, OK 73446 or [Wallace.Coppedge@oscn.net](mailto:Wallace.Coppedge@oscn.net)  
-
-
+Madill, OK 73446 or [careers@oscn.net](mailto:careers@oscn.net?subject=marshall-county-reporter)  
