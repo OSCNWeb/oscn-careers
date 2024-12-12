@@ -26,6 +26,6 @@ Judge Tim King
 220 State Street  
 Muskogee, OK 74401  
 (918) 687-6388  
-[timothy.king@oscn.net](mailto:timothy.king@oscn.net)   
+[careers@oscn.net](mailto:careers@oscn.net?subject=muskogee-county-reporter)   
 
 **Start Date:** Immediately
