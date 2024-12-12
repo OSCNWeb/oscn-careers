@@ -24,4 +24,4 @@ Special Judge
 Okmulgee County Courthouse  
 314 West 7th Street  
 Okmulgee, Oklahoma  74447  
-[deborah.reheard@oscn.net](mailto:deborah.reheard@oscn.net)
+[careers@oscn.net](mailto:careers@oscn.net?subject=okmulgee-county-reporter)
