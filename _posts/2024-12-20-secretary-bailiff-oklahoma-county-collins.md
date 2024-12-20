@@ -21,6 +21,6 @@ category:
 
 **Applications:** Resumes should be sent to:  
 Special Judge April Collins  
-Using e-mail address [careers@oscn.net](mailto:careers@oscn.net?subject=Bailiff Oklahoma County Judge Collins)
+Using e-mail address [careers@oscn.net](mailto:careers@oscn.net?subject=Bailiff%20Oklahoma%20County%20Judge%20Collins)
 
 **START DATE as soon as January 15, 2025**
