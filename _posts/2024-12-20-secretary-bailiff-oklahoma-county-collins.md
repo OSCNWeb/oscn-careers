@@ -3,8 +3,13 @@ published: true
 layout: career
 jobid: '2024-12-20 13:57 -0600'
 publish: '2024-12-20 13:57 -0600'
-expire: '2024-12-20 13:57 -0600'
+expire: '2025-01-20 13:57 -0600'
 title: Secretary / Bailiff - Oklahoma County - Collins
+location: Oklahoma County
+sub_category:
+  - DISTRICT
+category:
+  - bailiffs
 ---
 **Position:** Secretary/Bailiff  
 **Location:** Oklahoma County Courthouse  
