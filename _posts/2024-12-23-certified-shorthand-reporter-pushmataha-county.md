@@ -18,7 +18,8 @@ location: Pushmataha County
 **Benefits:** State Employment Benefits (Includes paid annual and sick leave, insurance benefits, and retirement)  
 **Necessary Qualifications:** Certified by the Oklahoma CSR Board and as required by Oklahoma statutes  
 
+
 **Resumes should be mailed to:**  
 District Judge Emily Maxwell  
 108 North Central  
-Idabel, OK 74745  
+Idabel, OK 74745
